@@ -1,0 +1,3196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="levelisometric" width="300" height="300" tilewidth="64" tileheight="32">
+ <tileset firstgid="1" name="advertising_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/advertising_01.png" width="512" height="2048"/>
+ </tileset>
+ <tileset firstgid="129" name="appliances_cooking_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/appliances_cooking_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="193" name="appliances_laundry_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/appliances_laundry_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="257" name="appliances_refrigeration_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/appliances_refrigeration_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="321" name="appliances_television_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/appliances_television_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="385" name="blends_grassoverlays_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/blends_grassoverlays_01.png" width="512" height="2560"/>
+ </tileset>
+ <tileset firstgid="545" name="blends_natural_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/blends_natural_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="625" name="blends_natural_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/blends_natural_02.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="705" name="blends_street_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/blends_street_01.png" width="512" height="2560"/>
+ </tileset>
+ <tileset firstgid="865" name="blends_streetoverlays_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/blends_streetoverlays_01.png" width="512" height="2560"/>
+ </tileset>
+ <tileset firstgid="1025" name="blueprints_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/blueprints_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="1089" name="camping_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/camping_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="1153" name="carpentry_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/carpentry_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="1217" name="carpentry_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/carpentry_02.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="1281" name="constructedobjects_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/constructedobjects_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="1345" name="construction_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/construction_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="1409" name="crafted_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/crafted_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="1473" name="fencing_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fencing_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="1537" name="fencing_burnt_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fencing_burnt_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="1601" name="fixtures_bathroom_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fixtures_bathroom_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="1681" name="fixtures_bathroom_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fixtures_bathroom_02.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="1745" name="fixtures_counters_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fixtures_counters_01.png" width="512" height="2048"/>
+ </tileset>
+ <tileset firstgid="1873" name="fixtures_doors_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fixtures_doors_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="1937" name="fixtures_doors_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fixtures_doors_02.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="2001" name="fixtures_doors_fences_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fixtures_doors_fences_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="2065" name="fixtures_doors_frames_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fixtures_doors_frames_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="2129" name="fixtures_escalators_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fixtures_escalators_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="2193" name="fixtures_railings_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fixtures_railings_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="2257" name="fixtures_sinks_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fixtures_sinks_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="2321" name="fixtures_stairs_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fixtures_stairs_01.png" width="512" height="2048"/>
+ </tileset>
+ <tileset firstgid="2449" name="fixtures_windows_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fixtures_windows_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="2529" name="fixtures_windows_curtains_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fixtures_windows_curtains_01.png" width="512" height="2048"/>
+ </tileset>
+ <tileset firstgid="2657" name="fixtures_windows_curtains_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fixtures_windows_curtains_02.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="2721" name="fixtures_windows_detailing_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/fixtures_windows_detailing_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="2785" name="floors_burnt_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/floors_burnt_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="2849" name="floors_exterior_natural_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/floors_exterior_natural_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="2913" name="floors_exterior_street_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/floors_exterior_street_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="2977" name="floors_exterior_tilesandstone_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/floors_exterior_tilesandstone_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3041" name="floors_interior_carpet_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/floors_interior_carpet_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3105" name="floors_interior_tilesandwood_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/floors_interior_tilesandwood_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3169" name="floors_rugs_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/floors_rugs_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3233" name="furniture_bedding_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/furniture_bedding_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3297" name="furniture_seating_indoor_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/furniture_seating_indoor_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3361" name="furniture_seating_indoor_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/furniture_seating_indoor_02.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3425" name="furniture_seating_indoor_03" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/furniture_seating_indoor_03.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3489" name="furniture_seating_outdoor_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/furniture_seating_outdoor_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3553" name="furniture_shelving_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/furniture_shelving_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3617" name="furniture_storage_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/furniture_storage_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3681" name="furniture_storage_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/furniture_storage_02.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3745" name="furniture_tables_high_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/furniture_tables_high_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3809" name="furniture_tables_low_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/furniture_tables_low_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3873" name="industry_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/industry_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="3937" name="industry_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/industry_02.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="4001" name="industry_bunker_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/industry_bunker_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="4081" name="industry_railroad_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/industry_railroad_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="4145" name="industry_railroad_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/industry_railroad_02.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="4209" name="industry_railroad_03" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/industry_railroad_03.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="4273" name="industry_railroad_04" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/industry_railroad_04.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="4337" name="industry_railroad_05" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/industry_railroad_05.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="4401" name="industry_trucks_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/industry_trucks_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="4481" name="industry_trucks_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/industry_trucks_02.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="4561" name="lighting_indoor_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/lighting_indoor_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="4625" name="lighting_outdoor_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/lighting_outdoor_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="4689" name="location_ business_machinery" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_ business_machinery.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="4753" name="location_barn_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_barn_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="4817" name="location_business_bank_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_business_bank_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="4881" name="location_business_machinery" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_business_machinery.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="4945" name="location_business_office_generic_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_business_office_generic_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="5009" name="location_community_cemetary_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_community_cemetary_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="5089" name="location_community_church_small_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_community_church_small_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="5153" name="location_community_church_small_02" tilewidth="64" tileheight="128">
+  <image source="location_community_church_small_02.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="5217" name="location_community_medical_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_community_medical_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="5281" name="location_community_park_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_community_park_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="5361" name="location_community_police_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_community_police_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="5425" name="location_community_school_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_community_school_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="5489" name="location_farm_accesories_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_farm_accesories_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="5569" name="location_hospitality_sunstarmotel_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_hospitality_sunstarmotel_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="5633" name="location_hospitality_sunstarmotel_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_hospitality_sunstarmotel_02.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="5697" name="location_restaurant_bar_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_restaurant_bar_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="5761" name="location_restaurant_diner_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_restaurant_diner_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="5825" name="location_restaurant_generic_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_restaurant_generic_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="5889" name="location_restaurant_pie_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_restaurant_pie_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="5953" name="location_restaurant_pileocrepe_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_restaurant_pileocrepe_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="6017" name="location_restaurant_pizzawhirled_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_restaurant_pizzawhirled_01.png" width="512" height="2048"/>
+ </tileset>
+ <tileset firstgid="6145" name="location_restaurant_seahorse_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_restaurant_seahorse_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="6209" name="location_restaurant_spiffos_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_restaurant_spiffos_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="6289" name="location_restaurant_spiffos_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_restaurant_spiffos_02.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="6353" name="location_services_beauty_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_services_beauty_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="6433" name="location_sewer_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_sewer_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="6497" name="location_shop_accessories_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_shop_accessories_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="6561" name="location_shop_accessories_genericsigns_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_shop_accessories_genericsigns_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="6625" name="location_shop_bargNclothes_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_shop_bargNclothes_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="6689" name="location_shop_fossoil_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_shop_fossoil_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="6753" name="location_shop_gas2go_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_shop_gas2go_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="6817" name="location_shop_generic_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_shop_generic_01.png" width="512" height="2048"/>
+ </tileset>
+ <tileset firstgid="6945" name="location_shop_greenes_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_shop_greenes_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="7025" name="location_shop_zippee_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_shop_zippee_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="7089" name="location_trailer_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_trailer_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="7153" name="location_trailer_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/location_trailer_02.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="7217" name="overlay_blood_floor_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/overlay_blood_floor_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="7281" name="overlay_blood_wall_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/overlay_blood_wall_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="7345" name="overlay_graffiti_wall_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/overlay_graffiti_wall_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="7409" name="overlay_grime_floor_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/overlay_grime_floor_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="7473" name="overlay_grime_wall_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/overlay_grime_wall_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="7537" name="overlay_messages_wall_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/overlay_messages_wall_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="7601" name="recreational_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/recreational_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="7665" name="recreational_sports_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/recreational_sports_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="7729" name="roofs_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/roofs_01.png" width="512" height="1920"/>
+ </tileset>
+ <tileset firstgid="7849" name="roofs_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/roofs_02.png" width="512" height="1920"/>
+ </tileset>
+ <tileset firstgid="7969" name="roofs_03" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/roofs_03.png" width="512" height="2048"/>
+ </tileset>
+ <tileset firstgid="8097" name="roofs_04" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/roofs_04.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="8177" name="roofs_05" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/roofs_05.png" width="512" height="1920"/>
+ </tileset>
+ <tileset firstgid="8297" name="roofs_accents_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/roofs_accents_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="8377" name="roofs_burnt_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/roofs_burnt_01.png" width="512" height="1920"/>
+ </tileset>
+ <tileset firstgid="8497" name="security_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/security_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="8577" name="signs_miscbrands_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/signs_miscbrands_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="8641" name="signs_one-off_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/signs_one-off_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="8705" name="street_curbs_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/street_curbs_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="8785" name="street_decoration_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/street_decoration_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="8849" name="street_roadsigns_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/street_roadsigns_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="8929" name="street_trafficlines_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/street_trafficlines_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="8993" name="trash_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/trash_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="9057" name="trash_walls_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/trash_walls_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="9121" name="trashcontainers_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/trashcontainers_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="9185" name="vegetation_farm_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/vegetation_farm_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="9249" name="vegetation_foliage_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/vegetation_foliage_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="9313" name="vegetation_groundcover_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/vegetation_groundcover_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="9377" name="vegetation_indoor_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/vegetation_indoor_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="9441" name="vegetation_ornamental_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/vegetation_ornamental_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="9505" name="vegetation_trees_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/vegetation_trees_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="9569" name="vegetation_wall_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/vegetation_wall_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="9633" name="walls_burnt_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_burnt_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="9697" name="walls_burnt_roofs_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_burnt_roofs_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="9777" name="walls_commercial_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_commercial_01.png" width="512" height="2048"/>
+ </tileset>
+ <tileset firstgid="9905" name="walls_commercial_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_commercial_02.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="9985" name="walls_commercial_03" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_commercial_03.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="10049" name="walls_decoration_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_decoration_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="10113" name="walls_detailing_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_detailing_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="10177" name="walls_exterior_house_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_exterior_house_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="10241" name="walls_exterior_house_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_exterior_house_02.png" width="512" height="2048"/>
+ </tileset>
+ <tileset firstgid="10369" name="walls_exterior_roofs_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_exterior_roofs_01.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="10449" name="walls_exterior_roofs_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_exterior_roofs_02.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="10529" name="walls_exterior_roofs_03" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_exterior_roofs_03.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="10609" name="walls_exterior_roofs_04" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_exterior_roofs_04.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="10689" name="walls_exterior_roofs_05" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_exterior_roofs_05.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="10769" name="walls_exterior_roofs_06" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_exterior_roofs_06.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="10833" name="walls_exterior_roofs_07" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_exterior_roofs_07.png" width="512" height="1280"/>
+ </tileset>
+ <tileset firstgid="10913" name="walls_exterior_wooden_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_exterior_wooden_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="10977" name="walls_exterior_wooden_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_exterior_wooden_02.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="11041" name="walls_garage_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_garage_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="11105" name="walls_garage_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_garage_02.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="11169" name="walls_interior_bathroom_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_interior_bathroom_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="11233" name="walls_interior_detailing_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_interior_detailing_01.png" width="512" height="2048"/>
+ </tileset>
+ <tileset firstgid="11361" name="walls_interior_house_01" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_interior_house_01.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="11425" name="walls_interior_house_02" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_interior_house_02.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="11489" name="walls_interior_house_03" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_interior_house_03.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="11553" name="walls_interior_house_04" tilewidth="64" tileheight="128">
+  <image source="../../../../Downloads/ZomboidMapTools1_1/tools/Tiles/walls_interior_house_04.png" width="512" height="2048"/>
+ </tileset>
+ <layer name="0_Floor" width="300" height="300">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20KP6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAlwF+iwAB
+  </data>
+ </layer>
+ <layer name="0_FloorOverlay" width="300" height="300">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20KP6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAlwF+iwAB
+  </data>
+ </layer>
+ <layer name="0_FloorOverlay2" width="300" height="300">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20KP6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAlwF+iwAB
+  </data>
+ </layer>
+ <layer name="0_FloorOverlay3" width="300" height="300">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20KP6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAlwF+iwAB
+  </data>
+ </layer>
+ <layer name="0_FloorOverlay4" width="300" height="300">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20KP6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAlwF+iwAB
+  </data>
+ </layer>
+ <layer name="0_Vegetation" width="300" height="300">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20KP6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAlwF+iwAB
+  </data>
+ </layer>
+ <objectgroup name="0_Lots" width="300" height="300">
+  <object name="lot" type="../buildings/Lavatory.tbx" x="7360" y="4992" width="512" height="192"/>
+  <object name="lot" type="../buildings/Lavatory.tbx" x="7296" y="5984" width="512" height="192"/>
+ </objectgroup>
+ <objectgroup name="0_Object Layer 2" width="300" height="300" visible="0"/>
+ <bmp-settings version="1">
+  <rules-file file="../../../../Downloads/ZomboidMapTools1_1/tools/TileZed/WorldEd/Rules.txt"/>
+  <blends-file file="../../../../Downloads/ZomboidMapTools1_1/tools/TileZed/WorldEd/Blends.txt"/>
+  <aliases>
+   <alias name="lightgrass_n" tiles="blends_natural_01_056 blends_natural_01_060"/>
+   <alias name="lightgrass_w" tiles="blends_natural_01_057 blends_natural_01_061"/>
+   <alias name="lightgrass_e" tiles="blends_natural_01_058 blends_natural_01_062"/>
+   <alias name="lightgrass_s" tiles="blends_natural_01_059 blends_natural_01_063"/>
+   <alias name="medgrass_n" tiles="blends_natural_01_040 blends_natural_01_044"/>
+   <alias name="medgrass_w" tiles="blends_natural_01_041 blends_natural_01_045"/>
+   <alias name="medgrass_e" tiles="blends_natural_01_042 blends_natural_01_046"/>
+   <alias name="medgrass_s" tiles="blends_natural_01_043 blends_natural_01_047"/>
+   <alias name="darkgrass_n" tiles="blends_natural_01_024 blends_natural_01_028"/>
+   <alias name="darkgrass_w" tiles="blends_natural_01_025 blends_natural_01_029"/>
+   <alias name="darkgrass_e" tiles="blends_natural_01_026 blends_natural_01_030"/>
+   <alias name="darkgrass_s" tiles="blends_natural_01_027 blends_natural_01_031"/>
+   <alias name="sand_n" tiles="blends_natural_01_008 blends_natural_01_012"/>
+   <alias name="sand_w" tiles="blends_natural_01_009 blends_natural_01_013"/>
+   <alias name="sand_e" tiles="blends_natural_01_010 blends_natural_01_014"/>
+   <alias name="sand_s" tiles="blends_natural_01_011 blends_natural_01_015"/>
+   <alias name="medlonggrass" tiles="blends_grassoverlays_01_024 blends_grassoverlays_01_025 blends_grassoverlays_01_026 blends_grassoverlays_01_027 blends_grassoverlays_01_028 blends_grassoverlays_01_029"/>
+   <alias name="medmedgrass" tiles="blends_grassoverlays_01_032 blends_grassoverlays_01_033 blends_grassoverlays_01_034 blends_grassoverlays_01_035 blends_grassoverlays_01_036 blends_grassoverlays_01_037"/>
+   <alias name="medshortgrass" tiles="blends_grassoverlays_01_040 blends_grassoverlays_01_041 blends_grassoverlays_01_042 blends_grassoverlays_01_043 blends_grassoverlays_01_044 blends_grassoverlays_01_045"/>
+   <alias name="lightlonggrass" tiles="blends_grassoverlays_01_048 blends_grassoverlays_01_049 blends_grassoverlays_01_050 blends_grassoverlays_01_051 blends_grassoverlays_01_052 blends_grassoverlays_01_053"/>
+   <alias name="lightmedgrass" tiles="blends_grassoverlays_01_056 blends_grassoverlays_01_057 blends_grassoverlays_01_058 blends_grassoverlays_01_059 blends_grassoverlays_01_060 blends_grassoverlays_01_061"/>
+   <alias name="lightshortgrass" tiles="blends_grassoverlays_01_064 blends_grassoverlays_01_065 blends_grassoverlays_01_066 blends_grassoverlays_01_067 blends_grassoverlays_01_068 blends_grassoverlays_01_069"/>
+   <alias name="darklonggrass" tiles="blends_grassoverlays_01_000 blends_grassoverlays_01_001 blends_grassoverlays_01_002 blends_grassoverlays_01_003 blends_grassoverlays_01_004 blends_grassoverlays_01_005"/>
+   <alias name="darkmedgrass" tiles="blends_grassoverlays_01_008 blends_grassoverlays_01_009 blends_grassoverlays_01_010 blends_grassoverlays_01_011 blends_grassoverlays_01_012 blends_grassoverlays_01_013"/>
+   <alias name="darkshortgrass" tiles="blends_grassoverlays_01_016 blends_grassoverlays_01_017 blends_grassoverlays_01_018 blends_grassoverlays_01_019 blends_grassoverlays_01_020 blends_grassoverlays_01_021"/>
+   <alias name="street" tiles="blends_street_01_096 blends_street_01_101 blends_street_01_102 blends_street_01_103"/>
+   <alias name="street2" tiles="blends_street_01_080 blends_street_01_085 blends_street_01_086 blends_street_01_087"/>
+   <alias name="lightgravel" tiles="blends_street_01_048 blends_street_01_053 blends_street_01_054 blends_street_01_055"/>
+   <alias name="pothole" tiles="blends_street_01_016 blends_street_01_021"/>
+   <alias name="dirt" tiles="blends_natural_01_064 blends_natural_01_069 blends_natural_01_070 blends_natural_01_071"/>
+   <alias name="sand" tiles="blends_natural_01_000 blends_natural_01_005 blends_natural_01_006 blends_natural_01_007"/>
+   <alias name="sandblends" tiles="blends_natural_01_008 blends_natural_01_009 blends_natural_01_010 blends_natural_01_011 blends_natural_01_001 blends_natural_01_004 blends_natural_01_003 blends_natural_01_002"/>
+   <alias name="darkgrassblends" tiles="blends_natural_01_024 blends_natural_01_025 blends_natural_01_026 blends_natural_01_027 blends_natural_01_017 blends_natural_01_020 blends_natural_01_019 blends_natural_01_018"/>
+   <alias name="medgrassblends" tiles="blends_natural_01_040 blends_natural_01_041 blends_natural_01_042 blends_natural_01_043 blends_natural_01_033 blends_natural_01_036 blends_natural_01_035 blends_natural_01_034"/>
+   <alias name="lightgrassblends" tiles="blends_natural_01_056 blends_natural_01_057 blends_natural_01_058 blends_natural_01_059 blends_natural_01_049 blends_natural_01_052 blends_natural_01_051 blends_natural_01_059"/>
+   <alias name="darkgrass" tiles="blends_natural_01_016 blends_natural_01_021 blends_natural_01_022 blends_natural_01_023"/>
+   <alias name="medgrass" tiles="blends_natural_01_032 blends_natural_01_037 blends_natural_01_038 blends_natural_01_039"/>
+   <alias name="lightgrass" tiles="blends_natural_01_048 blends_natural_01_053 blends_natural_01_054 blends_natural_01_055"/>
+   <alias name="water" tiles="blends_natural_02_000 blends_natural_02_005 blends_natural_02_006 blends_natural_02_007"/>
+  </aliases>
+  <rules>
+   <rule label="Dark Grass" bitmapIndex="0" color="90 100 35" tileChoices="darkgrass" targetLayer="0_Floor" condition="0 0 0"/>
+   <rule label="Medium Grass" bitmapIndex="0" color="117 117 47" tileChoices="medgrass" targetLayer="0_Floor" condition="0 0 0"/>
+   <rule label="Light Grass" bitmapIndex="0" color="145 135 60" tileChoices="lightgrass" targetLayer="0_Floor" condition="0 0 0"/>
+   <rule label="Sand" bitmapIndex="0" color="210 200 160" tileChoices="sand" targetLayer="0_Floor" condition="0 0 0"/>
+   <rule label="Light Asphalt" bitmapIndex="0" color="165 160 140" tileChoices="lightgravel" targetLayer="0_Floor" condition="0 0 0"/>
+   <rule label="Dark Asphalt (main roads)" bitmapIndex="0" color="100 100 100" tileChoices="street2" targetLayer="0_Floor" condition="0 0 0"/>
+   <rule label="Medium Asphalt" bitmapIndex="0" color="120 120 120" tileChoices="street" targetLayer="0_Floor" condition="0 0 0"/>
+   <rule label="Gravel Dirt" bitmapIndex="0" color="140 70 15" tileChoices="floors_exterior_natural_01_012" targetLayer="0_Floor" condition="0 0 0"/>
+   <rule label="Dirt" bitmapIndex="0" color="120 70 20" tileChoices="dirt" targetLayer="0_Floor" condition="0 0 0"/>
+   <rule label="Dark Pothole" bitmapIndex="0" color="110 100 100" tileChoices="blends_street_01_000" targetLayer="0_Floor" condition="0 0 0"/>
+   <rule label="Light Pothole" bitmapIndex="0" color="130 120 120" tileChoices="pothole" targetLayer="0_Floor" condition="0 0 0"/>
+   <rule label="Water" bitmapIndex="0" color="0 138 255" tileChoices="water" targetLayer="0_Floor" condition="0 0 0"/>
+   <rule label="Trees" bitmapIndex="1" color="255 0 0" tileChoices="vegetation_trees_01_008 vegetation_trees_01_009 vegetation_trees_01_010 vegetation_trees_01_011" targetLayer="0_Vegetation" condition="0 0 0"/>
+   <rule label="Trees + Dark grass" bitmapIndex="1" color="127 0 0" tileChoices="vegetation_trees_01_008 vegetation_trees_01_009 vegetation_trees_01_010 vegetation_trees_01_011 darklonggrass darklonggrass darkmedgrass darkshortgrass" targetLayer="0_Vegetation" condition="0 0 0"/>
+   <rule label="" bitmapIndex="1" color="64 0 0" tileChoices="vegetation_trees_01_008 vegetation_trees_01_009 darklonggrass darklonggrass darkmedgrass darkshortgrass darkmedgrass darkshortgrass" targetLayer="0_Vegetation" condition="0 0 0"/>
+   <rule label="Grass (all types)" bitmapIndex="1" color="0 255 0" tileChoices="darklonggrass darkmedgrass darkshortgrass darklonggrass darkmedgrass darkshortgrass darklonggrass darkmedgrass darkshortgrass vegetation_groundcover_01_018 vegetation_groundcover_01_019 vegetation_groundcover_01_021 vegetation_groundcover_01_022 vegetation_groundcover_01_023" targetLayer="0_Vegetation" condition="90 100 35"/>
+   <rule label="Light long grass" bitmapIndex="1" color="0 255 0" tileChoices="lightshortgrass lightmedgrass lightlonggrass lightshortgrass lightmedgrass lightlonggrass lightshortgrass lightmedgrass lightlonggrass vegetation_groundcover_01_018 vegetation_groundcover_01_019 vegetation_groundcover_01_021 vegetation_groundcover_01_022 vegetation_groundcover_01_023" targetLayer="0_Vegetation" condition="145 135 60"/>
+   <rule label="" bitmapIndex="1" color="0 255 0" tileChoices="medshortgrass medmedgrass medlonggrass medshortgrass medmedgrass medlonggrass medshortgrass medmedgrass medlonggrass vegetation_groundcover_01_018 vegetation_groundcover_01_019 vegetation_groundcover_01_021 vegetation_groundcover_01_022 vegetation_groundcover_01_023" targetLayer="0_Vegetation" condition="117 117 47"/>
+   <rule label="" bitmapIndex="1" color="0 128 0" tileChoices="vegetation_trees_01_008 vegetation_trees_01_010 darklonggrass darklonggrass darkmedgrass darkshortgrass darklonggrass darklonggrass darklonggrass darkmedgrass darkmedgrass vegetation_trees_01_008 vegetation_trees_01_010 darklonggrass darklonggrass darkmedgrass darklonggrass darklonggrass darkmedgrass vegetation_groundcover_01_018 vegetation_groundcover_01_019 vegetation_groundcover_01_021 vegetation_groundcover_01_022 vegetation_groundcover_01_023" targetLayer="0_Vegetation" condition="0 0 0"/>
+   <rule label="" bitmapIndex="1" color="255 0 255" tileChoices="vegetation_foliage_01_008 vegetation_foliage_01_009 vegetation_foliage_01_010 vegetation_foliage_01_011 vegetation_foliage_01_012 vegetation_foliage_01_013 vegetation_foliage_01_014 vegetation_trees_01_008 vegetation_trees_01_009 vegetation_trees_01_010 vegetation_trees_01_011 darklonggrass darklonggrass darkmedgrass darkshortgrass" targetLayer="0_Vegetation" condition="0 0 0"/>
+  </rules>
+  <blends>
+   <blend targetLayer="0_FloorOverlay" mainTile="darkgrass" blendTile="darkgrass_n" dir="n" ExclusionList="water" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="darkgrass" blendTile="darkgrass_w" dir="w" ExclusionList="water" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="darkgrass" blendTile="darkgrass_e" dir="e" ExclusionList="water" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="darkgrass" blendTile="darkgrass_s" dir="s" ExclusionList="water" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="darkgrass" blendTile="blends_natural_01_017" dir="nw" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="darkgrass" blendTile="blends_natural_01_020" dir="ne" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="darkgrass" blendTile="blends_natural_01_019" dir="sw" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="darkgrass" blendTile="blends_natural_01_018" dir="se" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay" mainTile="medgrass" blendTile="medgrass_n" dir="n" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="medgrass" blendTile="medgrass_w" dir="w" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="medgrass" blendTile="medgrass_e" dir="e" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="medgrass" blendTile="medgrass_s" dir="s" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay" mainTile="medgrass" blendTile="blends_natural_01_033" dir="nw" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="medgrass" blendTile="blends_natural_01_036" dir="ne" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="medgrass" blendTile="blends_natural_01_035" dir="sw" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="medgrass" blendTile="blends_natural_01_034" dir="se" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay" mainTile="lightgrass" blendTile="lightgrass_n" dir="n" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="lightgrass" blendTile="lightgrass_w" dir="w" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="lightgrass" blendTile="lightgrass_e" dir="e" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="lightgrass" blendTile="lightgrass_s" dir="s" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay" mainTile="lightgrass" blendTile="blends_natural_01_049" dir="nw" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="lightgrass" blendTile="blends_natural_01_052" dir="ne" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="lightgrass" blendTile="blends_natural_01_051" dir="sw" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="lightgrass" blendTile="blends_natural_01_059" dir="se" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay" mainTile="sand" blendTile="sand_n" dir="n" ExclusionList="darkgrass medgrass lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="sand" blendTile="sand_w" dir="w" ExclusionList="darkgrass medgrass lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="sand" blendTile="sand_e" dir="e" ExclusionList="darkgrass medgrass lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="sand" blendTile="sand_s" dir="s" ExclusionList="darkgrass medgrass lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay" mainTile="sand" blendTile="blends_natural_01_001" dir="nw" ExclusionList="darkgrass medgrass lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="sand" blendTile="blends_natural_01_004" dir="ne" ExclusionList="darkgrass medgrass lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="sand" blendTile="blends_natural_01_003" dir="sw" ExclusionList="darkgrass medgrass lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="sand" blendTile="blends_natural_01_002" dir="se" ExclusionList="darkgrass medgrass lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="blends_street_01_000" blendTile="blends_street_01_008" dir="n" ExclusionList="" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="blends_street_01_000" blendTile="blends_street_01_009" dir="w" ExclusionList="" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="blends_street_01_000" blendTile="blends_street_01_010" dir="e" ExclusionList="" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="blends_street_01_000" blendTile="blends_street_01_011" dir="s" ExclusionList="" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="blends_street_01_000" blendTile="blends_street_01_001" dir="nw" ExclusionList="" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="blends_street_01_000" blendTile="blends_street_01_002" dir="se" ExclusionList="" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="blends_street_01_000" blendTile="blends_street_01_003" dir="sw" ExclusionList="" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="blends_street_01_000" blendTile="blends_street_01_004" dir="ne" ExclusionList="" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="pothole" blendTile="blends_street_01_024" dir="n" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="pothole" blendTile="blends_street_01_025" dir="w" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="pothole" blendTile="blends_street_01_026" dir="e" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="pothole" blendTile="blends_street_01_027" dir="s" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="pothole" blendTile="blends_street_01_017" dir="nw" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="pothole" blendTile="blends_street_01_018" dir="se" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="pothole" blendTile="blends_street_01_019" dir="sw" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="pothole" blendTile="blends_street_01_020" dir="ne" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="dirt" blendTile="blends_natural_01_072" dir="n" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="dirt" blendTile="blends_natural_01_073" dir="w" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="dirt" blendTile="blends_natural_01_074" dir="e" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="dirt" blendTile="blends_natural_01_075" dir="s" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="dirt" blendTile="blends_natural_01_065" dir="nw" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="dirt" blendTile="blends_natural_01_066" dir="se" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="dirt" blendTile="blends_natural_01_067" dir="sw" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="dirt" blendTile="blends_natural_01_068" dir="ne" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="water" blendTile="blends_natural_02_008" dir="n" ExclusionList="" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="water" blendTile="blends_natural_02_009" dir="w" ExclusionList="" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="water" blendTile="blends_natural_02_010" dir="e" ExclusionList="" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="water" blendTile="blends_natural_02_011" dir="s" ExclusionList="" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="water" blendTile="blends_natural_02_001" dir="nw" ExclusionList="" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="water" blendTile="blends_natural_02_002" dir="se" ExclusionList="" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="water" blendTile="blends_natural_02_003" dir="sw" ExclusionList="" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="water" blendTile="blends_natural_02_004" dir="ne" ExclusionList="" exclude2=""/>
+  </blends>
+ </bmp-settings>
+ <bmp-image index="0" seed="1">
+  <color rgb="103 102 102"/>
+  <color rgb="114 116 106"/>
+  <color rgb="97 103 68"/>
+  <color rgb="114 116 105"/>
+  <color rgb="114 116 104"/>
+  <color rgb="97 103 58"/>
+  <color rgb="114 116 109"/>
+  <color rgb="114 116 99"/>
+  <color rgb="97 103 60"/>
+  <color rgb="114 116 103"/>
+  <color rgb="114 116 102"/>
+  <color rgb="71 108 83"/>
+  <color rgb="114 116 101"/>
+  <color rgb="71 108 82"/>
+  <color rgb="71 108 81"/>
+  <color rgb="97 103 53"/>
+  <color rgb="71 108 80"/>
+  <color rgb="66 109 91"/>
+  <color rgb="71 108 79"/>
+  <color rgb="66 109 93"/>
+  <color rgb="71 108 77"/>
+  <color rgb="66 109 92"/>
+  <color rgb="36 123 169"/>
+  <color rgb="36 123 168"/>
+  <color rgb="25 128 195"/>
+  <color rgb="25 128 194"/>
+  <color rgb="115 116 113"/>
+  <color rgb="98 103 76"/>
+  <color rgb="25 128 197"/>
+  <color rgb="98 103 66"/>
+  <color rgb="25 128 196"/>
+  <color rgb="36 123 167"/>
+  <color rgb="36 123 166"/>
+  <color rgb="36 123 165"/>
+  <color rgb="98 103 71"/>
+  <color rgb="115 116 107"/>
+  <color rgb="98 103 70"/>
+  <color rgb="115 116 106"/>
+  <color rgb="98 103 69"/>
+  <color rgb="104 105 96"/>
+  <color rgb="115 116 105"/>
+  <color rgb="98 103 68"/>
+  <color rgb="115 116 104"/>
+  <color rgb="115 116 109"/>
+  <color rgb="115 116 108"/>
+  <color rgb="104 105 93"/>
+  <color rgb="0 146 255"/>
+  <color rgb="130 137 93"/>
+  <color rgb="67 109 91"/>
+  <color rgb="67 109 90"/>
+  <color rgb="125 133 91"/>
+  <color rgb="37 123 171"/>
+  <color rgb="37 123 168"/>
+  <color rgb="26 128 195"/>
+  <color rgb="26 128 194"/>
+  <color rgb="26 128 193"/>
+  <color rgb="105 105 106"/>
+  <color rgb="32 124 177"/>
+  <color rgb="116 116 118"/>
+  <color rgb="37 123 166"/>
+  <color rgb="37 123 165"/>
+  <color rgb="37 123 164"/>
+  <color rgb="116 116 107"/>
+  <color rgb="116 116 106"/>
+  <color rgb="131 137 98"/>
+  <color rgb="32 124 175"/>
+  <color rgb="116 116 109"/>
+  <color rgb="32 124 173"/>
+  <color rgb="116 116 108"/>
+  <color rgb="68 109 88"/>
+  <color rgb="126 133 91"/>
+  <color rgb="100 103 80"/>
+  <color rgb="68 109 87"/>
+  <color rgb="68 109 85"/>
+  <color rgb="38 123 163"/>
+  <color rgb="176 177 167"/>
+  <color rgb="33 124 176"/>
+  <color rgb="38 123 166"/>
+  <color rgb="27 128 191"/>
+  <color rgb="27 128 189"/>
+  <color rgb="33 124 175"/>
+  <color rgb="33 124 174"/>
+  <color rgb="33 124 173"/>
+  <color rgb="111 120 67"/>
+  <color rgb="69 109 98"/>
+  <color rgb="149 150 132"/>
+  <color rgb="160 164 143"/>
+  <color rgb="101 103 89"/>
+  <color rgb="69 109 91"/>
+  <color rgb="101 103 95"/>
+  <color rgb="101 103 94"/>
+  <color rgb="69 109 88"/>
+  <color rgb="64 110 99"/>
+  <color rgb="64 110 98"/>
+  <color rgb="69 109 87"/>
+  <color rgb="101 103 84"/>
+  <color rgb="69 109 86"/>
+  <color rgb="69 109 85"/>
+  <color rgb="123 118 111"/>
+  <color rgb="39 123 162"/>
+  <color rgb="133 137 107"/>
+  <color rgb="64 110 95"/>
+  <color rgb="133 137 110"/>
+  <color rgb="34 124 171"/>
+  <color rgb="34 124 170"/>
+  <color rgb="34 124 169"/>
+  <color rgb="34 124 174"/>
+  <color rgb="34 124 173"/>
+  <color rgb="34 124 172"/>
+  <color rgb="161 164 144"/>
+  <color rgb="102 103 96"/>
+  <color rgb="102 103 91"/>
+  <color rgb="70 109 102"/>
+  <color rgb="102 103 94"/>
+  <color rgb="96 104 56"/>
+  <color rgb="102 103 93"/>
+  <color rgb="96 104 51"/>
+  <color rgb="96 104 50"/>
+  <color rgb="65 110 97"/>
+  <color rgb="65 110 96"/>
+  <color rgb="96 104 55"/>
+  <color rgb="96 104 54"/>
+  <color rgb="96 104 53"/>
+  <color rgb="96 104 52"/>
+  <color rgb="70 109 84"/>
+  <color rgb="134 137 117"/>
+  <color rgb="65 110 95"/>
+  <color rgb="65 110 93"/>
+  <color rgb="35 124 171"/>
+  <color rgb="35 124 170"/>
+  <color rgb="35 124 169"/>
+  <color rgb="24 129 199"/>
+  <color rgb="24 129 198"/>
+  <color rgb="24 129 197"/>
+  <color rgb="24 129 196"/>
+  <color rgb="14 131 219"/>
+  <color rgb="103 103 96"/>
+  <color rgb="97 104 65"/>
+  <color rgb="114 117 106"/>
+  <color rgb="80 91 19"/>
+  <color rgb="114 117 105"/>
+  <color rgb="114 117 104"/>
+  <color rgb="14 131 220"/>
+  <color rgb="80 91 22"/>
+  <color rgb="97 104 57"/>
+  <color rgb="97 104 56"/>
+  <color rgb="97 104 61"/>
+  <color rgb="114 117 102"/>
+  <color rgb="97 104 60"/>
+  <color rgb="71 109 83"/>
+  <color rgb="71 109 81"/>
+  <color rgb="120 119 122"/>
+  <color rgb="97 104 55"/>
+  <color rgb="120 119 121"/>
+  <color rgb="92 108 70"/>
+  <color rgb="97 104 54"/>
+  <color rgb="120 119 120"/>
+  <color rgb="97 104 53"/>
+  <color rgb="71 109 85"/>
+  <color rgb="146 151 123"/>
+  <color rgb="71 109 84"/>
+  <color rgb="66 110 95"/>
+  <color rgb="66 110 94"/>
+  <color rgb="66 110 93"/>
+  <color rgb="120 119 119"/>
+  <color rgb="66 110 92"/>
+  <color rgb="120 119 118"/>
+  <color rgb="120 119 117"/>
+  <color rgb="36 124 170"/>
+  <color rgb="36 124 169"/>
+  <color rgb="36 124 168"/>
+  <color rgb="15 131 219"/>
+  <color rgb="98 104 67"/>
+  <color rgb="15 131 218"/>
+  <color rgb="98 104 66"/>
+  <color rgb="15 131 217"/>
+  <color rgb="115 117 107"/>
+  <color rgb="98 104 65"/>
+  <color rgb="15 131 216"/>
+  <color rgb="115 117 106"/>
+  <color rgb="98 104 64"/>
+  <color rgb="115 117 105"/>
+  <color rgb="98 104 68"/>
+  <color rgb="115 117 109"/>
+  <color rgb="98 104 59"/>
+  <color rgb="104 106 91"/>
+  <color rgb="115 117 108"/>
+  <color rgb="81 91 21"/>
+  <color rgb="98 104 57"/>
+  <color rgb="98 104 62"/>
+  <color rgb="67 110 109"/>
+  <color rgb="104 106 93"/>
+  <color rgb="0 147 255"/>
+  <color rgb="121 119 121"/>
+  <color rgb="136 140 112"/>
+  <color rgb="67 110 91"/>
+  <color rgb="67 110 90"/>
+  <color rgb="67 110 89"/>
+  <color rgb="147 151 124"/>
+  <color rgb="67 110 93"/>
+  <color rgb="67 110 92"/>
+  <color rgb="32 125 179"/>
+  <color rgb="116 117 114"/>
+  <color rgb="32 125 178"/>
+  <color rgb="116 117 112"/>
+  <color rgb="32 125 176"/>
+  <color rgb="99 104 77"/>
+  <color rgb="104 106 60"/>
+  <color rgb="99 104 67"/>
+  <color rgb="32 125 180"/>
+  <color rgb="116 117 107"/>
+  <color rgb="88 93 60"/>
+  <color rgb="131 138 99"/>
+  <color rgb="116 117 111"/>
+  <color rgb="32 125 175"/>
+  <color rgb="116 117 110"/>
+  <color rgb="99 104 68"/>
+  <color rgb="116 117 109"/>
+  <color rgb="116 117 108"/>
+  <color rgb="148 151 123"/>
+  <color rgb="68 110 90"/>
+  <color rgb="68 110 89"/>
+  <color rgb="68 110 92"/>
+  <color rgb="100 104 82"/>
+  <color rgb="100 104 75"/>
+  <color rgb="106 106 106"/>
+  <color rgb="33 125 178"/>
+  <color rgb="117 117 113"/>
+  <color rgb="100 104 79"/>
+  <color rgb="117 117 112"/>
+  <color rgb="33 125 176"/>
+  <color rgb="117 117 118"/>
+  <color rgb="100 104 76"/>
+  <color rgb="117 117 111"/>
+  <color rgb="33 125 175"/>
+  <color rgb="117 117 110"/>
+  <color rgb="117 117 109"/>
+  <color rgb="23 127 195"/>
+  <color rgb="12 132 224"/>
+  <color rgb="132 138 101"/>
+  <color rgb="132 138 100"/>
+  <color rgb="12 132 223"/>
+  <color rgb="64 111 112"/>
+  <color rgb="12 132 222"/>
+  <color rgb="64 111 105"/>
+  <color rgb="64 111 99"/>
+  <color rgb="64 111 98"/>
+  <color rgb="64 111 97"/>
+  <color rgb="64 111 96"/>
+  <color rgb="101 104 80"/>
+  <color rgb="70 110 128"/>
+  <color rgb="64 111 101"/>
+  <color rgb="127 134 92"/>
+  <color rgb="64 111 100"/>
+  <color rgb="118 117 113"/>
+  <color rgb="112 118 75"/>
+  <color rgb="150 151 138"/>
+  <color rgb="34 125 174"/>
+  <color rgb="34 125 173"/>
+  <color rgb="13 132 223"/>
+  <color rgb="13 132 222"/>
+  <color rgb="102 104 91"/>
+  <color rgb="96 105 57"/>
+  <color rgb="102 104 88"/>
+  <color rgb="102 104 92"/>
+  <color rgb="65 111 99"/>
+  <color rgb="178 178 171"/>
+  <color rgb="65 111 98"/>
+  <color rgb="65 111 97"/>
+  <color rgb="65 111 96"/>
+  <color rgb="96 105 48"/>
+  <color rgb="96 105 54"/>
+  <color rgb="70 110 85"/>
+  <color rgb="96 105 52"/>
+  <color rgb="65 111 95"/>
+  <color rgb="96 105 47"/>
+  <color rgb="96 105 46"/>
+  <color rgb="96 105 44"/>
+  <color rgb="35 125 172"/>
+  <color rgb="162 165 147"/>
+  <color rgb="14 132 219"/>
+  <color rgb="9 133 233"/>
+  <color rgb="14 132 221"/>
+  <color rgb="14 132 220"/>
+  <color rgb="80 92 22"/>
+  <color rgb="97 105 58"/>
+  <color rgb="97 105 57"/>
+  <color rgb="97 105 56"/>
+  <color rgb="9 133 231"/>
+  <color rgb="9 133 229"/>
+  <color rgb="97 105 55"/>
+  <color rgb="97 105 54"/>
+  <color rgb="120 120 123"/>
+  <color rgb="97 105 53"/>
+  <color rgb="120 120 122"/>
+  <color rgb="97 105 52"/>
+  <color rgb="120 120 121"/>
+  <color rgb="120 120 120"/>
+  <color rgb="66 111 95"/>
+  <color rgb="66 111 94"/>
+  <color rgb="97 105 44"/>
+  <color rgb="66 111 92"/>
+  <color rgb="120 120 119"/>
+  <color rgb="120 120 118"/>
+  <color rgb="163 165 147"/>
+  <color rgb="15 132 219"/>
+  <color rgb="15 132 218"/>
+  <color rgb="98 105 64"/>
+  <color rgb="15 132 221"/>
+  <color rgb="15 132 220"/>
+  <color rgb="10 133 227"/>
+  <color rgb="81 92 23"/>
+  <color rgb="115 118 109"/>
+  <color rgb="98 105 59"/>
+  <color rgb="115 118 108"/>
+  <color rgb="98 105 58"/>
+  <color rgb="81 92 21"/>
+  <color rgb="115 118 99"/>
+  <color rgb="98 105 57"/>
+  <color rgb="81 92 20"/>
+  <color rgb="98 105 56"/>
+  <color rgb="10 133 231"/>
+  <color rgb="10 133 230"/>
+  <color rgb="10 133 229"/>
+  <color rgb="98 105 61"/>
+  <color rgb="10 133 228"/>
+  <color rgb="98 105 60"/>
+  <color rgb="98 105 51"/>
+  <color rgb="98 105 50"/>
+  <color rgb="104 107 82"/>
+  <color rgb="98 105 55"/>
+  <color rgb="121 120 123"/>
+  <color rgb="121 120 122"/>
+  <color rgb="121 120 121"/>
+  <color rgb="121 120 125"/>
+  <color rgb="121 120 124"/>
+  <color rgb="136 141 104"/>
+  <color rgb="153 154 139"/>
+  <color rgb="99 105 72"/>
+  <color rgb="32 126 178"/>
+  <color rgb="116 118 112"/>
+  <color rgb="153 154 141"/>
+  <color rgb="21 128 202"/>
+  <color rgb="21 128 201"/>
+  <color rgb="99 105 64"/>
+  <color rgb="53 122 154"/>
+  <color rgb="116 118 111"/>
+  <color rgb="116 118 110"/>
+  <color rgb="11 133 227"/>
+  <color rgb="116 118 109"/>
+  <color rgb="116 118 108"/>
+  <color rgb="99 105 62"/>
+  <color rgb="11 133 229"/>
+  <color rgb="99 105 61"/>
+  <color rgb="11 133 228"/>
+  <color rgb="105 107 92"/>
+  <color rgb="122 120 126"/>
+  <color rgb="122 120 125"/>
+  <color rgb="122 120 124"/>
+  <color rgb="68 111 92"/>
+  <color rgb="148 152 124"/>
+  <color rgb="100 105 75"/>
+  <color rgb="100 105 74"/>
+  <color rgb="117 118 115"/>
+  <color rgb="117 118 114"/>
+  <color rgb="100 105 72"/>
+  <color rgb="117 118 113"/>
+  <color rgb="117 118 112"/>
+  <color rgb="22 128 212"/>
+  <color rgb="22 128 202"/>
+  <color rgb="22 128 201"/>
+  <color rgb="100 105 70"/>
+  <color rgb="132 139 97"/>
+  <color rgb="117 118 111"/>
+  <color rgb="117 118 110"/>
+  <color rgb="12 133 226"/>
+  <color rgb="12 133 225"/>
+  <color rgb="12 133 224"/>
+  <color rgb="22 128 199"/>
+  <color rgb="22 128 198"/>
+  <color rgb="100 105 62"/>
+  <color rgb="64 112 115"/>
+  <color rgb="12 133 223"/>
+  <color rgb="138 141 115"/>
+  <color rgb="123 120 122"/>
+  <color rgb="138 141 119"/>
+  <color rgb="138 141 118"/>
+  <color rgb="64 112 99"/>
+  <color rgb="64 112 98"/>
+  <color rgb="101 105 83"/>
+  <color rgb="101 105 80"/>
+  <color rgb="123 120 117"/>
+  <color rgb="123 120 116"/>
+  <color rgb="64 112 100"/>
+  <color rgb="101 105 75"/>
+  <color rgb="101 105 74"/>
+  <color rgb="118 118 115"/>
+  <color rgb="118 118 114"/>
+  <color rgb="118 118 113"/>
+  <color rgb="101 105 79"/>
+  <color rgb="118 118 112"/>
+  <color rgb="118 118 119"/>
+  <color rgb="101 105 77"/>
+  <color rgb="118 118 118"/>
+  <color rgb="118 118 117"/>
+  <color rgb="118 118 116"/>
+  <color rgb="112 119 72"/>
+  <color rgb="118 118 110"/>
+  <color rgb="23 128 194"/>
+  <color rgb="18 129 209"/>
+  <color rgb="13 133 225"/>
+  <color rgb="133 139 102"/>
+  <color rgb="112 119 76"/>
+  <color rgb="23 128 199"/>
+  <color rgb="23 128 198"/>
+  <color rgb="23 128 197"/>
+  <color rgb="139 141 122"/>
+  <color rgb="8 134 235"/>
+  <color rgb="8 134 234"/>
+  <color rgb="8 134 233"/>
+  <color rgb="8 134 232"/>
+  <color rgb="150 152 130"/>
+  <color rgb="13 133 223"/>
+  <color rgb="13 133 222"/>
+  <color rgb="65 112 98"/>
+  <color rgb="102 105 92"/>
+  <color rgb="96 106 50"/>
+  <color rgb="96 106 49"/>
+  <color rgb="102 105 87"/>
+  <color rgb="102 105 84"/>
+  <color rgb="102 105 75"/>
+  <color rgb="119 118 114"/>
+  <color rgb="96 106 47"/>
+  <color rgb="113 119 81"/>
+  <color rgb="119 118 112"/>
+  <color rgb="96 106 45"/>
+  <color rgb="119 118 118"/>
+  <color rgb="134 139 104"/>
+  <color rgb="119 118 117"/>
+  <color rgb="119 118 116"/>
+  <color rgb="19 129 211"/>
+  <color rgb="19 129 209"/>
+  <color rgb="19 129 208"/>
+  <color rgb="9 134 234"/>
+  <color rgb="9 134 233"/>
+  <color rgb="103 105 97"/>
+  <color rgb="9 134 232"/>
+  <color rgb="14 133 223"/>
+  <color rgb="151 152 135"/>
+  <color rgb="125 120 120"/>
+  <color rgb="103 105 91"/>
+  <color rgb="9 134 230"/>
+  <color rgb="97 106 51"/>
+  <color rgb="97 106 50"/>
+  <color rgb="97 106 49"/>
+  <color rgb="103 105 87"/>
+  <color rgb="103 105 86"/>
+  <color rgb="120 121 123"/>
+  <color rgb="120 121 122"/>
+  <color rgb="120 121 120"/>
+  <color rgb="120 121 124"/>
+  <color rgb="120 121 115"/>
+  <color rgb="97 106 45"/>
+  <color rgb="135 139 111"/>
+  <color rgb="163 166 145"/>
+  <color rgb="20 129 203"/>
+  <color rgb="10 134 232"/>
+  <color rgb="20 129 206"/>
+  <color rgb="93 94 82"/>
+  <color rgb="20 129 205"/>
+  <color rgb="20 129 204"/>
+  <color rgb="98 106 59"/>
+  <color rgb="98 106 58"/>
+  <color rgb="81 93 20"/>
+  <color rgb="10 134 231"/>
+  <color rgb="10 134 230"/>
+  <color rgb="152 155 127"/>
+  <color rgb="98 106 61"/>
+  <color rgb="98 106 60"/>
+  <color rgb="98 106 51"/>
+  <color rgb="104 108 82"/>
+  <color rgb="98 106 49"/>
+  <color rgb="98 106 48"/>
+  <color rgb="104 108 80"/>
+  <color rgb="121 121 123"/>
+  <color rgb="121 121 122"/>
+  <color rgb="98 106 52"/>
+  <color rgb="121 121 121"/>
+  <color rgb="104 108 75"/>
+  <color rgb="104 108 74"/>
+  <color rgb="121 121 126"/>
+  <color rgb="121 121 125"/>
+  <color rgb="104 108 72"/>
+  <color rgb="121 121 124"/>
+  <color rgb="104 108 76"/>
+  <color rgb="121 121 119"/>
+  <color rgb="136 142 108"/>
+  <color rgb="104 108 69"/>
+  <color rgb="82 93 24"/>
+  <color rgb="21 129 203"/>
+  <color rgb="99 106 65"/>
+  <color rgb="164 166 148"/>
+  <color rgb="21 129 204"/>
+  <color rgb="11 134 227"/>
+  <color rgb="82 93 22"/>
+  <color rgb="11 134 226"/>
+  <color rgb="99 106 59"/>
+  <color rgb="105 108 89"/>
+  <color rgb="99 106 57"/>
+  <color rgb="16 130 214"/>
+  <color rgb="99 106 63"/>
+  <color rgb="99 106 62"/>
+  <color rgb="11 134 229"/>
+  <color rgb="99 106 61"/>
+  <color rgb="99 106 60"/>
+  <color rgb="122 121 128"/>
+  <color rgb="105 108 85"/>
+  <color rgb="122 121 127"/>
+  <color rgb="122 121 126"/>
+  <color rgb="122 121 125"/>
+  <color rgb="122 121 124"/>
+  <color rgb="137 142 108"/>
+  <color rgb="154 155 148"/>
+  <color rgb="117 119 115"/>
+  <color rgb="117 119 114"/>
+  <color rgb="117 119 113"/>
+  <color rgb="117 119 112"/>
+  <color rgb="83 93 24"/>
+  <color rgb="22 129 202"/>
+  <color rgb="100 106 67"/>
+  <color rgb="22 129 201"/>
+  <color rgb="117 119 116"/>
+  <color rgb="100 106 65"/>
+  <color rgb="22 129 200"/>
+  <color rgb="100 106 64"/>
+  <color rgb="100 106 63"/>
+  <color rgb="12 134 230"/>
+  <color rgb="17 130 213"/>
+  <color rgb="100 106 62"/>
+  <color rgb="17 130 212"/>
+  <color rgb="100 106 61"/>
+  <color rgb="123 121 128"/>
+  <color rgb="123 121 127"/>
+  <color rgb="123 121 126"/>
+  <color rgb="123 121 125"/>
+  <color rgb="149 153 126"/>
+  <color rgb="149 153 125"/>
+  <color rgb="149 153 124"/>
+  <color rgb="84 93 32"/>
+  <color rgb="101 106 75"/>
+  <color rgb="118 119 115"/>
+  <color rgb="101 106 73"/>
+  <color rgb="118 119 114"/>
+  <color rgb="118 119 113"/>
+  <color rgb="118 119 112"/>
+  <color rgb="118 119 118"/>
+  <color rgb="118 119 117"/>
+  <color rgb="23 129 201"/>
+  <color rgb="118 119 116"/>
+  <color rgb="107 108 97"/>
+  <color rgb="23 129 200"/>
+  <color rgb="101 106 64"/>
+  <color rgb="101 106 70"/>
+  <color rgb="118 119 111"/>
+  <color rgb="18 130 211"/>
+  <color rgb="101 106 68"/>
+  <color rgb="18 130 210"/>
+  <color rgb="18 130 209"/>
+  <color rgb="18 130 208"/>
+  <color rgb="23 129 199"/>
+  <color rgb="23 129 197"/>
+  <color rgb="8 135 235"/>
+  <color rgb="18 130 207"/>
+  <color rgb="139 142 115"/>
+  <color rgb="8 135 236"/>
+  <color rgb="102 106 82"/>
+  <color rgb="102 106 81"/>
+  <color rgb="119 119 121"/>
+  <color rgb="119 119 120"/>
+  <color rgb="102 106 85"/>
+  <color rgb="102 106 84"/>
+  <color rgb="119 119 115"/>
+  <color rgb="102 106 79"/>
+  <color rgb="134 140 106"/>
+  <color rgb="102 106 78"/>
+  <color rgb="119 119 119"/>
+  <color rgb="119 119 118"/>
+  <color rgb="119 119 117"/>
+  <color rgb="119 119 116"/>
+  <color rgb="151 153 144"/>
+  <color rgb="134 140 103"/>
+  <color rgb="19 130 209"/>
+  <color rgb="19 130 208"/>
+  <color rgb="9 135 235"/>
+  <color rgb="9 135 233"/>
+  <color rgb="19 130 207"/>
+  <color rgb="19 130 204"/>
+  <color rgb="103 106 89"/>
+  <color rgb="125 121 124"/>
+  <color rgb="103 106 86"/>
+  <color rgb="103 106 84"/>
+  <color rgb="20 130 208"/>
+  <color rgb="10 135 234"/>
+  <color rgb="152 156 131"/>
+  <color rgb="20 130 207"/>
+  <color rgb="20 130 206"/>
+  <color rgb="152 156 132"/>
+  <color rgb="10 135 231"/>
+  <color rgb="104 109 80"/>
+  <color rgb="98 107 48"/>
+  <color rgb="98 107 54"/>
+  <color rgb="180 180 172"/>
+  <color rgb="104 109 75"/>
+  <color rgb="104 109 74"/>
+  <color rgb="104 109 73"/>
+  <color rgb="169 169 159"/>
+  <color rgb="104 109 72"/>
+  <color rgb="98 107 47"/>
+  <color rgb="104 109 77"/>
+  <color rgb="104 109 76"/>
+  <color rgb="104 109 69"/>
+  <color rgb="153 156 137"/>
+  <color rgb="164 167 147"/>
+  <color rgb="16 131 218"/>
+  <color rgb="16 131 216"/>
+  <color rgb="164 167 148"/>
+  <color rgb="153 156 130"/>
+  <color rgb="99 107 64"/>
+  <color rgb="21 130 206"/>
+  <color rgb="21 130 204"/>
+  <color rgb="99 107 59"/>
+  <color rgb="16 131 215"/>
+  <color rgb="16 131 214"/>
+  <color rgb="16 131 213"/>
+  <color rgb="88 96 46"/>
+  <color rgb="16 131 212"/>
+  <color rgb="99 107 61"/>
+  <color rgb="122 122 129"/>
+  <color rgb="122 122 128"/>
+  <color rgb="105 109 83"/>
+  <color rgb="105 109 82"/>
+  <color rgb="105 109 86"/>
+  <color rgb="99 107 54"/>
+  <color rgb="122 122 123"/>
+  <color rgb="122 122 127"/>
+  <color rgb="122 122 126"/>
+  <color rgb="122 122 125"/>
+  <color rgb="122 122 124"/>
+  <color rgb="105 109 78"/>
+  <color rgb="137 143 106"/>
+  <color rgb="105 109 77"/>
+  <color rgb="105 109 76"/>
+  <color rgb="83 94 33"/>
+  <color rgb="83 94 27"/>
+  <color rgb="83 94 26"/>
+  <color rgb="83 94 25"/>
+  <color rgb="83 94 24"/>
+  <color rgb="22 130 203"/>
+  <color rgb="100 107 67"/>
+  <color rgb="22 130 202"/>
+  <color rgb="106 109 98"/>
+  <color rgb="100 107 66"/>
+  <color rgb="100 107 65"/>
+  <color rgb="100 107 64"/>
+  <color rgb="17 131 211"/>
+  <color rgb="83 94 23"/>
+  <color rgb="100 107 58"/>
+  <color rgb="89 96 41"/>
+  <color rgb="106 109 88"/>
+  <color rgb="17 131 215"/>
+  <color rgb="17 131 214"/>
+  <color rgb="100 107 63"/>
+  <color rgb="123 122 131"/>
+  <color rgb="17 131 213"/>
+  <color rgb="100 107 62"/>
+  <color rgb="123 122 130"/>
+  <color rgb="17 131 212"/>
+  <color rgb="89 96 45"/>
+  <color rgb="100 107 61"/>
+  <color rgb="123 122 129"/>
+  <color rgb="123 122 128"/>
+  <color rgb="106 109 86"/>
+  <color rgb="106 109 85"/>
+  <color rgb="106 109 84"/>
+  <color rgb="123 122 127"/>
+  <color rgb="123 122 126"/>
+  <color rgb="106 109 78"/>
+  <color rgb="149 154 127"/>
+  <color rgb="84 94 34"/>
+  <color rgb="84 94 32"/>
+  <color rgb="84 94 26"/>
+  <color rgb="84 94 25"/>
+  <color rgb="84 94 24"/>
+  <color rgb="101 107 67"/>
+  <color rgb="84 94 30"/>
+  <color rgb="101 107 66"/>
+  <color rgb="101 107 65"/>
+  <color rgb="166 167 148"/>
+  <color rgb="118 120 117"/>
+  <color rgb="101 107 64"/>
+  <color rgb="101 107 70"/>
+  <color rgb="90 96 53"/>
+  <color rgb="101 107 69"/>
+  <color rgb="18 131 211"/>
+  <color rgb="101 107 68"/>
+  <color rgb="101 107 63"/>
+  <color rgb="124 122 131"/>
+  <color rgb="112 121 67"/>
+  <color rgb="18 131 212"/>
+  <color rgb="107 109 92"/>
+  <color rgb="118 120 103"/>
+  <color rgb="124 122 132"/>
+  <color rgb="150 154 123"/>
+  <color rgb="85 94 42"/>
+  <color rgb="102 107 81"/>
+  <color rgb="85 94 39"/>
+  <color rgb="119 120 120"/>
+  <color rgb="85 94 38"/>
+  <color rgb="102 107 72"/>
+  <color rgb="102 107 67"/>
+  <color rgb="119 120 119"/>
+  <color rgb="119 120 118"/>
+  <color rgb="119 120 117"/>
+  <color rgb="102 107 71"/>
+  <color rgb="102 107 69"/>
+  <color rgb="102 107 68"/>
+  <color rgb="113 121 70"/>
+  <color rgb="113 121 69"/>
+  <color rgb="92 96 66"/>
+  <color rgb="103 107 80"/>
+  <color rgb="103 107 74"/>
+  <color rgb="103 107 73"/>
+  <color rgb="103 107 78"/>
+  <color rgb="135 141 106"/>
+  <color rgb="135 141 104"/>
+  <color rgb="103 107 70"/>
+  <color rgb="135 141 100"/>
+  <color rgb="141 143 124"/>
+  <color rgb="180 181 177"/>
+  <color rgb="98 108 51"/>
+  <color rgb="98 108 50"/>
+  <color rgb="98 108 48"/>
+  <color rgb="169 170 155"/>
+  <color rgb="104 110 75"/>
+  <color rgb="104 110 74"/>
+  <color rgb="104 110 72"/>
+  <color rgb="98 108 47"/>
+  <color rgb="104 110 78"/>
+  <color rgb="104 110 77"/>
+  <color rgb="104 110 76"/>
+  <color rgb="73 116 119"/>
+  <color rgb="104 110 71"/>
+  <color rgb="115 121 78"/>
+  <color rgb="115 121 77"/>
+  <color rgb="153 157 136"/>
+  <color rgb="16 132 218"/>
+  <color rgb="153 157 131"/>
+  <color rgb="16 132 216"/>
+  <color rgb="88 97 42"/>
+  <color rgb="88 97 41"/>
+  <color rgb="88 97 40"/>
+  <color rgb="99 108 51"/>
+  <color rgb="105 110 82"/>
+  <color rgb="88 97 34"/>
+  <color rgb="88 97 33"/>
+  <color rgb="105 110 81"/>
+  <color rgb="105 110 80"/>
+  <color rgb="88 97 32"/>
+  <color rgb="88 97 39"/>
+  <color rgb="6 134 238"/>
+  <color rgb="88 97 38"/>
+  <color rgb="88 97 37"/>
+  <color rgb="105 110 84"/>
+  <color rgb="88 97 36"/>
+  <color rgb="105 110 75"/>
+  <color rgb="105 110 79"/>
+  <color rgb="105 110 78"/>
+  <color rgb="105 110 77"/>
+  <color rgb="63 110 95"/>
+  <color rgb="154 157 136"/>
+  <color rgb="165 168 147"/>
+  <color rgb="95 96 92"/>
+  <color rgb="89 97 50"/>
+  <color rgb="17 132 216"/>
+  <color rgb="100 108 65"/>
+  <color rgb="165 168 149"/>
+  <color rgb="100 108 68"/>
+  <color rgb="154 157 132"/>
+  <color rgb="89 97 42"/>
+  <color rgb="100 108 63"/>
+  <color rgb="89 97 44"/>
+  <color rgb="7 134 234"/>
+  <color rgb="106 110 81"/>
+  <color rgb="106 110 80"/>
+  <color rgb="7 134 238"/>
+  <color rgb="106 110 86"/>
+  <color rgb="182 181 174"/>
+  <color rgb="7 134 236"/>
+  <color rgb="106 110 84"/>
+  <color rgb="106 110 79"/>
+  <color rgb="123 123 124"/>
+  <color rgb="106 110 78"/>
+  <color rgb="106 110 77"/>
+  <color rgb="84 95 33"/>
+  <color rgb="84 95 27"/>
+  <color rgb="84 95 26"/>
+  <color rgb="84 95 25"/>
+  <color rgb="101 108 67"/>
+  <color rgb="101 108 66"/>
+  <color rgb="84 95 29"/>
+  <color rgb="166 168 151"/>
+  <color rgb="84 95 28"/>
+  <color rgb="101 108 69"/>
+  <color rgb="84 95 23"/>
+  <color rgb="101 108 68"/>
+  <color rgb="101 108 56"/>
+  <color rgb="101 108 63"/>
+  <color rgb="90 97 46"/>
+  <color rgb="101 108 62"/>
+  <color rgb="90 97 45"/>
+  <color rgb="101 108 61"/>
+  <color rgb="90 97 44"/>
+  <color rgb="95 96 19"/>
+  <color rgb="107 110 82"/>
+  <color rgb="106 94 24"/>
+  <color rgb="139 144 110"/>
+  <color rgb="156 157 145"/>
+  <color rgb="156 157 144"/>
+  <color rgb="60 111 105"/>
+  <color rgb="102 108 75"/>
+  <color rgb="102 108 73"/>
+  <color rgb="102 108 72"/>
+  <color rgb="85 95 27"/>
+  <color rgb="102 108 67"/>
+  <color rgb="85 95 30"/>
+  <color rgb="85 95 29"/>
+  <color rgb="108 110 97"/>
+  <color rgb="85 95 28"/>
+  <color rgb="102 108 64"/>
+  <color rgb="102 108 71"/>
+  <color rgb="102 108 70"/>
+  <color rgb="102 108 69"/>
+  <color rgb="102 108 68"/>
+  <color rgb="102 108 63"/>
+  <color rgb="102 108 62"/>
+  <color rgb="108 110 92"/>
+  <color rgb="151 155 128"/>
+  <color rgb="4 135 243"/>
+  <color rgb="91 97 24"/>
+  <color rgb="4 135 244"/>
+  <color rgb="86 95 35"/>
+  <color rgb="86 95 34"/>
+  <color rgb="86 95 33"/>
+  <color rgb="103 108 74"/>
+  <color rgb="103 108 73"/>
+  <color rgb="103 108 72"/>
+  <color rgb="103 108 78"/>
+  <color rgb="92 97 62"/>
+  <color rgb="61 111 103"/>
+  <color rgb="109 110 96"/>
+  <color rgb="103 108 71"/>
+  <color rgb="103 108 70"/>
+  <color rgb="109 110 101"/>
+  <color rgb="109 110 100"/>
+  <color rgb="114 122 72"/>
+  <color rgb="141 144 113"/>
+  <color rgb="5 135 242"/>
+  <color rgb="5 135 240"/>
+  <color rgb="87 95 43"/>
+  <color rgb="5 135 244"/>
+  <color rgb="62 111 104"/>
+  <color rgb="104 111 75"/>
+  <color rgb="104 111 77"/>
+  <color rgb="115 122 80"/>
+  <color rgb="62 111 102"/>
+  <color rgb="6 135 243"/>
+  <color rgb="6 135 242"/>
+  <color rgb="6 135 241"/>
+  <color rgb="6 135 240"/>
+  <color rgb="93 97 24"/>
+  <color rgb="88 98 35"/>
+  <color rgb="88 98 34"/>
+  <color rgb="88 98 33"/>
+  <color rgb="105 111 81"/>
+  <color rgb="105 111 80"/>
+  <color rgb="88 98 32"/>
+  <color rgb="6 135 239"/>
+  <color rgb="79 116 117"/>
+  <color rgb="88 98 38"/>
+  <color rgb="63 111 107"/>
+  <color rgb="88 98 36"/>
+  <color rgb="170 171 159"/>
+  <color rgb="105 111 79"/>
+  <color rgb="88 98 31"/>
+  <color rgb="63 111 99"/>
+  <color rgb="88 98 30"/>
+  <color rgb="104 95 25"/>
+  <color rgb="88 98 29"/>
+  <color rgb="88 98 28"/>
+  <color rgb="63 111 102"/>
+  <color rgb="63 111 101"/>
+  <color rgb="63 111 100"/>
+  <color rgb="154 158 133"/>
+  <color rgb="154 158 132"/>
+  <color rgb="94 97 25"/>
+  <color rgb="94 97 24"/>
+  <color rgb="100 109 56"/>
+  <color rgb="89 98 45"/>
+  <color rgb="106 111 83"/>
+  <color rgb="7 135 234"/>
+  <color rgb="106 111 82"/>
+  <color rgb="89 98 34"/>
+  <color rgb="100 109 50"/>
+  <color rgb="106 111 81"/>
+  <color rgb="106 111 80"/>
+  <color rgb="89 98 32"/>
+  <color rgb="7 135 238"/>
+  <color rgb="89 98 39"/>
+  <color rgb="94 97 23"/>
+  <color rgb="7 135 237"/>
+  <color rgb="2 136 248"/>
+  <color rgb="94 97 22"/>
+  <color rgb="89 98 38"/>
+  <color rgb="7 135 236"/>
+  <color rgb="89 98 37"/>
+  <color rgb="94 97 21"/>
+  <color rgb="106 111 84"/>
+  <color rgb="94 97 20"/>
+  <color rgb="89 98 36"/>
+  <color rgb="106 111 79"/>
+  <color rgb="89 98 31"/>
+  <color rgb="59 112 110"/>
+  <color rgb="166 169 153"/>
+  <color rgb="166 169 152"/>
+  <color rgb="84 96 19"/>
+  <color rgb="90 98 48"/>
+  <color rgb="155 158 134"/>
+  <color rgb="155 158 132"/>
+  <color rgb="90 98 43"/>
+  <color rgb="95 97 27"/>
+  <color rgb="101 109 59"/>
+  <color rgb="90 98 42"/>
+  <color rgb="95 97 26"/>
+  <color rgb="95 97 25"/>
+  <color rgb="90 98 40"/>
+  <color rgb="95 97 24"/>
+  <color rgb="90 98 47"/>
+  <color rgb="90 98 46"/>
+  <color rgb="90 98 45"/>
+  <color rgb="107 111 83"/>
+  <color rgb="95 97 19"/>
+  <color rgb="107 111 82"/>
+  <color rgb="95 97 18"/>
+  <color rgb="107 111 81"/>
+  <color rgb="95 97 17"/>
+  <color rgb="107 111 87"/>
+  <color rgb="95 97 23"/>
+  <color rgb="107 111 86"/>
+  <color rgb="3 136 248"/>
+  <color rgb="95 97 22"/>
+  <color rgb="118 122 91"/>
+  <color rgb="107 111 85"/>
+  <color rgb="95 97 21"/>
+  <color rgb="107 111 84"/>
+  <color rgb="95 97 20"/>
+  <color rgb="139 145 111"/>
+  <color rgb="3 136 247"/>
+  <color rgb="3 136 246"/>
+  <color rgb="3 136 245"/>
+  <color rgb="60 112 107"/>
+  <color rgb="60 112 106"/>
+  <color rgb="60 112 104"/>
+  <color rgb="60 112 109"/>
+  <color rgb="85 96 27"/>
+  <color rgb="60 112 108"/>
+  <color rgb="85 96 26"/>
+  <color rgb="102 109 72"/>
+  <color rgb="60 112 103"/>
+  <color rgb="85 96 29"/>
+  <color rgb="85 96 28"/>
+  <color rgb="91 98 49"/>
+  <color rgb="91 98 48"/>
+  <color rgb="102 109 71"/>
+  <color rgb="102 109 70"/>
+  <color rgb="85 96 22"/>
+  <color rgb="102 109 68"/>
+  <color rgb="91 98 47"/>
+  <color rgb="91 98 46"/>
+  <color rgb="108 111 93"/>
+  <color rgb="91 98 45"/>
+  <color rgb="108 111 92"/>
+  <color rgb="108 111 83"/>
+  <color rgb="4 136 248"/>
+  <color rgb="108 111 84"/>
+  <color rgb="91 98 26"/>
+  <color rgb="4 136 243"/>
+  <color rgb="91 98 30"/>
+  <color rgb="140 145 111"/>
+  <color rgb="91 98 29"/>
+  <color rgb="91 98 28"/>
+  <color rgb="4 136 246"/>
+  <color rgb="4 136 245"/>
+  <color rgb="4 136 244"/>
+  <color rgb="86 96 33"/>
+  <color rgb="61 112 107"/>
+  <color rgb="61 112 106"/>
+  <color rgb="86 96 32"/>
+  <color rgb="61 112 105"/>
+  <color rgb="61 112 104"/>
+  <color rgb="103 109 75"/>
+  <color rgb="86 96 27"/>
+  <color rgb="103 109 74"/>
+  <color rgb="103 109 73"/>
+  <color rgb="103 109 72"/>
+  <color rgb="86 96 24"/>
+  <color rgb="86 96 30"/>
+  <color rgb="61 112 103"/>
+  <color rgb="86 96 29"/>
+  <color rgb="86 96 28"/>
+  <color rgb="109 111 96"/>
+  <color rgb="103 109 71"/>
+  <color rgb="103 109 70"/>
+  <color rgb="103 109 69"/>
+  <color rgb="109 111 94"/>
+  <color rgb="109 111 93"/>
+  <color rgb="185 185 181"/>
+  <color rgb="102 93 1"/>
+  <color rgb="92 98 27"/>
+  <color rgb="92 98 26"/>
+  <color rgb="87 96 42"/>
+  <color rgb="92 98 25"/>
+  <color rgb="5 136 243"/>
+  <color rgb="92 98 24"/>
+  <color rgb="5 136 242"/>
+  <color rgb="120 125 92"/>
+  <color rgb="5 136 241"/>
+  <color rgb="92 98 30"/>
+  <color rgb="5 136 240"/>
+  <color rgb="92 98 29"/>
+  <color rgb="92 98 28"/>
+  <color rgb="87 96 35"/>
+  <color rgb="87 96 34"/>
+  <color rgb="120 125 87"/>
+  <color rgb="0 137 251"/>
+  <color rgb="87 96 33"/>
+  <color rgb="62 112 105"/>
+  <color rgb="87 96 39"/>
+  <color rgb="62 112 104"/>
+  <color rgb="0 137 255"/>
+  <color rgb="87 96 37"/>
+  <color rgb="0 137 254"/>
+  <color rgb="0 137 253"/>
+  <color rgb="110 111 107"/>
+  <color rgb="0 137 252"/>
+  <color rgb="57 113 115"/>
+  <color rgb="57 113 114"/>
+  <color rgb="169 172 157"/>
+  <color rgb="62 112 103"/>
+  <color rgb="62 112 102"/>
+  <color rgb="104 112 65"/>
+  <color rgb="104 112 57"/>
+  <color rgb="115 123 76"/>
+  <color rgb="142 145 124"/>
+  <color rgb="104 112 55"/>
+  <color rgb="115 123 71"/>
+  <color rgb="93 98 27"/>
+  <color rgb="93 98 26"/>
+  <color rgb="93 98 25"/>
+  <color rgb="93 98 24"/>
+  <color rgb="6 136 241"/>
+  <color rgb="6 136 240"/>
+  <color rgb="93 98 30"/>
+  <color rgb="93 98 28"/>
+  <color rgb="88 99 33"/>
+  <color rgb="1 137 251"/>
+  <color rgb="88 99 32"/>
+  <color rgb="1 137 250"/>
+  <color rgb="93 98 23"/>
+  <color rgb="93 98 22"/>
+  <color rgb="93 98 21"/>
+  <color rgb="88 99 27"/>
+  <color rgb="1 137 253"/>
+  <color rgb="1 137 252"/>
+  <color rgb="58 113 115"/>
+  <color rgb="58 113 114"/>
+  <color rgb="88 99 31"/>
+  <color rgb="111 111 111"/>
+  <color rgb="58 113 113"/>
+  <color rgb="88 99 30"/>
+  <color rgb="63 112 103"/>
+  <color rgb="88 99 29"/>
+  <color rgb="63 112 102"/>
+  <color rgb="88 99 28"/>
+  <color rgb="58 113 111"/>
+  <color rgb="94 98 33"/>
+  <color rgb="94 98 27"/>
+  <color rgb="94 98 26"/>
+  <color rgb="94 98 25"/>
+  <color rgb="94 98 24"/>
+  <color rgb="7 136 240"/>
+  <color rgb="94 98 28"/>
+  <color rgb="106 112 80"/>
+  <color rgb="89 99 35"/>
+  <color rgb="89 99 34"/>
+  <color rgb="89 99 33"/>
+  <color rgb="2 137 251"/>
+  <color rgb="89 99 32"/>
+  <color rgb="2 137 250"/>
+  <color rgb="106 112 84"/>
+  <color rgb="2 137 249"/>
+  <color rgb="94 98 23"/>
+  <color rgb="94 98 22"/>
+  <color rgb="7 136 238"/>
+  <color rgb="89 99 36"/>
+  <color rgb="59 113 125"/>
+  <color rgb="171 172 159"/>
+  <color rgb="171 172 158"/>
+  <color rgb="89 99 31"/>
+  <color rgb="59 113 112"/>
+  <color rgb="89 99 30"/>
+  <color rgb="59 113 111"/>
+  <color rgb="59 113 110"/>
+  <color rgb="59 113 109"/>
+  <color rgb="155 159 135"/>
+  <color rgb="155 159 134"/>
+  <color rgb="90 99 42"/>
+  <color rgb="90 99 41"/>
+  <color rgb="95 98 24"/>
+  <color rgb="90 99 40"/>
+  <color rgb="107 112 83"/>
+  <color rgb="107 112 82"/>
+  <color rgb="90 99 35"/>
+  <color rgb="101 110 51"/>
+  <color rgb="107 112 87"/>
+  <color rgb="90 99 34"/>
+  <color rgb="107 112 86"/>
+  <color rgb="90 99 33"/>
+  <color rgb="107 112 85"/>
+  <color rgb="90 99 32"/>
+  <color rgb="95 98 23"/>
+  <color rgb="107 112 84"/>
+  <color rgb="90 99 39"/>
+  <color rgb="3 137 249"/>
+  <color rgb="95 98 22"/>
+  <color rgb="90 99 38"/>
+  <color rgb="3 137 248"/>
+  <color rgb="95 98 21"/>
+  <color rgb="90 99 37"/>
+  <color rgb="101 110 53"/>
+  <color rgb="95 98 20"/>
+  <color rgb="90 99 36"/>
+  <color rgb="172 172 159"/>
+  <color rgb="90 99 31"/>
+  <color rgb="90 99 30"/>
+  <color rgb="3 137 247"/>
+  <color rgb="3 137 246"/>
+  <color rgb="60 113 117"/>
+  <color rgb="60 113 107"/>
+  <color rgb="60 113 111"/>
+  <color rgb="167 170 154"/>
+  <color rgb="60 113 109"/>
+  <color rgb="60 113 108"/>
+  <color rgb="85 97 25"/>
+  <color rgb="85 97 24"/>
+  <color rgb="156 159 136"/>
+  <color rgb="91 99 51"/>
+  <color rgb="85 97 23"/>
+  <color rgb="85 97 22"/>
+  <color rgb="108 112 89"/>
+  <color rgb="108 112 88"/>
+  <color rgb="91 99 43"/>
+  <color rgb="91 99 42"/>
+  <color rgb="91 99 41"/>
+  <color rgb="91 99 40"/>
+  <color rgb="91 99 47"/>
+  <color rgb="91 99 46"/>
+  <color rgb="91 99 45"/>
+  <color rgb="91 99 44"/>
+  <color rgb="108 112 87"/>
+  <color rgb="108 112 86"/>
+  <color rgb="91 99 33"/>
+  <color rgb="140 146 113"/>
+  <color rgb="108 112 85"/>
+  <color rgb="91 99 32"/>
+  <color rgb="91 99 39"/>
+  <color rgb="61 113 121"/>
+  <color rgb="108 112 84"/>
+  <color rgb="102 110 54"/>
+  <color rgb="91 99 27"/>
+  <color rgb="101 94 6"/>
+  <color rgb="101 94 5"/>
+  <color rgb="91 99 26"/>
+  <color rgb="91 99 31"/>
+  <color rgb="91 99 30"/>
+  <color rgb="91 99 29"/>
+  <color rgb="91 99 28"/>
+  <color rgb="4 137 245"/>
+  <color rgb="61 113 107"/>
+  <color rgb="86 97 33"/>
+  <color rgb="61 113 105"/>
+  <color rgb="86 97 27"/>
+  <color rgb="103 110 74"/>
+  <color rgb="86 97 26"/>
+  <color rgb="61 113 108"/>
+  <color rgb="86 97 25"/>
+  <color rgb="86 97 24"/>
+  <color rgb="92 99 56"/>
+  <color rgb="56 114 114"/>
+  <color rgb="157 159 136"/>
+  <color rgb="86 97 29"/>
+  <color rgb="56 114 118"/>
+  <color rgb="86 97 28"/>
+  <color rgb="92 99 51"/>
+  <color rgb="103 110 66"/>
+  <color rgb="92 99 50"/>
+  <color rgb="56 114 116"/>
+  <color rgb="76 102 49"/>
+  <color rgb="92 99 49"/>
+  <color rgb="109 112 102"/>
+  <color rgb="92 99 48"/>
+  <color rgb="86 97 23"/>
+  <color rgb="92 99 55"/>
+  <color rgb="103 110 70"/>
+  <color rgb="157 159 135"/>
+  <color rgb="92 99 54"/>
+  <color rgb="109 112 90"/>
+  <color rgb="109 112 89"/>
+  <color rgb="109 112 88"/>
+  <color rgb="109 112 95"/>
+  <color rgb="109 112 94"/>
+  <color rgb="109 112 93"/>
+  <color rgb="109 112 92"/>
+  <color rgb="109 112 83"/>
+  <color rgb="109 112 87"/>
+  <color rgb="92 99 31"/>
+  <color rgb="92 99 30"/>
+  <color rgb="92 99 29"/>
+  <color rgb="92 99 28"/>
+  <color rgb="5 137 245"/>
+  <color rgb="87 97 34"/>
+  <color rgb="87 97 33"/>
+  <color rgb="0 138 251"/>
+  <color rgb="57 114 122"/>
+  <color rgb="87 97 32"/>
+  <color rgb="62 113 105"/>
+  <color rgb="0 138 255"/>
+  <color rgb="87 97 36"/>
+  <color rgb="0 138 254"/>
+  <color rgb="87 97 27"/>
+  <color rgb="0 138 253"/>
+  <color rgb="87 97 26"/>
+  <color rgb="0 138 252"/>
+  <color rgb="120 126 79"/>
+  <color rgb="57 114 115"/>
+  <color rgb="93 99 57"/>
+  <color rgb="87 97 31"/>
+  <color rgb="87 97 30"/>
+  <color rgb="87 97 29"/>
+  <color rgb="87 97 28"/>
+  <color rgb="57 114 118"/>
+  <color rgb="93 99 60"/>
+  <color rgb="57 114 117"/>
+  <color rgb="93 99 51"/>
+  <color rgb="110 112 101"/>
+  <color rgb="110 112 91"/>
+  <color rgb="110 112 90"/>
+  <color rgb="93 99 52"/>
+  <color rgb="110 112 89"/>
+  <color rgb="103 94 2"/>
+  <color rgb="142 146 117"/>
+  <color rgb="93 99 27"/>
+  <color rgb="93 99 26"/>
+  <color rgb="88 100 41"/>
+  <color rgb="88 100 40"/>
+  <color rgb="88 100 45"/>
+  <color rgb="93 99 28"/>
+  <color rgb="98 95 12"/>
+  <color rgb="1 138 251"/>
+  <color rgb="94 99 64"/>
+  <color rgb="88 100 39"/>
+  <color rgb="88 100 38"/>
+  <color rgb="88 100 37"/>
+  <color rgb="58 114 126"/>
+  <color rgb="88 100 36"/>
+  <color rgb="88 100 27"/>
+  <color rgb="88 100 26"/>
+  <color rgb="58 114 115"/>
+  <color rgb="88 100 25"/>
+  <color rgb="58 114 114"/>
+  <color rgb="88 100 24"/>
+  <color rgb="88 100 31"/>
+  <color rgb="58 114 113"/>
+  <color rgb="94 99 63"/>
+  <color rgb="94 99 62"/>
+  <color rgb="88 100 30"/>
+  <color rgb="88 100 29"/>
+  <color rgb="88 100 28"/>
+  <color rgb="58 114 116"/>
+  <color rgb="105 113 58"/>
+  <color rgb="105 113 63"/>
+  <color rgb="94 99 41"/>
+  <color rgb="116 124 77"/>
+  <color rgb="94 99 45"/>
+  <color rgb="122 126 102"/>
+  <color rgb="94 99 26"/>
+  <color rgb="94 99 25"/>
+  <color rgb="95 99 72"/>
+  <color rgb="99 95 11"/>
+  <color rgb="99 95 10"/>
+  <color rgb="99 95 8"/>
+  <color rgb="95 99 67"/>
+  <color rgb="89 100 35"/>
+  <color rgb="89 100 34"/>
+  <color rgb="99 95 12"/>
+  <color rgb="89 100 33"/>
+  <color rgb="95 99 65"/>
+  <color rgb="89 100 32"/>
+  <color rgb="2 138 250"/>
+  <color rgb="2 138 249"/>
+  <color rgb="89 100 38"/>
+  <color rgb="89 100 37"/>
+  <color rgb="95 99 68"/>
+  <color rgb="89 100 36"/>
+  <color rgb="95 99 56"/>
+  <color rgb="59 114 113"/>
+  <color rgb="89 100 31"/>
+  <color rgb="95 99 63"/>
+  <color rgb="59 114 112"/>
+  <color rgb="89 100 30"/>
+  <color rgb="89 100 29"/>
+  <color rgb="89 100 28"/>
+  <color rgb="59 114 111"/>
+  <color rgb="106 113 63"/>
+  <color rgb="100 95 19"/>
+  <color rgb="90 100 43"/>
+  <color rgb="90 100 42"/>
+  <color rgb="90 100 41"/>
+  <color rgb="90 100 40"/>
+  <color rgb="100 95 10"/>
+  <color rgb="100 95 9"/>
+  <color rgb="100 95 8"/>
+  <color rgb="54 112 103"/>
+  <color rgb="90 100 35"/>
+  <color rgb="90 100 34"/>
+  <color rgb="90 100 33"/>
+  <color rgb="90 100 32"/>
+  <color rgb="90 100 39"/>
+  <color rgb="90 100 38"/>
+  <color rgb="3 138 248"/>
+  <color rgb="107 113 75"/>
+  <color rgb="101 111 53"/>
+  <color rgb="90 100 37"/>
+  <color rgb="90 100 36"/>
+  <color rgb="90 100 31"/>
+  <color rgb="156 160 139"/>
+  <color rgb="101 95 26"/>
+  <color rgb="101 95 25"/>
+  <color rgb="91 100 49"/>
+  <color rgb="91 100 48"/>
+  <color rgb="101 95 23"/>
+  <color rgb="108 113 89"/>
+  <color rgb="108 113 88"/>
+  <color rgb="91 100 43"/>
+  <color rgb="91 100 42"/>
+  <color rgb="91 100 41"/>
+  <color rgb="91 100 40"/>
+  <color rgb="91 100 47"/>
+  <color rgb="91 100 46"/>
+  <color rgb="101 95 8"/>
+  <color rgb="91 100 45"/>
+  <color rgb="91 100 44"/>
+  <color rgb="96 96 19"/>
+  <color rgb="96 96 18"/>
+  <color rgb="108 113 87"/>
+  <color rgb="91 100 34"/>
+  <color rgb="96 96 17"/>
+  <color rgb="91 100 33"/>
+  <color rgb="96 96 16"/>
+  <color rgb="91 100 32"/>
+  <color rgb="108 113 85"/>
+  <color rgb="91 100 39"/>
+  <color rgb="102 111 55"/>
+  <color rgb="102 111 54"/>
+  <color rgb="91 100 38"/>
+  <color rgb="91 100 37"/>
+  <color rgb="102 111 53"/>
+  <color rgb="101 95 7"/>
+  <color rgb="91 100 36"/>
+  <color rgb="56 115 131"/>
+  <color rgb="96 96 15"/>
+  <color rgb="91 100 31"/>
+  <color rgb="91 100 30"/>
+  <color rgb="92 100 66"/>
+  <color rgb="157 160 138"/>
+  <color rgb="86 98 27"/>
+  <color rgb="61 114 108"/>
+  <color rgb="86 98 26"/>
+  <color rgb="157 160 136"/>
+  <color rgb="92 100 57"/>
+  <color rgb="86 98 25"/>
+  <color rgb="86 98 24"/>
+  <color rgb="56 115 119"/>
+  <color rgb="56 115 118"/>
+  <color rgb="92 100 51"/>
+  <color rgb="56 115 117"/>
+  <color rgb="92 100 50"/>
+  <color rgb="92 100 49"/>
+  <color rgb="92 100 48"/>
+  <color rgb="102 95 19"/>
+  <color rgb="92 100 55"/>
+  <color rgb="92 100 54"/>
+  <color rgb="109 113 91"/>
+  <color rgb="92 100 53"/>
+  <color rgb="109 113 90"/>
+  <color rgb="92 100 52"/>
+  <color rgb="109 113 89"/>
+  <color rgb="92 100 43"/>
+  <color rgb="102 95 22"/>
+  <color rgb="109 113 88"/>
+  <color rgb="92 100 42"/>
+  <color rgb="102 95 20"/>
+  <color rgb="92 100 40"/>
+  <color rgb="92 100 47"/>
+  <color rgb="109 113 92"/>
+  <color rgb="92 100 46"/>
+  <color rgb="92 100 44"/>
+  <color rgb="92 100 34"/>
+  <color rgb="97 96 18"/>
+  <color rgb="109 113 87"/>
+  <color rgb="97 96 17"/>
+  <color rgb="97 96 16"/>
+  <color rgb="92 100 39"/>
+  <color rgb="92 100 38"/>
+  <color rgb="97 96 15"/>
+  <color rgb="92 100 30"/>
+  <color rgb="97 96 14"/>
+  <color rgb="120 127 83"/>
+  <color rgb="87 98 32"/>
+  <color rgb="0 139 255"/>
+  <color rgb="93 100 59"/>
+  <color rgb="87 98 27"/>
+  <color rgb="93 100 58"/>
+  <color rgb="87 98 26"/>
+  <color rgb="93 100 57"/>
+  <color rgb="93 100 56"/>
+  <color rgb="87 98 31"/>
+  <color rgb="87 98 30"/>
+  <color rgb="93 100 61"/>
+  <color rgb="103 95 24"/>
+  <color rgb="87 98 29"/>
+  <color rgb="110 113 97"/>
+  <color rgb="93 100 60"/>
+  <color rgb="87 98 28"/>
+  <color rgb="93 100 51"/>
+  <color rgb="57 115 117"/>
+  <color rgb="93 100 50"/>
+  <color rgb="57 115 116"/>
+  <color rgb="103 95 28"/>
+  <color rgb="103 95 19"/>
+  <color rgb="93 100 55"/>
+  <color rgb="110 113 91"/>
+  <color rgb="93 100 54"/>
+  <color rgb="110 113 90"/>
+  <color rgb="93 100 53"/>
+  <color rgb="104 114 58"/>
+  <color rgb="110 113 89"/>
+  <color rgb="93 100 52"/>
+  <color rgb="47 117 140"/>
+  <color rgb="110 113 94"/>
+  <color rgb="103 95 20"/>
+  <color rgb="110 113 93"/>
+  <color rgb="98 96 24"/>
+  <color rgb="88 101 56"/>
+  <color rgb="115 109 72"/>
+  <color rgb="110 113 92"/>
+  <color rgb="98 96 19"/>
+  <color rgb="142 147 115"/>
+  <color rgb="142 147 114"/>
+  <color rgb="98 96 16"/>
+  <color rgb="88 101 55"/>
+  <color rgb="98 96 21"/>
+  <color rgb="88 101 41"/>
+  <color rgb="88 101 40"/>
+  <color rgb="98 96 15"/>
+  <color rgb="98 96 14"/>
+  <color rgb="98 96 13"/>
+  <color rgb="98 96 12"/>
+  <color rgb="88 101 44"/>
+  <color rgb="94 100 67"/>
+  <color rgb="94 100 66"/>
+  <color rgb="94 100 65"/>
+  <color rgb="94 100 64"/>
+  <color rgb="88 101 39"/>
+  <color rgb="88 101 38"/>
+  <color rgb="111 113 106"/>
+  <color rgb="88 101 37"/>
+  <color rgb="111 113 105"/>
+  <color rgb="94 100 68"/>
+  <color rgb="94 100 58"/>
+  <color rgb="94 100 57"/>
+  <color rgb="94 100 56"/>
+  <color rgb="94 100 63"/>
+  <color rgb="94 100 62"/>
+  <color rgb="111 113 98"/>
+  <color rgb="94 100 61"/>
+  <color rgb="111 113 97"/>
+  <color rgb="94 100 60"/>
+  <color rgb="111 113 96"/>
+  <color rgb="78 103 55"/>
+  <color rgb="94 100 55"/>
+  <color rgb="111 113 91"/>
+  <color rgb="105 114 59"/>
+  <color rgb="94 100 53"/>
+  <color rgb="111 113 95"/>
+  <color rgb="111 113 94"/>
+  <color rgb="111 113 93"/>
+  <color rgb="122 127 91"/>
+  <color rgb="99 96 21"/>
+  <color rgb="99 96 11"/>
+  <color rgb="122 127 88"/>
+  <color rgb="95 100 74"/>
+  <color rgb="95 100 73"/>
+  <color rgb="95 100 72"/>
+  <color rgb="99 96 12"/>
+  <color rgb="89 101 35"/>
+  <color rgb="95 100 66"/>
+  <color rgb="95 100 65"/>
+  <color rgb="95 100 64"/>
+  <color rgb="95 100 71"/>
+  <color rgb="95 100 70"/>
+  <color rgb="95 100 69"/>
+  <color rgb="89 101 37"/>
+  <color rgb="95 100 68"/>
+  <color rgb="89 101 36"/>
+  <color rgb="89 101 31"/>
+  <color rgb="89 101 30"/>
+  <color rgb="89 101 29"/>
+  <color rgb="79 103 60"/>
+  <color rgb="106 114 59"/>
+  <color rgb="100 96 26"/>
+  <color rgb="117 125 78"/>
+  <color rgb="106 114 60"/>
+  <color rgb="54 113 112"/>
+  <color rgb="95 100 33"/>
+  <color rgb="100 96 22"/>
+  <color rgb="90 101 35"/>
+  <color rgb="90 101 34"/>
+  <color rgb="90 101 33"/>
+  <color rgb="90 101 32"/>
+  <color rgb="90 101 38"/>
+  <color rgb="90 101 37"/>
+  <color rgb="90 101 36"/>
+  <color rgb="172 174 159"/>
+  <color rgb="90 101 31"/>
+  <color rgb="90 101 30"/>
+  <color rgb="97 97 99"/>
+  <color rgb="97 97 98"/>
+  <color rgb="97 97 97"/>
+  <color rgb="118 125 79"/>
+  <color rgb="45 118 145"/>
+  <color rgb="45 118 150"/>
+  <color rgb="45 118 143"/>
+  <color rgb="96 97 27"/>
+  <color rgb="91 101 42"/>
+  <color rgb="91 101 41"/>
+  <color rgb="91 101 40"/>
+  <color rgb="91 101 35"/>
+  <color rgb="96 97 19"/>
+  <color rgb="91 101 34"/>
+  <color rgb="96 97 18"/>
+  <color rgb="173 174 160"/>
+  <color rgb="96 97 17"/>
+  <color rgb="91 101 39"/>
+  <color rgb="96 97 23"/>
+  <color rgb="91 101 38"/>
+  <color rgb="91 101 37"/>
+  <color rgb="96 97 21"/>
+  <color rgb="91 101 36"/>
+  <color rgb="96 97 20"/>
+  <color rgb="125 127 115"/>
+  <color rgb="102 96 44"/>
+  <color rgb="102 96 32"/>
+  <color rgb="98 97 102"/>
+  <color rgb="98 97 101"/>
+  <color rgb="130 131 120"/>
+  <color rgb="92 101 48"/>
+  <color rgb="46 118 138"/>
+  <color rgb="46 118 143"/>
+  <color rgb="46 118 142"/>
+  <color rgb="174 174 170"/>
+  <color rgb="92 101 43"/>
+  <color rgb="97 97 27"/>
+  <color rgb="46 118 141"/>
+  <color rgb="92 101 42"/>
+  <color rgb="92 101 41"/>
+  <color rgb="92 101 40"/>
+  <color rgb="97 97 24"/>
+  <color rgb="92 101 47"/>
+  <color rgb="92 101 46"/>
+  <color rgb="92 101 45"/>
+  <color rgb="97 97 18"/>
+  <color rgb="97 97 17"/>
+  <color rgb="92 101 39"/>
+  <color rgb="97 97 23"/>
+  <color rgb="92 101 36"/>
+  <color rgb="0 140 255"/>
+  <color rgb="87 99 27"/>
+  <color rgb="87 99 26"/>
+  <color rgb="47 118 147"/>
+  <color rgb="93 101 57"/>
+  <color rgb="87 99 29"/>
+  <color rgb="87 99 28"/>
+  <color rgb="93 101 51"/>
+  <color rgb="98 97 34"/>
+  <color rgb="47 118 139"/>
+  <color rgb="93 101 49"/>
+  <color rgb="98 97 33"/>
+  <color rgb="47 118 138"/>
+  <color rgb="76 88 14"/>
+  <color rgb="110 114 91"/>
+  <color rgb="93 101 53"/>
+  <color rgb="47 118 142"/>
+  <color rgb="93 101 52"/>
+  <color rgb="93 101 43"/>
+  <color rgb="47 118 141"/>
+  <color rgb="93 101 42"/>
+  <color rgb="47 118 140"/>
+  <color rgb="110 114 94"/>
+  <color rgb="110 114 93"/>
+  <color rgb="110 114 92"/>
+  <color rgb="93 101 47"/>
+  <color rgb="93 101 46"/>
+  <color rgb="93 101 45"/>
+  <color rgb="93 101 44"/>
+  <color rgb="42 119 149"/>
+  <color rgb="94 101 81"/>
+  <color rgb="98 97 16"/>
+  <color rgb="98 97 15"/>
+  <color rgb="78 104 64"/>
+  <color rgb="94 101 57"/>
+  <color rgb="94 101 56"/>
+  <color rgb="111 114 99"/>
+  <color rgb="94 101 62"/>
+  <color rgb="94 101 61"/>
+  <color rgb="111 114 97"/>
+  <color rgb="78 104 63"/>
+  <color rgb="111 114 96"/>
+  <color rgb="78 104 62"/>
+  <color rgb="78 104 61"/>
+  <color rgb="94 101 54"/>
+  <color rgb="94 101 53"/>
+  <color rgb="111 114 95"/>
+  <color rgb="111 114 94"/>
+  <color rgb="43 119 147"/>
+  <color rgb="111 114 93"/>
+  <color rgb="111 114 92"/>
+  <color rgb="43 119 150"/>
+  <color rgb="43 119 149"/>
+  <color rgb="121 128 83"/>
+  <color rgb="99 97 14"/>
+  <color rgb="121 128 80"/>
+  <color rgb="121 128 84"/>
+  <color rgb="95 101 64"/>
+  <color rgb="79 104 64"/>
+  <color rgb="95 101 69"/>
+  <color rgb="95 101 68"/>
+  <color rgb="95 101 59"/>
+  <color rgb="95 101 58"/>
+  <color rgb="95 101 57"/>
+  <color rgb="144 145 137"/>
+  <color rgb="79 104 58"/>
+  <color rgb="95 101 63"/>
+  <color rgb="79 104 57"/>
+  <color rgb="95 101 61"/>
+  <color rgb="79 104 63"/>
+  <color rgb="79 104 62"/>
+  <color rgb="79 104 61"/>
+  <color rgb="79 104 60"/>
+  <color rgb="144 145 130"/>
+  <color rgb="44 119 154"/>
+  <color rgb="144 145 129"/>
+  <color rgb="95 101 55"/>
+  <color rgb="100 97 36"/>
+  <color rgb="44 119 147"/>
+  <color rgb="44 119 146"/>
+  <color rgb="44 119 145"/>
+  <color rgb="44 119 144"/>
+  <color rgb="44 119 149"/>
+  <color rgb="96 98 82"/>
+  <color rgb="49 115 125"/>
+  <color rgb="101 97 57"/>
+  <color rgb="194 192 195"/>
+  <color rgb="90 102 30"/>
+  <color rgb="118 126 80"/>
+  <color rgb="97 98 98"/>
+  <color rgb="55 114 122"/>
+  <color rgb="55 114 120"/>
+  <color rgb="75 105 70"/>
+  <color rgb="75 105 69"/>
+  <color rgb="107 115 62"/>
+  <color rgb="45 119 146"/>
+  <color rgb="45 119 145"/>
+  <color rgb="96 98 47"/>
+  <color rgb="107 115 60"/>
+  <color rgb="45 119 144"/>
+  <color rgb="55 114 119"/>
+  <color rgb="55 114 118"/>
+  <color rgb="45 119 148"/>
+  <color rgb="45 119 143"/>
+  <color rgb="97 98 85"/>
+  <color rgb="45 119 142"/>
+  <color rgb="91 102 41"/>
+  <color rgb="91 102 40"/>
+  <color rgb="91 102 35"/>
+  <color rgb="96 98 19"/>
+  <color rgb="91 102 39"/>
+  <color rgb="96 98 23"/>
+  <color rgb="91 102 38"/>
+  <color rgb="91 102 37"/>
+  <color rgb="96 98 21"/>
+  <color rgb="91 102 36"/>
+  <color rgb="173 175 158"/>
+  <color rgb="98 98 99"/>
+  <color rgb="119 126 80"/>
+  <color rgb="98 98 98"/>
+  <color rgb="76 105 67"/>
+  <color rgb="119 126 85"/>
+  <color rgb="46 119 154"/>
+  <color rgb="76 105 66"/>
+  <color rgb="86 100 38"/>
+  <color rgb="98 98 100"/>
+  <color rgb="76 105 68"/>
+  <color rgb="108 115 61"/>
+  <color rgb="46 119 146"/>
+  <color rgb="98 98 95"/>
+  <color rgb="46 119 145"/>
+  <color rgb="46 119 144"/>
+  <color rgb="51 115 128"/>
+  <color rgb="46 119 150"/>
+  <color rgb="97 98 38"/>
+  <color rgb="41 120 155"/>
+  <color rgb="97 98 37"/>
+  <color rgb="46 119 143"/>
+  <color rgb="41 120 153"/>
+  <color rgb="46 119 142"/>
+  <color rgb="92 102 43"/>
+  <color rgb="41 120 152"/>
+  <color rgb="92 102 42"/>
+  <color rgb="92 102 41"/>
+  <color rgb="92 102 40"/>
+  <color rgb="92 102 45"/>
+  <color rgb="92 102 44"/>
+  <color rgb="92 102 39"/>
+  <color rgb="97 98 23"/>
+  <color rgb="92 102 38"/>
+  <color rgb="92 102 37"/>
+  <color rgb="92 102 36"/>
+  <color rgb="87 100 41"/>
+  <color rgb="99 98 104"/>
+  <color rgb="87 100 40"/>
+  <color rgb="47 119 167"/>
+  <color rgb="99 98 99"/>
+  <color rgb="77 105 67"/>
+  <color rgb="77 105 66"/>
+  <color rgb="87 100 39"/>
+  <color rgb="77 105 65"/>
+  <color rgb="0 141 255"/>
+  <color rgb="77 105 64"/>
+  <color rgb="47 119 156"/>
+  <color rgb="93 102 55"/>
+  <color rgb="42 120 154"/>
+  <color rgb="52 115 127"/>
+  <color rgb="47 119 143"/>
+  <color rgb="42 120 153"/>
+  <color rgb="47 119 142"/>
+  <color rgb="93 102 43"/>
+  <color rgb="42 120 152"/>
+  <color rgb="93 102 42"/>
+  <color rgb="47 119 140"/>
+  <color rgb="93 102 41"/>
+  <color rgb="42 120 158"/>
+  <color rgb="93 102 40"/>
+  <color rgb="93 102 47"/>
+  <color rgb="93 102 46"/>
+  <color rgb="93 102 45"/>
+  <color rgb="93 102 44"/>
+  <color rgb="110 115 87"/>
+  <color rgb="42 120 151"/>
+  <color rgb="42 120 149"/>
+  <color rgb="93 102 39"/>
+  <color rgb="78 105 84"/>
+  <color rgb="100 98 105"/>
+  <color rgb="78 105 74"/>
+  <color rgb="100 98 108"/>
+  <color rgb="78 105 66"/>
+  <color rgb="78 105 65"/>
+  <color rgb="78 105 64"/>
+  <color rgb="159 162 136"/>
+  <color rgb="77 89 16"/>
+  <color rgb="73 106 75"/>
+  <color rgb="159 162 141"/>
+  <color rgb="94 102 62"/>
+  <color rgb="111 115 97"/>
+  <color rgb="78 105 63"/>
+  <color rgb="111 115 96"/>
+  <color rgb="94 102 51"/>
+  <color rgb="78 105 62"/>
+  <color rgb="53 115 123"/>
+  <color rgb="94 102 48"/>
+  <color rgb="94 102 54"/>
+  <color rgb="94 102 53"/>
+  <color rgb="53 115 126"/>
+  <color rgb="94 102 52"/>
+  <color rgb="73 106 71"/>
+  <color rgb="53 115 125"/>
+  <color rgb="43 120 152"/>
+  <color rgb="53 115 124"/>
+  <color rgb="111 115 95"/>
+  <color rgb="94 102 47"/>
+  <color rgb="94 102 46"/>
+  <color rgb="94 102 45"/>
+  <color rgb="94 102 44"/>
+  <color rgb="43 120 151"/>
+  <color rgb="43 120 150"/>
+  <color rgb="43 120 149"/>
+  <color rgb="95 102 69"/>
+  <color rgb="95 102 59"/>
+  <color rgb="95 102 58"/>
+  <color rgb="78 89 16"/>
+  <color rgb="95 102 57"/>
+  <color rgb="74 106 75"/>
+  <color rgb="95 102 56"/>
+  <color rgb="74 106 73"/>
+  <color rgb="54 115 135"/>
+  <color rgb="74 106 72"/>
+  <color rgb="79 105 63"/>
+  <color rgb="79 105 62"/>
+  <color rgb="79 105 61"/>
+  <color rgb="54 115 122"/>
+  <color rgb="54 115 126"/>
+  <color rgb="54 115 125"/>
+  <color rgb="54 115 124"/>
+  <color rgb="95 102 47"/>
+  <color rgb="44 120 147"/>
+  <color rgb="54 115 118"/>
+  <color rgb="44 120 150"/>
+  <color rgb="44 120 149"/>
+  <color rgb="44 120 148"/>
+  <color rgb="96 99 72"/>
+  <color rgb="96 99 79"/>
+  <color rgb="96 99 78"/>
+  <color rgb="96 99 77"/>
+  <color rgb="96 99 76"/>
+  <color rgb="85 101 47"/>
+  <color rgb="75 106 73"/>
+  <color rgb="55 115 135"/>
+  <color rgb="75 106 72"/>
+  <color rgb="85 101 45"/>
+  <color rgb="55 115 134"/>
+  <color rgb="85 101 44"/>
+  <color rgb="55 115 123"/>
+  <color rgb="55 115 122"/>
+  <color rgb="189 189 187"/>
+  <color rgb="55 115 121"/>
+  <color rgb="145 146 135"/>
+  <color rgb="55 115 120"/>
+  <color rgb="75 106 71"/>
+  <color rgb="75 106 70"/>
+  <color rgb="97 99 90"/>
+  <color rgb="75 106 69"/>
+  <color rgb="50 116 130"/>
+  <color rgb="50 116 129"/>
+  <color rgb="55 115 119"/>
+  <color rgb="45 120 146"/>
+  <color rgb="55 115 118"/>
+  <color rgb="55 115 117"/>
+  <color rgb="50 116 133"/>
+  <color rgb="40 121 160"/>
+  <color rgb="50 116 132"/>
+  <color rgb="45 120 149"/>
+  <color rgb="97 99 87"/>
+  <color rgb="40 121 155"/>
+  <color rgb="97 99 86"/>
+  <color rgb="50 116 127"/>
+  <color rgb="97 99 85"/>
+  <color rgb="97 99 84"/>
+  <color rgb="40 121 159"/>
+  <color rgb="40 121 157"/>
+  <color rgb="40 121 156"/>
+  <color rgb="123 129 85"/>
+  <color rgb="91 103 38"/>
+  <color rgb="86 101 43"/>
+  <color rgb="86 101 42"/>
+  <color rgb="76 106 75"/>
+  <color rgb="86 101 40"/>
+  <color rgb="76 106 73"/>
+  <color rgb="51 116 151"/>
+  <color rgb="119 127 82"/>
+  <color rgb="86 101 44"/>
+  <color rgb="76 106 67"/>
+  <color rgb="76 106 70"/>
+  <color rgb="98 99 91"/>
+  <color rgb="76 106 69"/>
+  <color rgb="119 127 79"/>
+  <color rgb="51 116 140"/>
+  <color rgb="108 116 63"/>
+  <color rgb="51 116 131"/>
+  <color rgb="76 106 68"/>
+  <color rgb="98 99 89"/>
+  <color rgb="108 116 62"/>
+  <color rgb="51 116 130"/>
+  <color rgb="98 99 88"/>
+  <color rgb="51 116 128"/>
+  <color rgb="41 121 162"/>
+  <color rgb="98 99 92"/>
+  <color rgb="51 116 133"/>
+  <color rgb="98 99 82"/>
+  <color rgb="98 99 87"/>
+  <color rgb="41 121 155"/>
+  <color rgb="41 121 154"/>
+  <color rgb="41 121 153"/>
+  <color rgb="92 103 43"/>
+  <color rgb="46 120 143"/>
+  <color rgb="41 121 157"/>
+  <color rgb="41 121 156"/>
+  <color rgb="174 176 160"/>
+  <color rgb="174 176 164"/>
+  <color rgb="77 106 83"/>
+  <color rgb="92 103 39"/>
+  <color rgb="92 103 36"/>
+  <color rgb="87 101 43"/>
+  <color rgb="87 101 42"/>
+  <color rgb="87 101 41"/>
+  <color rgb="87 101 40"/>
+  <color rgb="99 99 104"/>
+  <color rgb="87 101 44"/>
+  <color rgb="99 99 99"/>
+  <color rgb="99 99 98"/>
+  <color rgb="99 99 97"/>
+  <color rgb="52 116 138"/>
+  <color rgb="77 106 67"/>
+  <color rgb="99 99 96"/>
+  <color rgb="87 101 39"/>
+  <color rgb="99 99 103"/>
+  <color rgb="99 99 102"/>
+  <color rgb="82 102 54"/>
+  <color rgb="0 142 255"/>
+  <color rgb="99 99 101"/>
+  <color rgb="82 102 53"/>
+  <color rgb="77 106 71"/>
+  <color rgb="99 99 100"/>
+  <color rgb="82 102 52"/>
+  <color rgb="77 106 69"/>
+  <color rgb="99 99 90"/>
+  <color rgb="77 106 68"/>
+  <color rgb="52 116 129"/>
+  <color rgb="99 99 95"/>
+  <color rgb="52 116 128"/>
+  <color rgb="99 99 94"/>
+  <color rgb="99 99 93"/>
+  <color rgb="72 107 79"/>
+  <color rgb="99 99 92"/>
+  <color rgb="72 107 78"/>
+  <color rgb="72 107 77"/>
+  <color rgb="72 107 76"/>
+  <color rgb="52 116 127"/>
+  <color rgb="42 121 154"/>
+  <color rgb="42 121 153"/>
+  <color rgb="52 116 126"/>
+  <color rgb="42 121 152"/>
+  <color rgb="93 103 41"/>
+  <color rgb="42 121 158"/>
+  <color rgb="93 103 40"/>
+  <color rgb="175 176 163"/>
+  <color rgb="93 103 47"/>
+  <color rgb="93 103 46"/>
+  <color rgb="93 103 45"/>
+  <color rgb="93 103 44"/>
+  <color rgb="175 176 164"/>
+  <color rgb="93 103 38"/>
+  <color rgb="93 103 37"/>
+  <color rgb="100 99 107"/>
+  <color rgb="100 99 106"/>
+  <color rgb="100 99 105"/>
+  <color rgb="100 99 104"/>
+  <color rgb="100 99 109"/>
+  <color rgb="100 99 108"/>
+  <color rgb="100 99 99"/>
+  <color rgb="83 102 51"/>
+  <color rgb="100 99 98"/>
+  <color rgb="83 102 50"/>
+  <color rgb="100 99 97"/>
+  <color rgb="83 102 48"/>
+  <color rgb="100 99 103"/>
+  <color rgb="78 106 65"/>
+  <color rgb="100 99 102"/>
+  <color rgb="100 99 101"/>
+  <color rgb="100 99 100"/>
+  <color rgb="83 102 52"/>
+  <color rgb="73 107 75"/>
+  <color rgb="73 107 74"/>
+  <color rgb="53 116 128"/>
+  <color rgb="78 106 63"/>
+  <color rgb="73 107 78"/>
+  <color rgb="73 107 77"/>
+  <color rgb="94 103 50"/>
+  <color rgb="73 107 76"/>
+  <color rgb="94 103 49"/>
+  <color rgb="94 103 48"/>
+  <color rgb="48 117 138"/>
+  <color rgb="48 117 137"/>
+  <color rgb="48 117 136"/>
+  <color rgb="53 116 127"/>
+  <color rgb="53 116 126"/>
+  <color rgb="53 116 125"/>
+  <color rgb="94 103 43"/>
+  <color rgb="94 103 42"/>
+  <color rgb="48 117 131"/>
+  <color rgb="94 103 41"/>
+  <color rgb="94 103 47"/>
+  <color rgb="94 103 46"/>
+  <color rgb="94 103 45"/>
+  <color rgb="94 103 44"/>
+  <color rgb="43 121 151"/>
+  <color rgb="101 99 112"/>
+  <color rgb="101 99 107"/>
+  <color rgb="79 106 85"/>
+  <color rgb="101 99 105"/>
+  <color rgb="101 99 104"/>
+  <color rgb="101 99 110"/>
+  <color rgb="101 99 108"/>
+  <color rgb="84 102 50"/>
+  <color rgb="84 102 49"/>
+  <color rgb="84 102 48"/>
+  <color rgb="74 107 80"/>
+  <color rgb="78 90 19"/>
+  <color rgb="112 113 104"/>
+  <color rgb="74 107 75"/>
+  <color rgb="74 107 74"/>
+  <color rgb="84 102 47"/>
+  <color rgb="112 113 99"/>
+  <color rgb="74 107 73"/>
+  <color rgb="84 102 46"/>
+  <color rgb="74 107 72"/>
+  <color rgb="107 117 112"/>
+  <color rgb="95 103 51"/>
+  <color rgb="95 103 50"/>
+  <color rgb="54 116 123"/>
+  <color rgb="74 107 76"/>
+  <color rgb="95 103 49"/>
+  <color rgb="54 116 122"/>
+  <color rgb="95 103 48"/>
+  <color rgb="49 117 137"/>
+  <color rgb="54 116 127"/>
+  <color rgb="95 103 52"/>
+  <color rgb="54 116 125"/>
+  <color rgb="44 121 152"/>
+  <color rgb="49 117 135"/>
+  <color rgb="95 103 45"/>
+  <color rgb="49 117 134"/>
+  <color rgb="96 100 82"/>
+  <color rgb="44 121 148"/>
+  <color rgb="85 102 71"/>
+  <color rgb="96 100 75"/>
+  <color rgb="96 100 74"/>
+  <color rgb="96 100 73"/>
+  <color rgb="96 100 72"/>
+  <color rgb="96 100 79"/>
+  <color rgb="96 100 78"/>
+  <color rgb="96 100 77"/>
+  <color rgb="96 100 76"/>
+  <color rgb="85 102 50"/>
+  <color rgb="85 102 49"/>
+  <color rgb="85 102 48"/>
+  <color rgb="75 107 82"/>
+  <color rgb="128 134 99"/>
+  <color rgb="96 100 70"/>
+  <color rgb="96 100 69"/>
+  <color rgb="79 90 18"/>
+  <color rgb="96 100 68"/>
+  <color rgb="80 103 58"/>
+  <color rgb="80 103 57"/>
+  <color rgb="75 107 75"/>
+  <color rgb="80 103 56"/>
+  <color rgb="85 102 47"/>
+  <color rgb="50 117 145"/>
+  <color rgb="75 107 74"/>
+  <color rgb="85 102 46"/>
+  <color rgb="75 107 73"/>
+  <color rgb="79 90 20"/>
+  <color rgb="85 102 45"/>
+  <color rgb="75 107 72"/>
+  <color rgb="55 116 121"/>
+  <color rgb="80 103 55"/>
+  <color rgb="55 116 120"/>
+  <color rgb="80 103 54"/>
+  <color rgb="75 107 71"/>
+  <color rgb="75 107 70"/>
+  <color rgb="55 116 124"/>
+  <color rgb="50 117 131"/>
+  <color rgb="97 100 88"/>
+  <color rgb="50 117 135"/>
+  <color rgb="50 117 134"/>
+  <color rgb="40 122 161"/>
+  <color rgb="50 117 133"/>
+  <color rgb="97 100 83"/>
+  <color rgb="50 117 132"/>
+  <color rgb="97 100 82"/>
+  <color rgb="97 100 81"/>
+  <color rgb="97 100 80"/>
+  <color rgb="97 100 87"/>
+  <color rgb="97 100 86"/>
+  <color rgb="97 100 85"/>
+  <color rgb="97 100 84"/>
+  <color rgb="86 102 68"/>
+  <color rgb="97 100 75"/>
+  <color rgb="40 122 159"/>
+  <color rgb="97 100 74"/>
+  <color rgb="40 122 158"/>
+  <color rgb="97 100 73"/>
+  <color rgb="97 100 79"/>
+  <color rgb="97 100 78"/>
+  <color rgb="97 100 77"/>
+  <color rgb="129 134 104"/>
+  <color rgb="97 100 76"/>
+  <color rgb="30 124 180"/>
+  <color rgb="97 100 69"/>
+  <color rgb="86 102 43"/>
+  <color rgb="81 103 58"/>
+  <color rgb="129 134 102"/>
+  <color rgb="81 103 57"/>
+  <color rgb="81 103 56"/>
+  <color rgb="86 102 46"/>
+  <color rgb="86 102 45"/>
+  <color rgb="86 102 44"/>
+  <color rgb="129 134 93"/>
+  <color rgb="51 117 137"/>
+  <color rgb="81 103 55"/>
+  <color rgb="81 103 53"/>
+  <color rgb="51 117 141"/>
+  <color rgb="98 100 91"/>
+  <color rgb="98 100 90"/>
+  <color rgb="51 117 131"/>
+  <color rgb="98 100 89"/>
+  <color rgb="51 117 130"/>
+  <color rgb="98 100 88"/>
+  <color rgb="51 117 129"/>
+  <color rgb="98 100 95"/>
+  <color rgb="98 100 94"/>
+  <color rgb="98 100 93"/>
+  <color rgb="98 100 92"/>
+  <color rgb="98 100 83"/>
+  <color rgb="51 117 132"/>
+  <color rgb="98 100 87"/>
+  <color rgb="98 100 86"/>
+  <color rgb="98 100 85"/>
+  <color rgb="98 100 84"/>
+  <color rgb="41 122 157"/>
+  <color rgb="41 122 156"/>
+  <color rgb="77 107 89"/>
+  <color rgb="31 124 178"/>
+  <color rgb="31 124 177"/>
+  <color rgb="72 108 99"/>
+  <color rgb="31 124 180"/>
+  <color rgb="31 124 171"/>
+  <color rgb="87 102 43"/>
+  <color rgb="82 103 57"/>
+  <color rgb="87 102 40"/>
+  <color rgb="72 108 91"/>
+  <color rgb="109 117 67"/>
+  <color rgb="109 117 66"/>
+  <color rgb="87 102 45"/>
+  <color rgb="99 100 99"/>
+  <color rgb="82 103 51"/>
+  <color rgb="99 100 98"/>
+  <color rgb="99 100 97"/>
+  <color rgb="99 100 96"/>
+  <color rgb="82 103 55"/>
+  <color rgb="82 103 54"/>
+  <color rgb="72 108 81"/>
+  <color rgb="0 143 255"/>
+  <color rgb="72 108 80"/>
+  <color rgb="99 100 101"/>
+  <color rgb="82 103 53"/>
+  <color rgb="99 100 100"/>
+  <color rgb="82 103 52"/>
+  <color rgb="99 100 91"/>
+  <color rgb="99 100 90"/>
+  <color rgb="52 117 130"/>
+  <color rgb="99 100 88"/>
+  <color rgb="52 117 129"/>
+  <color rgb="99 100 95"/>
+  <color rgb="99 100 94"/>
+  <color rgb="99 100 93"/>
+  <color rgb="72 108 79"/>
+  <color rgb="99 100 92"/>
+  <color rgb="72 108 78"/>
+  <color rgb="93 104 49"/>
+  <color rgb="52 117 127"/>
+  <color rgb="83 103 74"/>
+  <color rgb="93 104 41"/>
+  <color rgb="83 103 65"/>
+  <color rgb="100 100 107"/>
+  <color rgb="100 100 106"/>
+  <color rgb="53 117 156"/>
+  <color rgb="100 100 105"/>
+  <color rgb="100 100 104"/>
+  <color rgb="100 100 99"/>
+  <color rgb="83 103 51"/>
+  <color rgb="110 117 71"/>
+  <color rgb="100 100 98"/>
+  <color rgb="100 100 97"/>
+  <color rgb="100 100 96"/>
+  <color rgb="100 100 103"/>
+  <color rgb="100 100 102"/>
+  <color rgb="100 100 101"/>
+  <color rgb="83 103 53"/>
+  <color rgb="73 108 87"/>
+  <color rgb="100 100 100"/>
+  <color rgb="83 103 52"/>
+  <color rgb="126 130 98"/>
+  <color rgb="73 108 79"/>
+  <color rgb="73 108 77"/>
+  <color rgb="48 118 139"/>
+  <color rgb="48 118 138"/>
+  <color rgb="48 118 137"/>
+  <color rgb="94 104 50"/>
+  <color rgb="48 118 136"/>
+  <color rgb="94 104 48"/>
+  <color rgb="94 104 40"/>
+  <color rgb="94 104 45"/>
+  <color rgb="94 104 44"/>
+  <color rgb="28 125 185"/>
+  <color rgb="101 100 107"/>
+  <color rgb="84 103 58"/>
+  <color rgb="101 100 106"/>
+  <color rgb="101 100 104"/>
+  <color rgb="101 100 110"/>
+  <color rgb="101 100 109"/>
+  <color rgb="101 100 108"/>
+  <color rgb="84 103 51"/>
+  <color rgb="84 103 50"/>
+  <color rgb="84 103 49"/>
+  <color rgb="28 125 181"/>
+  <color rgb="101 100 102"/>
+  <color rgb="101 100 101"/>
+  <color rgb="101 100 100"/>
+  <color rgb="74 108 74"/>
+  <color rgb="112 114 99"/>
+  <color rgb="112 114 98"/>
+  <color rgb="112 114 97"/>
+  <color rgb="112 114 96"/>
+  <color rgb="112 114 102"/>
+  <color rgb="74 108 76"/>
+  <color rgb="112 114 101"/>
+  <color rgb="95 104 51"/>
+  <color rgb="49 118 138"/>
+  <color rgb="49 118 137"/>
+  <color rgb="95 104 50"/>
+  <color rgb="112 114 100"/>
+  <color rgb="49 118 136"/>
+  <color rgb="95 104 49"/>
+  <color rgb="54 117 127"/>
+  <color rgb="95 104 48"/>
+  <color rgb="112 114 95"/>
+  <color rgb="95 104 52"/>
+  <color rgb="95 104 43"/>
+  <color rgb="49 118 135"/>
+  <color rgb="95 104 47"/>
+  <color rgb="95 104 45"/>
+  <color rgb="144 148 117"/>
+  <color rgb="29 125 184"/>
+  <color rgb="96 101 73"/>
+  <color rgb="39 120 156"/>
+  <color rgb="29 125 179"/>
+  <color rgb="96 101 67"/>
+  <color rgb="29 125 183"/>
+  <color rgb="96 101 66"/>
+  <color rgb="29 125 182"/>
+  <color rgb="85 103 48"/>
+  <color rgb="113 114 107"/>
+  <color rgb="96 101 70"/>
+  <color rgb="24 126 191"/>
+  <color rgb="80 104 59"/>
+  <color rgb="85 103 47"/>
+  <color rgb="80 104 58"/>
+  <color rgb="113 114 99"/>
+  <color rgb="79 91 20"/>
+  <color rgb="113 114 98"/>
+  <color rgb="113 114 96"/>
+  <color rgb="128 135 95"/>
+  <color rgb="113 114 103"/>
+  <color rgb="80 104 61"/>
+  <color rgb="80 104 60"/>
+  <color rgb="113 114 100"/>
+  <color rgb="50 118 134"/>
+  <color rgb="145 148 125"/>
+  <color rgb="50 118 133"/>
+  <color rgb="97 101 75"/>
+  <color rgb="97 101 73"/>
+  <color rgb="114 114 115"/>
+  <color rgb="30 125 179"/>
+  <color rgb="97 101 76"/>
+  <color rgb="25 126 192"/>
+  <color rgb="30 125 183"/>
+  <color rgb="30 125 182"/>
+  <color rgb="30 125 181"/>
+  <color rgb="30 125 180"/>
+  <color rgb="97 101 71"/>
+  <color rgb="129 135 97"/>
+  <color rgb="81 104 71"/>
+  <color rgb="81 104 59"/>
+  <color rgb="81 104 58"/>
+  <color rgb="81 104 57"/>
+  <color rgb="81 104 56"/>
+  <color rgb="114 114 97"/>
+  <color rgb="129 135 95"/>
+  <color rgb="81 104 55"/>
+  <color rgb="51 118 134"/>
+  <color rgb="98 101 92"/>
+  <color rgb="98 101 82"/>
+  <color rgb="51 118 132"/>
+  <color rgb="98 101 87"/>
+  <color rgb="124 131 89"/>
+  <color rgb="98 101 86"/>
+  <color rgb="98 101 85"/>
+  <color rgb="31 125 179"/>
+  <color rgb="31 125 181"/>
+  <color rgb="31 125 180"/>
+  <color rgb="130 135 99"/>
+  <color rgb="26 126 191"/>
+  <color rgb="26 126 190"/>
+  <color rgb="82 104 56"/>
+  <color rgb="0 144 255"/>
+  <color rgb="72 109 81"/>
+  <color rgb="82 104 55"/>
+  <color rgb="99 101 91"/>
+  <color rgb="99 101 90"/>
+  <color rgb="82 104 53"/>
+  <color rgb="99 101 89"/>
+  <color rgb="99 101 88"/>
+  <color rgb="99 101 87"/>
+  <color rgb="99 101 86"/>
+  <color rgb="73 109 116"/>
+  <color rgb="27 126 187"/>
+  <color rgb="27 126 189"/>
+  <color rgb="27 126 188"/>
+  <color rgb="110 118 65"/>
+  <color rgb="100 101 97"/>
+  <color rgb="100 101 102"/>
+  <color rgb="48 119 141"/>
+  <color rgb="48 119 140"/>
+  <color rgb="132 135 104"/>
+  <color rgb="28 126 187"/>
+  <color rgb="28 126 186"/>
+  <color rgb="28 126 185"/>
+  <color rgb="28 126 188"/>
+  <color rgb="111 118 66"/>
+  <color rgb="101 101 98"/>
+  <color rgb="101 101 102"/>
+  <color rgb="101 101 101"/>
+  <color rgb="101 101 89"/>
+  <color rgb="112 115 99"/>
+  <color rgb="101 101 94"/>
+  <color rgb="112 115 98"/>
+  <color rgb="112 115 97"/>
+  <color rgb="112 115 96"/>
+  <color rgb="112 115 100"/>
+  <color rgb="95 105 50"/>
+  <color rgb="95 105 42"/>
+  <color rgb="39 121 162"/>
+  <color rgb="39 121 160"/>
+  <color rgb="95 105 45"/>
+  <color rgb="95 105 44"/>
+  <color rgb="80 105 83"/>
+  <color rgb="29 126 185"/>
+  <color rgb="29 126 184"/>
+  <color rgb="39 121 159"/>
+  <color rgb="29 126 190"/>
+  <color rgb="39 121 157"/>
+  <color rgb="80 105 73"/>
+  <color rgb="29 126 183"/>
+  <color rgb="29 126 182"/>
+  <color rgb="96 102 65"/>
+  <color rgb="96 102 64"/>
+  <color rgb="113 115 105"/>
+  <color rgb="96 102 68"/>
+  <color rgb="113 115 104"/>
+  <color rgb="24 127 191"/>
+  <color rgb="113 115 99"/>
+  <color rgb="113 115 98"/>
+  <color rgb="96 102 61"/>
+  <color rgb="80 105 62"/>
+  <color rgb="113 115 103"/>
+  <color rgb="80 105 61"/>
+  <color rgb="113 115 102"/>
+  <color rgb="80 105 60"/>
+  <color rgb="113 115 101"/>
+  <color rgb="113 115 100"/>
+  <color rgb="145 149 120"/>
+  <color rgb="30 126 184"/>
+  <color rgb="97 102 78"/>
+  <color rgb="25 127 195"/>
+  <color rgb="25 127 194"/>
+  <color rgb="97 102 77"/>
+  <color rgb="25 127 193"/>
+  <color rgb="25 127 192"/>
+  <color rgb="114 115 112"/>
+  <color rgb="97 102 67"/>
+  <color rgb="30 126 183"/>
+  <color rgb="97 102 66"/>
+  <color rgb="30 126 182"/>
+  <color rgb="97 102 65"/>
+  <color rgb="30 126 181"/>
+  <color rgb="97 102 64"/>
+  <color rgb="114 115 107"/>
+  <color rgb="114 115 106"/>
+  <color rgb="114 115 105"/>
+  <color rgb="97 102 68"/>
+  <color rgb="114 115 104"/>
+  <color rgb="25 127 190"/>
+  <color rgb="97 102 63"/>
+  <color rgb="114 115 103"/>
+  <color rgb="114 115 102"/>
+  <color rgb="114 115 101"/>
+  <color rgb="114 115 100"/>
+  <color rgb="71 107 81"/>
+  <color rgb="71 107 80"/>
+  <color rgb="71 107 79"/>
+  <color rgb="98 102 81"/>
+  <color rgb="98 102 84"/>
+  <color rgb="36 122 168"/>
+  <color rgb="98 102 75"/>
+  <color rgb="98 102 74"/>
+  <color rgb="98 102 73"/>
+  <color rgb="98 102 79"/>
+  <color rgb="31 126 179"/>
+  <color rgb="115 115 115"/>
+  <color rgb="26 127 194"/>
+  <color rgb="98 102 76"/>
+  <color rgb="26 127 193"/>
+  <color rgb="26 127 192"/>
+  <color rgb="36 122 166"/>
+  <color rgb="31 126 181"/>
+  <color rgb="36 122 165"/>
+  <color rgb="98 102 71"/>
+  <color rgb="31 126 180"/>
+  <color rgb="98 102 68"/>
+  <color rgb="130 136 98"/>
+  <color rgb="26 127 191"/>
+  <color rgb="147 149 139"/>
+  <color rgb="115 115 111"/>
+  <color rgb="130 136 97"/>
+  <color rgb="26 127 190"/>
+  <color rgb="115 115 110"/>
+  <color rgb="130 136 96"/>
+  <color rgb="115 115 108"/>
+  <color rgb="99 102 80"/>
+  <color rgb="99 102 87"/>
+  <color rgb="99 102 75"/>
+  <color rgb="99 102 79"/>
+  <color rgb="37 122 163"/>
+  <color rgb="37 122 161"/>
+  <color rgb="37 122 165"/>
+  <color rgb="37 122 164"/>
+  <color rgb="27 127 187"/>
+  <color rgb="27 127 190"/>
+  <color rgb="27 127 188"/>
+  <color rgb="100 102 91"/>
+  <color rgb="126 132 91"/>
+  <color rgb="100 102 87"/>
+  <color rgb="100 102 86"/>
+  <color rgb="122 117 106"/>
+  <color rgb="38 122 162"/>
+  <color rgb="38 122 161"/>
+  <color rgb="38 122 160"/>
+  <color rgb="38 122 165"/>
+  <color rgb="28 127 187"/>
+  <color rgb="38 122 159"/>
+  <color rgb="28 127 190"/>
+  <color rgb="33 123 173"/>
+  <color rgb="28 127 189"/>
+  <color rgb="111 119 67"/>
+  <color rgb="101 102 99"/>
+  <color rgb="160 163 145"/>
+  <color rgb="101 102 98"/>
+  <color rgb="101 102 97"/>
+  <color rgb="101 102 96"/>
+  <color rgb="111 119 68"/>
+  <color rgb="160 163 142"/>
+  <color rgb="101 102 95"/>
+  <color rgb="101 102 94"/>
+  <color rgb="160 163 140"/>
+  <color rgb="69 108 83"/>
+  <color rgb="69 108 86"/>
+  <color rgb="69 108 85"/>
+  <color rgb="144 150 120"/>
+  <color rgb="39 122 162"/>
+  <color rgb="39 122 161"/>
+  <color rgb="39 122 160"/>
+  <color rgb="34 123 176"/>
+  <color rgb="34 123 171"/>
+  <color rgb="29 127 186"/>
+  <color rgb="34 123 170"/>
+  <color rgb="29 127 185"/>
+  <color rgb="34 123 169"/>
+  <color rgb="39 122 159"/>
+  <color rgb="34 123 173"/>
+  <color rgb="34 123 172"/>
+  <color rgb="102 102 99"/>
+  <color rgb="102 102 97"/>
+  <color rgb="113 116 104"/>
+  <color rgb="96 103 59"/>
+  <color rgb="96 103 58"/>
+  <color rgb="96 103 57"/>
+  <color rgb="96 103 56"/>
+  <color rgb="113 116 99"/>
+  <color rgb="96 103 51"/>
+  <color rgb="113 116 103"/>
+  <color rgb="96 103 50"/>
+  <color rgb="70 108 92"/>
+  <color rgb="113 116 102"/>
+  <color rgb="96 103 49"/>
+  <color rgb="70 108 83"/>
+  <color rgb="113 116 101"/>
+  <color rgb="70 108 82"/>
+  <color rgb="113 116 100"/>
+  <color rgb="96 103 55"/>
+  <color rgb="96 103 52"/>
+  <color rgb="70 108 85"/>
+  <color rgb="70 108 84"/>
+  <color rgb="145 150 120"/>
+  <color rgb="35 123 171"/>
+  <color rgb="35 123 170"/>
+  <color rgb="35 123 169"/>
+  <color rgb="35 123 168"/>
+  <color rgb="24 128 195"/>
+  <color rgb="24 128 199"/>
+  <color rgb="24 128 198"/>
+  <color rgb="24 128 197"/>
+  <color rgb="24 128 196"/>
+  <color rgb="97 103 65"/>
+  <color rgb="97 103 64"/>
+  <pixels>
+   H4sIAAAAAAAAC+xdB5gUVdatrq7qgKvirjkg6CIiKgZ2TYgiJpKCmBXMOSAGwKyYs6KCAQUjoK5rRExrXiOYMaBrxHUVMfzmNfznzH13q7qme6ZnpkN1z/u+OV9Vd9d0V71679TNdxPfcTapEIZ6sh2ccpzTgQ2BYXhviFe5c2jv6AKMSzpOd8dxuiUcZzVgMHAY7sV1MTg/i/oH1/ua2O6FOfeO6zhXph3n1kyA2Xj9AjAN+ycCF2N+fpyu/Dluje3h2C7A70/Ded6ENbMctqckhcs2jcFY1jt4H/6G7UW4B90NXw3EPTgxKTxW7fOzqG9wnXcBTx0ILEg35qpZeH0KthsCq4EfrsR2bfN/lZRrKEdtiLUxGhhk1kk3s1YexzqZAPS1nFV2KF894co9IAZg/yLLVxZlBOddH2BF8NSpWcf5R4SnCMpUN2C7Mz5fOCV8UGmeCp8v5asjPHmu67Od2xTWy6isyFozzPl1icEY1yM4tjdge6MbjP8fsD/HyLnVPj+L+sIQs57JP09jri2Jdf5cOlf3Ix4FLsbrdVIis8TBRjTUcOxMrIsrQvaT1YzMxbXzbxx3sSfymOWs0oPjeg/Gf3qIrxbG/hRX7k21z88i/lA+aQ5DzTpOUFYKyVCz043tVN0xJ/v58bNn81woQ72O9TEypBsqMnh/FXDZPTj2pGRgo7coDTgf5kT4aiLlc7zuGoPzs4gvlINGhNbkqqlc9PeFz6j3kX9+Bx/dlBGZanaIq24173XE3HsoLbaIaul+xeA6cy3v4TyHJBrLWl2Bl8FbvY0eW+3zrReQr16P8NUsjPM7fu48tLBQqO1pNazFd8Ez92G/qyPYFPOorwH3/4P3DgIHHYJ59SK2j6TFhh62U01Ky/v9sf+OiRGo9jUWA66PtyhvueKvyoZswFxH84BjcD3HO2Ijtvph28Fn2DVJ8c+G9cHHrT5oEYHyFOWmf2Oe7A3+edQRrnnO4MoIngthUh6bOu1Uf8N3/eyLnlhr+hM5iFz0E879Ymw7ubn6IWWtuRijXbD9xS1ev+3iW34rNAcp24bt7Ytg37V8ZeEHtieus0Xx+iPMj5PBUyOdxhw0Od08VAcklz0OXIjvej0ltoe46n7FoJcn/qmrPdFVwvphdxPTuAU+X8rEPYSvlbw0NGTfi6KWx6Uc85HPhxtDzwXGlFxv4xnaPdQ+1Q/oj3mxYTaIiZoUsj1NNjreLGMvV3nqhTx4zuh+12COTcgE67Qe1qQ++3sx/trNjXtQWzzjtxxXrvkUw11HYXugL/Hyy6VFVjsMYz06K/uMo7CyQzDG5Kt0iK9exv6TSXm/2udnUb15QZmnG9bLEiY+6oV0Yxs535uBz4djvyuPw/9djfmzLubPb8DvIXyF91fF/LorJc9ClR3qKcaS10K7FnloBq7xMGPH0rVFuesqR+IbHeOHXxV4BP83H2+d7IpOyfV4BvB5QmS25dNWfiA0H2fTUDwJde7dye9Jq0O3RyhXbQpe2Rs89Fgeu5PayBk/RX5ycOwWZp32MeibB/XIUflA+Yk64qUYmjfw+kw3V9ZiTk/a8BLlrkERWSxqA2O+3HGO5Szlq9P9IJaEuvZ2mIe34/2VY3COFpWDctVJwHmZ3FjOME89gznyqi/+vKg9xiIYS3LWTti/1RU7S7cCnLRaRAZbEImR4Jrs4Ii+yPXaXsdb+eqHTC5fbQS+usW38lV7gtrVP8Ca2NzN5SraqN4DN+1Le4GxkTNHudb8eZWG2tJpq9oTY3eB4aLBBoMioKw1BuN7visy1bwIZ1GUPd4J4tOqfX3VGE9e+xaR+gzfZiSH08pX7QNqWz8U+xdjvUw2HKVcRZ3weSyW7018VL3YyCuBLmZ8+fyn/TyLdTXJE7tUf+wvgXHtie1fgXtNfhzt9sw7mWD4Lawbcn1mk8E9q/b1VRK0I5D7+ySF21UePRJz9qp2OB7tFZz7CzH+Cff9iXQuV/0zIzbhLVLtx/5ULnD8xhlfFqE+QrXt6bhyS13yX/h8+6zYucI51t0NZ23tt6/nBseFnHQh/YShGKwjgBMT1o/aHsD5TjmatpEjnNyYqiuwfxbmwTnp2ok7rxdQLuOY7+ZL3s+gEGdRpnjb6IbtaY0qX+3g5+bkfOZIvZ/2NBbtEbz/XBN3QnZaKVIrgbz1EN5bIl378Zy1CrV/XQy+ejOUN6e6IeXeI9uZH199QtNCYzEY+9+ZmFGOBZ+/XSNY2Q/yBqx+UP17mK8WQnPg/Z2RktotUfs6/YC/ZCRX2XJV9aBy1s64DyNTgV+MW9YB/qmGci6bu86V/cJco+C10tcTziF8FfsdjJ7N44cBDwInGHC/f+R7rG2+sgjXcRnmBfeV92UeuOYYpzBeAg+9Cdnpv6b+8AsRriJ3nY7P30pZ23ocwLVMOWpVN4jt5jrdMpQ711CrNQbn2tLr4pwl/3D+7gfs7EsMSBjDQrgM17k/8B3m6EaYywdinv6CsVmLOROsnUbdALg2Ar7PWrXfm+9hvZC1/VzZq9rjUa9QPaGvL7kcJwO4bc4tCbGXP2Jq3jWHKyPx6pNN/amf8V3vp23+WpxATnrT6D7dQzLWTEf8jAd5UnOrFu4X56/KTuSOm4BXgMMw96YCDxnOIR4ATgUuyYgewO1UzM0n8Cx92ID7k9ON45qjmGa4i9+zGTDFF9mLNkI+59fxgzlfC+NYC9CaUxvhHn2MMT8JRPWliTnIVwOhWOj/foD5f3da/FPVvlaLAFw/XFMPJCVXJxxfehPu2Szcu6XceHMWdQLKUpRrdgU6ZSSHouFZabiqKa4Jo7XzXL9rquGuU805bAwsh3N6F7g/JefInI11/cKoZo3uuGOIiTv8FmM5lbHSpp7UC01w1KQ8NV7C8tQl5jlFWWsDfN/RmPv31Yk9pB7B5xRzD97yJccnHBevsaWbJkUWi8saUhs3178PTAOWNDKO8kZbuEf552bDeZONfPZACNcWwYX8nGuJOiNzO/YExqaFy/JhMD47zJX46j9G+gtE5bOofXlYnpy1YZH/r/Z9aw20dwGvhzl6ayXleXBPtrHNSXORtQYC9cI1qSNiTMcZrIj/fxDfs6QB95/F/6+CY/ukpAafjbmLLzgXyFnn4z7uDnwSyTvkPu3QM/zq50mpzqf28//6AW9MLSAjNSc/TctzLPf3pWyZEZ3yNl9sU2oTo453I7B4RvqXTAv9fr7fmR2qNxKV6cLg+psa2m6VlPoA6r8ktP6IjoPanH/AcS/hPg1ICoYDH2BN34P3tzXxRVG5LepPCyMOPU70uqmXrZ0MxmZWJJ5zUjoYd352dlb0Odq2ov7AY33J8/jEzG9ue5m+LrUk147EeS5aI+daaqi/cCy2P2J+P5/J5Szqh3cA/05LTH2lz41zlrIUY1mp833ti617chMcRFCuGQEMBN7D/1wCbB8CY65ujIB18jf3RW7jb65pEI5d6GLeo/5GHiNvbmp+izLeFCObFeLQphCWEy4CPksLJzJn7SyOSUr6atJH+Wd8tgvWccLUuOTxV4TwqPl/jtOr+P85ptfKnsb+01CDwBdO/Ab4yuBbI2eM8Kpjb1b+7Guud7K5ltnpXJvibMPrD+LargHuTJh7kkcuVTDP4+tMwFec5xcmxFdeK3LVdJznLcDT6eqfS7XR18Q57JFtXEOe8aWdE5WpC6WcwPV0si927MUND9xcYK2rnHUA8KeM2NzJPev6AedEEY1zULml2PPkseS1xYAdfeGR94A/4vd7Z6Qu0q1Gf5xcAI+lg1q6YduKYpaxJZOTZuO+nGP46THzP835BfidT2G7M+7fZ9gu4gte8+X11vi+HfHZA47gWdzj5bH93ZP65By7PhWSP1SmuhfnvCBUHy96TeRjzoNJPCYhHFwMtzb0/AvZOpSvdq0BvqJMtTr1Yuw/iO1yieqfUxxAzqKcNSIruYXKWV0NZ72dKZ89UnmKPEAdlHap8UXw1MMZsQ9xDTJ+YdPQ91Rq3JT/VCbrZ86F13F9Afwb43goxvoojPVWGNurM/nrLYXlr6b4aZKRrfL9n9YTj/LkC0anUuhxlGlSCXlOsMbT3JT0zetVBt7S2ujM4TuZ9nSMx9N5uOoKw9scq2c96Y3ckvPhb5zgBDm0tcJXo3BuA4Bbce0exuZfnqDa5xUXaB4K5aywbkj+2h2YmixdT0SNmVrbbKmXsT/byZmmbU9qB98zJEspZ1Tb9hKNVV2zAMJ6GfsYMA7scqyn/5h1eUVIPywE5RbWA/8F92anpNia/xH6/+ZksGid8TD/8ftZQ5PPjauxfT8htczbKnOFbWcci9vwvWcm5PdfyKP7ucAhrvQQVX21pb9N/yJ75z1XQ/oguephnPfCOM9jaZfBub6P93rF4NzihIa8HeBjp3H9+A/x+UTzTGwtN4TzXMg1P/hi/5ncBEepT46f/wvHX+SL/buWYzTz5ZFwLe6D9fmaK+uW3D0lgpMNz5yH+7F1Qq5fbVO04ayotTvSgT1/Vh6on22KGVs9LswVk0PHUi5jv4UxrtgU1Q/QEu7Qa+X/9jM92TU2IRq/qbXPGZMertHZmrFmrRL28wzn+o9JSB2TONraRxkdcCXgMNzLLTFWwzHu5zMGo53X2swHzo3jXdEDw5xFefrehPiBW1M3WHmKdm/KRptkJJazkI+PHEY/9sHAR35gD1dZqhZ5qhDUN9dgc/aEj1nzm/HWHxhwn7Ut+Vk/LzcmNfz/lCfuo76M+7cb/ufP2VxwPPn+37GGT8Mxf8Hxi+H9P2Xz96FSmU7rbDJH+MCU3Me+fvO8pTy1GfZ/xv+di99d1RFfQVQOJEfNzEosyKqptsfd8v/IVwND8dGzmMuRFTt8te97FOSq1YA/kVMNV92PsdgVGOiJPava5xhHMMZxacNZ4dpZ1A0vS0gf16OKrG2neh/lqbm++NQeyuSPZbrZPPNps2ZswTg/0KPaU35xUzEHza3dMO8N8KXe3ByD741exfvBz3sZeZk2qnf5mS85dJlE0GMvny+An3XBcVskJN9uhDm/8D0aGvpuxqUzrpe2sUfTjWPSlQvZv2G8Izaq6Pe1Bqrvhe0b5KvHk5X3ezcHchH9gK9jHK53has+Ja9ifHpYnmoW9Amy1sxG2dxeMuSs3/H+vYCTbKwfqhylsZ3M56PeR///iQV4St/rY+xSu/pBTmA9yVGVRrGcp8dRt1zNyHWHYHuaqWV3ZR7eutL4LldhjxhMhXPT8pyj33QDT/x9+2DebJiRYwrxlANkMaeG4JjlS1wfj3PTifQ9YC8kJ2a9JslVr3MdYUwWc8Wu/irG4nza2s15kstGxeic4watw7ko8+v8XM4iBuD1cHz2J+opnszRlC9yFDnnG1/k+ksinBTlKc3tu9H8rtqsLU9VB2E7E1/z/m7hiu37yogOp7YmysS0zR+fltiSw9Ny39cwOmbYNqbxZrSJ/QPz6DugU6o43bKl4Px9OZnLV5y37BUVl/wbchU56SfgM9ZlxnsDsO1oOIzHkKu6YewuSFf/fOMMzfsg2O9qUCLXBp81tR7ob2EeBHOzNO6oqfhvff8vwLa+yGH1aJeqZYTzfijnboH7v4sb3L8oB0Vj+cMx6WoH43s6L/bLiixXzvxJ8tXWyVxb+xomtj0OtnaNWe+K8Rjhih9wHNZRX2ynhM6PfHUdxm5ipvrnHHeEfVjfeKIPfmLsWGdizn2I8V0i1XyevObnMQadNRQ+8CX3WnU+y1PxQ7TeFOfBPxPin+R9fCydP7YzzFEaH0GeusnEpT+VEHtBuXMd8/HVg4avqj22aq+izPQ4expiey5zEnyJZY8eT5/h3y1fFQ2VsxjrswL1P0fyRy8pMF81x64hJtnofLShM/+FPMX5ajmqtqD95ai7HYR7/19yUCaIvX8uhAZ7FT57gvZObIdhLc7MyPOpUjk/5Ks3Iny1uhuPGldH4fd/AO5Ii1x1LM7r01TTtvXVYsCztQCNQX8S43UlxvTpAjylcQhqk1o4I7l2p3HumO+yNvTah/ZrYGw67yvj9g/JNrhfGtDNkVh0+ncXwhzokJJ4hkrnF9OmfkXE7kp7+7VOdWtdUbb6Etv10mKvegaD9hHG6CobX9UmaO4xY35+9YOYg3x2cz5LaXd92Zf6ebS79/cDrotDDLpF6RCtS7xpBCqPV7O+DX+feWZR/+ClrtjNqjFu5KrZ2P6ckZiFydjfHfw5Mdl0fNVI6x9sEuqnY00DykrXFtD5yFEHG/+exjGEfXyWo+of+eoixCFejufB2NrNQjLWNeCGGVWKv9LY9WccsVdNxntDsb3Kb56rGvK3rP0qLygPbehLnfJ/5PHx8fU5GalHwNxelaHC9VeqfQ0WFgTzbnpGem8uBL74qMKyCjlnJ09i1yf7IlttB67q7Tcft05b1w5Ya6vGYDzjBup+rEV+aAGZSn18r/qi81l7lEWcwbybY1JB3RHy1UjWHalwzy7KVR9msWYSwlUTsD+2CB2Pnx8CXtsRa65HDMYzDtA8ZK01PDxPfKf6+6j73eTbflYWtQH2Gzw0Up+BfHWQX7n6DOSco4FlTZ7NcYwF9YN40EKg3PULthemRBe09qtAl6P+t4KxR0X1P43xe80PuM3KVBa1APoI14nkwV6eEL9hJXJyyDkTsfUzkmfD2AXGUbG2VXM2K/LZ9zh2nOGq9p7vrDLSyb7UdSmk/+0PnOFLbpi1T1nUEhpyi1hnLMRXjHFn/7pTKhA/wHiqN6DP7ZsUrtobr48owhdIm9Vhaakjc6vlKqlD5Et8VL48ZPX9LZER2XnNGJyzhUVr8JQX6ILqI2Tua7nrfFMm+gVIZkUPfAG/+6qXm2uTD4x7nwKuOhr4V6p964HaF4txChtn8vdI0LoutFMxh9naqSxqGayBNTdUg5K8xboj5fYRMv6TdfceSUqNmLMzwkVNyUrkss1ZHxH4Md08t9UrwvV62cvhsjw8RbA2FWuAsIc7eS0OcTQWFm0BfYTLpoN8ffLWm47USi2XzZ289Dy2+5ra6+9kxR7VFFdRjnoO27Wx/rLZ/HmE7QFqU2ctqiUKyFTTTB4Naw539oOY5Wqfu4VFW0EfYQaYH5Kv+jlSx6YcfEVOWgnfvXha9MD30s3Xr+L/7IXtz6yF7TTPbfUI8o3Wz2PdloPz2NQ1ToE1E9j3eTM/6MtZ7fO3sCgFyEnkpuluwFeMIZ1Rprwcxlo9CvnoYfzO9/iN+RmpZ1XoeLWvJ8FViySaz82pRyhXMaaT+p/29IzGKTD2k3UTbOynRb2CcaHMv7kxlJfDmu6UucaV2Ec4ytjTD3REthoADrqmCdlK8wJfxHHP4n9+bod5guQq2p7YE4Bx6icWsKnvmcmt61nt87awKAe4Hu72Gvd8GlMGHyF72PwEfAYMASd66aZlK8pV+6ZFZ/zG6I3VHq9KQWOj6NNjjY/xeWSqW00thYONTd3WTbCod5CvyEsbhWrkMj/ny4zwWKl+h/bxHvjOoSaf+bmU2KGakq22BfbA8Zs0w2v1Bq39wpyaAwvY1KcaWetHP+iFbLnKot5BvpoKXJQM4twpa13gSCxpKWzu5CTGhv7L2NjvcKTXjVfgu3lO5KvHsB6/TgvXtRebldrU3wHOLyBTkbuGm5gqG6du0d7AWPb73aBvCvXB3RLSP6yttfvIM6z9OQHftZ7JZ749LT2am+IgctYor33l2mjuH+slTM0Tp65y1mLAer7Ytap9zhYWlQZlqPUiPsIj6IsrQR4h7eusw/5LSnJujk9IvdBF2wkHFQvWfrndl/jOQv2y2FNrnDm+a4XPz8IiLqCPkDLWiiEfIfsBd2ijj3Ck0QMZv/B5Umpb3VNEPnN7gcap06ZO3W7/Alx1rfH/MU7B9nawaO/Q2s2DQrX7aHt/xG9bb3randiDea+syFbsy/VJqn3ZzgtBbeqMU9/Y2KnyxamTq1gbVGsTV/u8LSyqDe3tMzIV+Ai5fT4j+mBravfR7kS+ei4p/sAO2F/gSd5ge5etNPdvjC+9cyfn4SluWWudcVfUFa1MZWEhtivqgpSvLoj4CN+AXLR3K3yE5KPXgDXpDzQ29mfwXf3bYbxnGCpTMTfzFWDfAjZ1bvn5Br7N/bOwUJCjNgSXuNDTxoOr8DKnlvvuwBaJltvcjzK8dGdGZCvGL7yUbrp/YL2DXEXeucSXnJl8/d01Tp3xoeQpm/tnYSGgzETskRV+mp/I7e1F+ept8EznhPBasd+rvZmng586Ybs88Cx7nabapx6oNnXGKrAf8il57Okap743sLNv49QtLMKgPYp1rzbJiv4X5qnuxnaVgcy1e0p0l5bYr6YYvlrMDXozsw5Me8qlUaj+R7/eksZOlc+mTrnqZfM/lqssLAKQe7Tm1XMRnupucp13BI9NcOXYlvSdpvw0BzjA2NjHYLuoIzUZ2ptsRZmKPr2LgJML2NRpqzokIz2U1aZuucrCQkDeYa7gfq7UPe4e0v1mAp2ArVLCZ329lvWepp2FMpSL7X9MrNUw/MbyfvvjKup+7N/OHjQnF7Cpn2xqvwzzbT11C4t8YOzn8eCQMREdkPnNtLmTp1rbd5CcNAHb9dOiB97mBBxW7euuJCgnnQxslpF6xPl61OwHzPWF02ycuoVFY9DHt3xaYhQGh7jKA0/9mpTe9G3pkcoY0OdNH3niHLx+ogI9duIAtVMxTp29sm7Kk6dM/e+sjOTbnOQH/r9qn7uFRdww1NiPXvACniJoaz/PEd2vrXUYvsP/93aFq9ZzxR9YqVirISU4/9ZC6ymcAvRuovbLjRnpt7WYb2u/WFgUAtcy9cCVkoFNXePX5zviuxrWRtmKctRavsSFTsZ2t2zhWjHluD6ef+cKj6v2feD4ve0Hfr58ecp9M6Ij2tovFhaFwbU8AljClT7z4Z5d3F8M+ttlybZx1XST0zzZF776G7hqdoWu738ylaknUalxpTzVFzjLFy4q1KOG9quOGeFSa1O3sGgatFn9Dk6aATlqSEgPfB7YNNmyWIV8oI7ZGRx1S1b4ajm87u5XxsbOc2ev4v1dicEYVAG+olxEe/quvsRTnVJApppscv9mmv+zdioLi6ZBHWkFcMklXq59PYW1/WRS1l5bbT6Mq3oXXLiRJz7BCzLCX+W+NrVXHYpruSnU67Ucv6X625oG4RiFfHaqR4HFbe0XC4uiwfXMZ/q3yaDegtrXR0AW+jnVdtmKtvSnsR3uih64pid1rY6qgGzFGLKZodqCui3174T7KFNWurGJGPVpxk51hx/UU7e5fxYWTYMcRD3QwXrumciNCb0EWDfd+hoxCtUDWXuPshVj2Y83NvZyx4by3D/ISm72oBBX3eSU7je03x95R3W/RwvwFLfsXUO5q6sf9P2zXGVh0TRUT5qD9XxnZD0PAH9d4bZdriJYy/g2rFHf1Iph79MeFZCt9PrOd3PtcfOArUsU60WeIefs6Ev8wYg8uTQa93mxiVEY79u8PwuLloI2q97gj2NSQX95la1+dyWeuq02K+qB7LH8AjjxX8Zu9U62Mj1s+hgu9kI2K3JyB7x+swR2M8pUGV9qpLOuy7UFbFTsr8yaoPQPaqyo5SoLi+JBHmK/vk9dkTeUq8hbrBv6SqpldWEKgXLUU+CHR4xs9Zes/O6UCshWrBWRjdjkKDve77ZeZlR7Ov1+rE18cSZ/zp/6/VgP9CY/sG1ZnrKwaBn+FzOZED0pHBOqNazaarMiKD9tBo5KmvgFylYfm76nlZCtTnAkjkyvj9d6NH7/q1ZysdrSqQMy5nNSHnlK7VTsTUo7FmVUtVFZrrKwaBmUq35M5drXu5seN7RZ/c1vO1cRO+E7PmENhqTRAzPyfrnzbnju5AnWlUiFeviwxsRbiZZfn8YnUF77wBfdr1BsOjEA2A3HretbmcrCorWgXEA98EBsRydy9aR+WNfLJFtWE6YpkJMYb7WdI3rgFaz1nqlMrxvlqx2TUkdQ+Ziyo+qCxcpXWg+BOcdLZII6VPns6ayxMC3yfxYWFq2D9rX5MBn0Zlb7OvWk3iWyWRG0W+0BflguIfELD3qSk1KJnGbl2/7JXPmK17mGK/7CrZv4f9XdGL+5gy85Mhc3ofsxduE9HNfPtzGfFhalQLj2XliuYiz7mKzj/JRqe29mBTmJPeV3TYtstTZ+s0umcj2aNY6Bca6P4PW2Ed8nYzUWTjf+v3BsOrcf+RKfUCjfb5LhMf6v2raqfZ8tLGodGhNKPTDl5tqs7ktI7Pe4NuYxK7RH8+1Yx8e5Ilv1ygiHVbI3l3JWJ3DW1Z7Ik+Hr7haJb1f/HXVm6n4jTP5xodh0+gTZu8b3rY3KwqKUoI7XDeu2mxvEIa1mYrwz4Kl7S2SzIshJrxIpsbHfjt9YO1O5ejFhKGdRrmT8/mqR69fjNCaKNakGmnipQvEJ5LH/80UGs73+LCxKC65Z9jfdIxv0NlUZ4wl8foxfOq4iyEvdsaYfTAhfvQTsl65MnmBTY8Aag6wjw3qp3Y0eTK7RnJhXgf0LxKZrzOdhRqZSfbHa99bCop6g6/TXPDGTbzpi3ymVfZ1QnW+DjMSyP4Pf/cmRuIY4jAV1Xl7zk6bXK+vhMTdm70h+X1j3Y8z6cOBGX2ooWN3PwqL00PW5tCt6YNh2cxPzUTIid5XyNxmr8BH4YCcjW812JG8wTj0khpm4d/oX+ofkp3zxCaxX9ROOXd8P6qdbrrKwKC00vqih9q6Ta7NhjPcXJYwJVaidfUVPfILEUdADH03Grz+X2rXy8ZTGpjPfb3vfxnxaWJQbKkNslM3tw0X7FXswX1RC+7qCslUP8NNfTZ5g/6zIVrfEjKvCyOf3Y8wn+8Db3lkWFuWH1lM4wpOYdeUq7Rcx1i89V1F+Yk7giybvhrarDVISb1XJGIaWImxPvwz4Fe9t6NuYTwuLSkB9gQe4kguYkxsIuJnSxYSGQRlqV3z3uVmRrYayRnq6Mrk3bQF56mrgG1/i2DUGq9rnZWFR71D7ekfmnDi5NdhXdCXPt1QxoWFQtqIctaTJE3wf+0unJL49zrIVcWEmiE2wNioLi8pA7es/gCd2zObGLjCenb0ES1EfJgpyFX1/XbHu18mKLjgZv5dJVyc+tKVgDStb58XCorIYauoRjPeCegRae2+84bJy9DMmXx2B7dpOYLeahe2sGIyJhYVF/ECZifU6d05K7YFw7b0vwCOvmd425cgbYY3QiZClljKy1bf4vb/VgN3KwsKi8tD49d4J6Vcc7sd8aELe7+KXXg8kVBdczBG5ihgA3hroxS/eysLCorpQrnoL8sw9kZhQ1iJg7Setz1eO36ctnTmBs4xs1Q+/+0ON2K0sLCwqB7Wv75yS3hDhPGbarL7FZxf6penFlQ+UnxamfJWRejHsK/8EeGullJWtLCwsAoRrGs9g3m6kfubzGcnpLYc/UEHZ6hz89rcmlp29bzxrt7KwsIhAZabvk7m5NrSvs+YAe8IMKyNXkS8ZH7pZOvAJLgPZ6tsYjI2FhUV8oHm6LuPH3dze8RcCS7lSn71cXEWQr4YDnU0Mwz7gTT9duVrHFhYW8Yf2iugKjhjs5voC2e+UdULLKVcpGMNAm7rKVmuBq56IYQ0GCwuL6iDcf+rCSB+uT4CDPbFXlcsXqCAn0aZ+m/EJPsyYCd9ylYWFRQDyEGubPJcR/1/Yvk7/4DclrhNaCNT5fvED2eo8yFa3Wq6ysLAwoGw1MCU19qaHfIHUAzs4jvNbuvR1QvOBeuBrwMaOxDBcjnOaGIPxsbCwiA+uAyZGegaqfZ39E8oZt6BoqB0KflqP/RjwenhCfIRTrGxlYWFhcBLkpjlZ6e8ZrmX1siu91vtWiKtWwPYCcNWV+M1OrFmall7z1R4fCwuLeEBtVoMjPfOeBx7A+3dXgKsYF0rf3wlpsVfRbnVB1voDLSwsAmjv+PWTuVxF2eoFyDk3+JXhKvaP6A0s74ke+IIjOuCUMtV7sLCwqD3QJvVSRmSr1UJ8NR2yTQYyzp4V0AHHsk4osFxSZKsFqSC23XKVhYUFQbnpKGw3DfW26QmcCuzK2gspqYvAPlnlqjf8FL57S8hSmyfEF3hGWuIY5iUtV1lYWARgjfWJkX4R9A1+A3nrMco94JFeWek/M8XYl7QPTVttSiMND7IuzLL4/TPwmyvh93qYnqfWZmVhYaEYamLUV3Fy4xemuRLXQF2MNRDWBh6h/AX8PS01PTubz1vLKdrvdBC+a3lX5Ko9gOd94UPLVRYWFoohJqfmoqTEL4T7RXyD927xhTNGGlmKvHVfUvq/3wreeoZ1jzOt6/mn/QMPwHfMNz25DgNnfmNqxFiusrCwCIMx6uy5tUOkrnFPt3CclfbSIqdsDhwKjnnSEe4plrNGmv/PgqeWN1xFP+BpGZG3qj0uFhYW8QK5aB3aovzGdY3JYc3ViKH9nbrgjeCZz8E5C5LCQUc1wzcqV50PjppguGp/bLfPWB3QwsIiPxhrNSDS34Y1joenRE4qJtZqlKnzch10uGvxPXf60rM0X6wUX5OLBpqc5fFZsVe9ht9cIWt1QAsLi/ygzYo5y17Ixt7d4PVUy2qwq818a+z/BZx1R0benx7iLG7JbeSyJ/H9volZOIr501nJs7FcZWFhEcUQw0WdI7WNqQfu54rPr6Vx7GrTIi89Cf7pmQ56b2m8JzntHGA7E7c+B7/5M46baPNsLCwsCoB29M7girmhflyUsXqUoM+pxqHvwroKaeGrAZ7EJ+yJ13/xxF7FWgsj0xJ3Ve3xsLCwiCe0x81kbAdHcgQfdkrTi2u6katoy2JPiAvAS8e4wlOT8d6OVEIzNn/ZwsKiMDTWinHs1ziBLsjaoffh806p0tU2po+QNqlrwVW9XeEp7cf8dFZyb8qV12NhYVHb0FrsLuSa7bOBjZ364CXAYmnhslL93nRjr+qZEblKuepJ9qz3RW+s9phYWFjEE+Sr/r7Y04dE+geex7j2VOlqxUw3MQud0+IDvCERyFc3QK67ytqsLCwsCkBlK/Y0vTCRm8/cB7LWTyXsG0GuYr11xjSwzt6YpNjVmcM8Bb/V1/aOt7CwaAK0Se2H7Zl+4z43M9zS1GIfaWJEqQM+YWLW98H3DwRXJfFeBkhkJP6q2uNhYWERT2hv5t/Z2zSUz8z9ofi8Xwls7CNNXs5MfNeLxgdIfrrG1Fs/HK+vxm++ZvKYqz0mFhYW8YPqgW+mg9h1chXjGHzTk6sUNnZy0OvYDnNErnoQ3981I3k65LK98dk7rFNq6llVe1wsLCziB5WbxqQkL1DjrFiTr3+J+txQvzsEvNfFEXt6f+iCj4OX5hiuYuzocOAp/OavlqssLCzyQGWrzqZ3vOqB84C3wCcblUAPpPx0G77rE2OvOpoxoBmpvaA2dfIV40LPwDFH2xxBCwuLPCAXdQSHXBSqa8XtbkCyjTZ2rV31Pr7/8az4ARkDulBWfINhTiJfnQu+Wh8y2ImOrW1lYWGRC/JQX5PPnA7Z2Gdhf6apGdpWrvoUctRQR7iqM7b7pXPlKgX5ijYryl3UF7unmq+PZWFh0X5A2Wkm+KOTmxu7gI+cFdKtj7UaaWKrvgD3bOdILOhf2cPGa7rO3iiTm7MM/udOyGCdbQyWhYWFH8hWnzm59Y3ZU3DVpNToa833KlexXvGNxl51MrhqR7y+tRnu0Vozm5vaDHs7Ev9e7bGysLCoLshH1yelX0S45yljRZurb1wI1On+je8cDW7aJiPxVXPTEsOwaBHfpzrhhfif47AdhXOjsDfFcpaFRbsFbexdfImv6h7SA5mD06mVOTeUjdiv9Dnsn5MVruplbFUtyVkeZWIb2FNnGU/q9q1u+crCol2CctPdwIhsbl2rqRBlHnOlH2praoZq/4hHTU2Y3VISn9BS2Uh5j7mEtNHTX/iEzXu2sGh3UJvVgEh9Y+6PZe2YVtZeYOzB19ThEuLb2xtY3m993SrqhEOgT56Fc/rU2N2rPXYWFhaVBfW8+9NS37h7iKsWh0z0eytzbqir7ZuWusXkqtuBWW08T/Ica8P/EVgNfLWS5SsLi3YFyk20sT/n5cpWrBWzLOStG1rxnZSr5kMOGgu+2xD7z4IHdypBbDr/n3k6izois10Vg/GzsLCoHNif+WjWRndzbex8PaKF/kDty7UP9q/Hd2yE/TXSEntQitrF/P6+2F4HuWpqQnTLao+fhYVFZUB/IHW9HqEegsQ0cNVXqZbpgSONv24c5KpdPLGJ/+YLf5UqtnOU8V/eaGqOfpW29RosLNoD1MZ+KeSrAaFYK+bfMA/nuhZ8l8pVZ4OrTiN/8DuyQT2YUp0zfYoXg6M2wvf3S0iutOUrC4v6B/XAvljzuydy49gHui2rE6NcdSm4Y3n8/5r4/+0zpecqgty0Kr77WvzOAPDhhBiMo4WFRXlBPbA39LWF0wFXqWx1otuyOHb21Xo9LfX0huJ/F2Qk5qoc+X3TTf2ZL7ISG2/j2y0s6hvkIep6PcEzPd3cHoIjTR5xMXWteBzjCR4Fd3RKCof4aYlZL1cuMr97GPjqGwc6YQzG0sLConzQfqfjsd5fdXLrWi1qbOzF9Gem3ZvxCafj/z5PSq2FncqkA4ZBvuqC3zkcvznHt/KVhUU9g1zEHoJXY5sN2dgpW22WLI6rmFtDnvgRHDUW/7cu5Kqn01LXuNw1XshXtI09jXM93tjzqz2mFhYWpYfKVo4rNUNVD2Tv090hVy1SRH3jUSYf8AdH4tY3dCSmoFI1P6eYfJxDs1IHy8aLWljUJ8hFG4KT7vWD3hGrmdrsxzmSk9OUbDXK1FNYGMevA+wFnjo/XVkZh/LbZr7UZqBOyFpati+9hUV9QWOtrnAbx1ox5+Ygv7BsxRou5Cr2evgwKzHrt2VbXg+mFNA+hReCd/+akLjRp2yNBguLuoHqgewl/3bExs66VprPnE+2Uq4iN62OY19NSD0Y2tqrFadJ+9nPwCBw5kW4noRv7e4WFvWCIcbGflCkZmh300u+KRs7ucoHXsT/jsH2DHBb3yr3e9CcZ8ZRJHD+Yxxbt8/Coh6gPQSPd6T+ejjWivWNm+ohqDELmwKP4Pj/S4lMFYfeNDyPF2k/A2eNykhd+FLkU1tYWFQP5KJ+4JnxnnCUylUTEhLHXkgPpAxDu5Bjemg9mxIfYFxy9Uaac1kMpzjdkb6EE60dy8KiZkEeOglr+KVMwFVqY9/BC47J97+zgetNv63b0xLDEDcbEeUp+ibpK9wLclaHrHCW7fNlYVFbGGJyal6DXHSPE9Rjp419hiPxC4VkK8pVKXBcJ6z/fbD9Nca6lvYlnJWUeqNnmhj7uJ6vhYVFYygPZSM2dvLVF6zFUoCrphg9i7WrWG/vhFT8177G29O+diWubawj1xA3edDCwqIxWM+OshX7MEfjQjeCDPJjE325hgO34fMzIKes4deOTYgxWYxruI4yIeOykgH3VvvcLCwsCkN1wRcykmujNnbGWs10pe5VIdlqD2w/xuePADNrQLYKgza2J3DNyazkYG9tao9ON3mNikL/Hz5mlEEx/2dhYdE6kIdYu2om1mqnkB44Dzga/LOyX9gfyN5Y7LlMG/srmdqLG9deh4/h3Ee4ch0v4ppu80RO9ExsvOqKulVu4mesM09fw+smRvaqpHzn9AiHbRqD67WwqHWQi2ib2ibSn3mmg3XnFK7Hrjagy5Niu5pTo/Yfcs5wyFc3g6s29yQfeyhwEDhsQVLqc61ELk5LXUH2RmSP+wZdEq8HYL+3K2PgJaQn62T8/yJZOWakGZeBXtAHttrXbGFRq2BfrgERGzsxGetqql84foHrr2da+i+zzvDqNagDjTTxre/gOk7GGPTH/p6+8MxHKekp1gucdCBr/WG7NPOTcOyJ+Hw7/k9CbF9P4vp74PVm7LeB7Xo49nm89y/sf276Sm+clJ5iPXyR3aLcbvVIC4umofEL80I8xTgG9kB9owkbO8E6oay5R7niglTra4Rqvx3ayKiXdqng9fOc1wa3/JX1ZtJBLrbqeh2NXMQe9gMNtx2C467H9T6P974C1sTr472gnvMUo0tSH+yP8dkWx/7JFV4nlsrK/7E2M/XnW4weuSjwixevGFsLi2pjiBdgBnBMKtfG3hM4BOvrFr/pWjHsu3wsjpubkDXaUj1H8362xv4EfM93ppfFR15Qp6Y1/exbgkeTogfuEbKxN3X8SHOdtxhe6eEV5mmt+0VOYr+LbvidZYB1E8Jbdzvy26wtz35mw5mHDS57JyP/y/87yspbFu0AYU4aGsEwI8+wHvukSA/B54HnMs1zFdcQ+44uTb+hE/jHWnJ+ylXPZ3J7ROOthnwgnt8wr7j6pa0B+Ym9xP7uiy73ehl5YbrhLmIerm11/O7m4KZBnnDXGLOlrLplSvKZ/mD6jr1uOcuiThDmpGEhLurjBbrcgb70tWHdPdZafwtr8y3a05PCE91DstUF1AWzzfc85Tpi7XXGANBWw3p4LeGroYarKNsNTjTuac/eqztg+0BajutTYt7SPq0d0xLDsHYFOGFTP9AXVe5ayZcaYbuYvhvfg6tfx3gum5IYi7VdqdtVzn4cFhalRJST1NZDGYj7rPuyHub0x2mpV7VhQmrs9ccxR3rSv4b2qEGu5AQyZoG29XBcKDHL2NjvLmJd8Jl/Hr53cWw3Nmuw2PXEaxmXlDj6nhGuCqObyVtciP63hHCu8lZbx5Trnza3tfHdb5RZtmoOaitb1HAodVTayzbGZw/5oqv28Gsrrs2ifUBtz33NmqZORF461JMYc9Z42Qpr9018tgzwJPC1JzHo2DhHmPVPPsoYThpk1n4hXtDjWfO4qVoxYVA+2CQtegt7OBRj+wlf48/4nbHZXF20myt2/0GR8xtkbGrUGwfierulZExay1sac8X6XPNTwhNxlF1ou6KfchbGaY10y8bYwqI1oK8rbEtSqO5GOUl5ibZvHt/b1MTLJEVf2iMra/tB8NFuJub8ZSMrKR8NboaTlJe6meMXGI6a7sp3PWniPJvyB4ZBX9knnthbXky3rMYxr/l7YI1IjeX3gY7YH4FrfcLNz1s3YQzew+e/0YadCuxsLbHNc93vBu5bC/uvVVm2ag6051P+YxxFd9/Gblm0HV38gJfCNu2wPalvhJvmYPsOsB/W5aHAsVnp6T4wUstzcEg+Uj6KclL3ELqFOEl5ab7hA/Y5HYP9PlnRE1fEfueE6JN63sVeM/31rBnDHhI/pov3v3OMGO/1QFJyE//Hozi3rqkg72cc45WywqlRHtbXlCVfdwOZVO1bTcWRq93qTPzOZSnh3TjLLFpT7NqssW3F/Hwt4gXyUtSuTVycFJ2Na4461U/A8lhzqwIrJqX23SaO2JGeMHLNdKOzzW+Ci1aLcBE5aIjZ8j3apLjWR1JHdKQOzHGY2yNwni8nxf/H8xmB37/X2KZUx+zjtd6OzTycefidI/Db/20BXzXkVKfEpqbyE7d8vbUfnAvH9wNgOco/WZHForzFfc+Vnq2Mh3g9FdybQtfD82TsQBr7v6RFF6z2nGoOtFtxvL9NSJy9tb1bhEFOYs4c530vIxtxfVMuOD5p/GtpkU82AR6hbRu4zRUbi29qR00L2bWHhGSf5vS1ISGZqJuRPdjzgfYpxhqwJvEkT/RFrlOeA/s/UE661/ARz5WySqn9agqun1PAI/My0tuv2DwcrbPsh3pY8Fp5LTz/8HnyPqhs2gnHvOCJ/3JIHt4i9+OvIYZrTlruV1S35RpfGNgSx00wtU9rZd2To7pinEe74k+0tvf2B66Hrr7IHupv41o/knmuwG+Y98c6Up/goqT4/7cBVjHcwdrmg9z8tu1CnKTrS/U1clLayFjsR3onvvcVw0Vce7RjMfYgjbk6D+eznx9wJ3XLvl4Qu1AKv1mxmMhxwnmtmJYe78Wun1PMNXUL1YUn1/D6CvGq9hXjlrY92tqoC2bdxnpi1nA79Ww3I/Kkjgs59Rqc7xjgSaf2+jxTL2RO47G2H1ldIGxHymfbHheyH1EO+RxYB6/n4vUXCeGjR7B/ZFYwx/jbyElDjC1oXsSWVKysdIYr8tZ1wGeUk6hD4rc6Yf9vjtQfpu5DPVLtSWrzCvNRuWInW4pvfenV/ArOubNfHF8p7xyTzLWl097/ZjO5P/r/GhfG2I3xSemLOL8J+9bVnpxfA2/h+Btoo8/Wlmyl4BjT3rYzrus72/M19shn147atqN2JdYdeJx2GxPvwzqZu2dlPnOu93Mb26qLsW1Hj1W7uNq4aUuiT496G9fVaVgnJ5v5FT7/XpFzVz6qRC5Ka0Ef1a7U0XBde+A65xVZ/5zXRhmROvOgELe8my0+jiL8DOLY7co8PmxnuYFNL+qvIB/+Ab9xNc71Khy/EM43HePxbQrM2XwmK7HxT1gZK1ZQ27ZyD/sg0K69rSexg2rbplziYQ1g1zkb93H5pNidadvuFLJtzzeyzuACXBTlpEFGniL/9DSfHZYQG8oaRid8G7/XGb83Ed//GvZ/wvYdL9eONC5kR4rykXJwtce6JeBznfFAnxl5pWOR6578wniFVUK2q4zxjzIesiX8EY6h5Thze2JSnhOasx3Vvzvjd/ahLGt8EF3MOdUSbzFn83ac/9SE7Ff7fCyEo7jORxnbdkNsc0J812+z1qUr8ZGHYc6NwfYqR/gobEcqxrYd5qSMsSM1zHXj97+V88OT5zdtSQfg/fGO2NlTeD3WD3xt1HNoB6Odvtb4p6VoiK/EfVkO4/Bxqvj4Jeq2/UNxDFoTkDH55I221LNT3uqE8/qPK5zYM9E4hqu7+U0+yyhvU6/M51Pka7UTliqmvhSgHt4vITmGG8XgfNozuNY55+jrmoG59K6xbdN+NDiPXbtY27byktq2Cdo23jb+thcxF+e6UgNqaVfyWejDGk37bDKwe6ktqY/hpWqPV7XA+CXWQ1kOz4rtM8XFMqgsRBlI+4Tx3jEGdoV08XGqzUHlccrczEli7Cnlqsfz2LjIW68a3nolJc+cocbOyTn4pIlDoexMm2JzOeCVwCG+1EAd60pN02rPhfYItcP+0fDGfCfXtt2UXTss72tsZCpk2x6dEG46Hb8zMiv2bfqNaNdmTgj1yn74bHSEj9SWVIv6WjlBOxVzdP+Ncfwc43lSkXzFsWQ8GnMBo3FXrxVpu2rJfFLe4v1N43e+xFw4xzyzory1mnl2/WqeS/QL00+r9gM+L8mrfJ5tFYpprTR30d7OeoDkqxsSImtVez60J6h9inPExZz4xMlvM1V7drfQ67Ddm5y0I9bO48amvnJabFxhG7baZ6O27aEhXqr2eMQd5CrND5nEnFyM+fnp4nJEOPZX4v7+2QnuL7ljuLEZl2PtN8TJ09+CNf45ePVtbP/uStxIdJ5pLO7bRp6Pyu06B0cb2wQ5K+wfifp9iom1bymod/dNSw7UZLzuHYM50V7Ae8o4p/N9iTeK6nbdjU2JcdtHZI1cTzkdr+9nXTPs/+JKzp3GbKtte0Qeu3at2rbjBMpRF9A+lJU1Q51wL79536DKzw+54pPVe8z7e1QT9eHbCp4X1/jfcc4f4pw/MvFqd+Lcl03K3MoXM9+ULK81I3oYO+bW5rcoO/5u6mNQft/ZyIzKa6XgY8pXJwFPJ4WvDonBnKh3kC/6GTl9Fdz35ZzAzh3OfeVzjrEztG8zdvMGPzeHpD3YteMErv2dPYlVZE2G9R3ptVBMDBDXKu0/10dsV/eYtV0q21UUlPvod/wsG9h6VBY6zfhyGDM/uoDdQfOdBrpB/dVw7jX/hzF0DTV7jP2CdgjKYXirIeaXNjRyWZ8Qd7XlmlhrZmvTj+hAT2yJxE5G9rX50KUD79WvuH9fZiXmRvW58Py4EZ9f48qzSn0z7dm2HRcwZuFV1orCPboSa+afLci95T1Um5Deb65/1q/5psS2KwX1sIdxnjelpHdzNJY9HHtK38oxntR+SIdig8k9iyUlJ3xEKsi9jvJWND9I+VjjWPETDf8/0cTc32u4qzXXTRmL+TinA1tnxU+7jyd1lk925BjGOTAfnffH5u20DOEYmSt9iUEYn8jtb0CcaZ5jK7hBP7xq+2IsBJzzq/GepEQPPBb4xW8+Z1DvPdcmbdXh+oDkhZfc0ulK+c6ZseDrU3dLFeZVtc1T/lvMxMzTN/OIL3aqXub8qfdR/yPnTsvDW2Fbaz7uWmBktZHG1trf2O3uNfbbYuOE1Ya4GfAtvu97V+7Jv00N5TH4rsVc6cvzfUbksZVMrmS151Hcoc+wY4H3mXfi5ta+1ftL7rodODYZ5InZ3pLxgNZfuZ66G+7Po7iH/0gFvWCauvdDzTHfRfJvuM/nVlM97tsK9ixlz5tHss3nCUZj5sM+Yp2LQ0PvMd5lt0TjvAbmb1FvOCwRxNbns4+pbb+hf7Yj8bL9/Vy7fZi/wueqNZUXNc8Q3gfmGz2Da32ONULwfcsSCYnRGobv7oVzOsfyVZPgvaU9vbd5rpwZsVGRoyhnfezLvL3Bj09unEUA2tg3ox7oyPw/y2u+ZpSuO+YfME883Newm5kPLKYwooyyFdcxa3Mt34L/y1dXcdM8n2vfsftd6X/NmGXWzKCuxxhi2i/oFxpr6lBrTYmoTzJsv59v7Hn7GVuIxt/nWxPKWdo7WuvBD/CkbsYEfP4l8Bpef89eY9jv7FR/LsURvI/01zE/xnel1lO+nC7m1t3FWpGezNtqn7dFY6juwbrB1DX4nD6tGRu7xqhwvX3jiQ8w6nvLJoNaV+U4b8pWc7FOF0sUnyvUUqjPkzZW9U2He5D1MeuAcX6Uxxh7Sj2Que4pNzdfKMpdrKvIYzskJd+ytc/xowyPUT62uYa54P1hbAFtl/S5PJjH78dnyKd4/+CE5KlSb7e29PiCc/0PXC+4j9cnpAZLU3UNNjXzYENTw3lBZC3SPkkfIfv1lEsPpLzBGlevJKT3aLXtzeF6/PQt0O/AWtCMz+G45LPha/wzOY01Vh8wnGVtJK2D1kjQPL+3kpLHyroH3UL5e1F74/CU1G86sgR+XYvygXxEPZDPZ/ZpPwMyVb+s6IFNrf8+Rq7SeMzw/Wfc1V1ey+sutxSUrf6Oc3jKiVcfCdWRNWa5U0pq6DDe4R4n6PkRzXfkM546on5Hta+jlqD6dC8z9lcCD5n81XDdg/A8JZ53xO+n/S9t3FQ8wee32n7IV5tTnwP+Ca5a1W8670afPz3dxlx1SULsOXy2lXPN8dzpD1vRkWs5KqYySbQ3G/UMronljB64VmgdcU0thOu5wrcyVkvGl+PKHLsd8foVjGnCE5t5tFYa9z8xevh/8Fw+nzEsnsSI2udDfKE9ruYAJ+D+DjX29aUZm+g3bbPifWUs7+55dED6/xm/dJ1f/vtPrvoRc24lIwfGRbYqhE393Lo4tOMzvmFBxObL+AnGUlh/VNNQXwjHaWWM18MYt/d9Gctor03Nn3kV2BP/cwj+52YjU1kbVbxBOYQxOp8AC4D3Pcn3uDktPqbm8pnJVW8kc23rBG00r5re9pW4BgZmPovfPK8F/S/iBsoF402epdpUuNauNtdj+aoxtP8ucxYudcXmd0QiiJ2J8hRlqWkY3w8S8iy9NSmyf9cYXItF01jd+MHZ24r1jZnn8RfW40xIfHRz617tUWu4uXF19OHPTMvzrhLXwXyUndKiw+4aAzt7a8GxPMiXOIkhofFkHdxuZcoFqDWoXYpxBYyDuoj3Pil9OTV3KqrzkbdYI+8V4Hzs750K9Ma46dnUC24xMsTqZg2Oasd2NF47uYj9ztkvdKzhKep/I/DcuTAtumExa54+e9YzjNotz3HLb68KX8+9OPfTcO4dsnKv4zT/WgLVadYAFg49A6gTflXG+NpagMbK0C7F+Nr/80QOvdH4+PLFtqlfenuM3ZEpqf3bz8uNBa72dYWvj+uSfiLqCBMwlxfB+e+bljzYV9sZZ6ktnWNyIe7deiaX4wPc/2cdyffv4RXf95x+F+byhmWrhrw51mRJVU53YWzRdPzeuZ70QK5V2UrBZz7tVXNDtXfoO6Tu0tY6rLUI7b1CnuJ8+5vRl88oEAui3MVan4xXZnzN3V4Qnzwkhuv+VMoPOM+zM+Bf45PfMhXIEb1wLc/4Im9V+1zLDc3fUJ5iDvB22N8L93Rb7HcP9Tku1katNnbG/T4fmi+UxbnWKqUH0m6V4DXi/i4a897yxYLPftaO6BCyYdHmshSwTjuyuZOnKKMzRmYOrv1UV/omZArUJ2MvN+ZE/dOV/EzylNb2r/a1FAJt+2t4klO1Gu75EDfgKMoSY90gNzSZlfW7Woyvp61grga5iHrSX1IS93lsQuK/lzX5sK2pQXKKqR0dlq1oI/ghUzk9kOC1ZTJSi4u8Veuy1SZm7NgrPNxHiDLDP6pU17TS0Lro7AP+uyv1Lbongj7oUZ6iXWoLHPOWqU+kNczjzlNZnN9d2N6Cc17gCE91Yh9Bxv7g2vfHe4dje142qNG4oSPcdmqMr60paMwU5Sfm9ZJ/2EtzT19qPv2I95bCOGxiYtQ5Dn5a9L7W9jUfYp4HCzm582dFt7g+gqUCr5v+y164npfS5cu9qTRUdj0mlVs7mnUjylXPIi6gzpbE/N3UlTxTzd+L6nzkrmdMvfN3ffFRjDZx6NWMR9B8zilmfXlGXtA6GS/gmE7ABpQTwFN/Mbbjmyg7Y7tSRmpiqpzBdfoNXm/sisw1Gf97HF5f4Fe/1tlIc53TDW4x6GHOXXNZec3kIvZH2QVYFjgM13Ar8GJKei73ByevzfhDzyAluX+vecXXrSqEcaZ/2YUhGyfnz9l+ZeKsFByTW3BdWew/59eHbKWgjMr8y3mhNTq6zmOwyDWXApe7IjPl8/G9bPIr/4P9873ALhWHmuacf+QQ2sfJOWOw3n7H/Nw+LXLC7ViTfsi3NRn/8ySOGYXtX33JzXjdcIDOZd7rrYErMnI8wVrknxhbdLU46yhznrxW1kMgp5Jfds1Ivbm0L7VCbsA1j2KcW0JkRNrlrjY1vbc0ei6xLvAsazmZ+urkulu8tsdRDjWy1a7ZXH97Qxy2XzkZnNfxJrYdaLeqwd7yzYHPBNqKb3KCMd7SrV++Uj2XdqdpbmNZihy1h6kbxrGJQ6+iMMiVC4DOWG8jXJGXqNu9Td0e5zsK1/BcVnjmI2wXykps9kT8z23NcO0oI7ccgu/50BPOYu/PR73i/filxBSjz33NutyuxBdsh20HL+CfhxPS74+xUVOwPQG4OSXYCGt2b0/ium/Dftb0gWA/AuqGzdXVa8mc4jxhfYWBoTlFWzBjsvtUcC3RT7JbUq6b8Rf1JFsRtA/uZ3QiHWf67TX2qNrnV2pw7rCu1MhErq+ZcZ+MlX0vEfRaixNPKf5M357x61F2uBb36jK8/gfW4v7sCYVj7k+KTuB5gexQ7PdT3/Kw7RLqN7ISxuQtfP9tycrJltMNR16Hc/g4KTLSbziPOzMSC7UXsA57S2VE5mIcBvVg8jL9+MRVZhxWD+mQpeKoMCiv0598dDawq3Q3zz5+XknZirZ1xt//0anP2plcv28mpP6Mrl8P4/xDKn7xjW1Fg86D7Xw3t6YL+93u7wY1XuPIU+QJygQ/MG4xKbrOuVljc6Kt2NhfSmFTI0/8GTzwRVZ4ghiI/aUzsvbLmX+mMayMLd8upMcNwO+vmRafJc9hNYNbvKBmQjXy4lS2WiaZa2On7P6vCttVyE9nmL4LF9ShbEVwjTLe6s1IDNZvdVZbRmPM2U8ozFXUAbfBPZ4Q41ou5Cry0VeMQzBcdXhW1m3HMtjTRhou+FdWdDC1gU0wfYu9Mq1Bfievc03+XshX+YeMrMW49QnQOcX182DIJ0gZC287m/uVW0Nqf7udNkuv6XpctQyOJ/vIUpbtFlrDGdPXtx74SutMM74q3PNR9UD2JO0b43tLu9MLtMd4ogf2T4n/q5w2cM516lSMNZyfFd4gT7KGykt+y+K9i/099m1ZFNf3mCO/dz/uzdiM6HlxrCugeh7rMIafgYzbY/3LSsVca71TxlptkMn1o9Qb+IyY6ouNWf35jMG6wPBVtX1hpbpGxr++m0cP/DghdfLiep0NfntsD3JEL9oA579NqnJxUbT/nI/fewn41vje/gMciPW4akZ0VNqJ2hK3RN49HjgC39eTfVbwO+9h+w98dmtM1x3nFPOtljJ+5O4hrjrGK29d4yjITdT/tgT28uo/N4GxIRuFbIXkrbez8bU5twR8vpGrPknn1nrhNe6UFZkrTnqg+ug0xpF8cUY6qLk0x6t83io5g3GWzEG73NiU1gTGY/w+BMeMwXndzPhSvJ6ZkhiBc5Pi22vqOU/9jnzH61zD+A9m4TtuSMv7cay3w+ca41r+AyyC83wukxu/QO56q4KyFUH5ewlH8qv4DKl2vFy5wRisJ/zcuhf0n21RQVthuaA1YHaM+G66Y14NTFbOvq45aOH+HYt6Qc178sG3wDK++N4Zi8D+HYNNfbj1MyJnTa+iTZG8xRijTcmh5rw6GZs8fXiMKzgK2ArnehyOuzwtfMs+leQf9dNxy/4stJ/T33eVkdv2MLpM3Pxa4V4Jn9O2z94vKcnJCsfu0e77XTL4n0qcGzl9Ns5lVT470iLrVnu8yg3y1WQvNwZrtzrgK65r8tEfjc8z3DNrZKpyvpuRxlY80At87Vyzs7E+j/YldvFMjP3cROAPm+wLuI7XywhPlNJe1FpoPD3Ph77zBM7tU6yV3dzc+EyeO6+DPPY5Pv80LbWjuuL4DgmxiS3uyfHc19jGavJxPmhfBNpMxrOuTEJqLkVrXFN23yghslWlckMo69Hf8jJ+cxWM6xJ+/ctWBPnqlRBfqT+2kjkE5QDP/aRkbs8k2tjHAJOcoO92OaF9NYdjTZ6K37zc9IBircp1s5Ifsgjm2haYc3dRJ8LrYTjuMGCprNQz0brh1eaq8DWNMudEjqH+xxyYhlrmCTn3m7D9PBlwr8ZFhLmMPXcph+1sZKpRMeIqrcPLnjWsIXtPgf7F2hOUObivpCobD8Pxug54BOc2JC3jWO1xqwS4bvfGmC8SshsyZvSkGrdfkW8fSDbun/V+heLWOZ8m4rf+gPnU08gS7AO+Q1o+v8qXta52Km75eqUQdB1XeyybA3lmuuFm5vJRhlwxK/2/ycMEfe2MNe+Be/CbifWsZq5PPlBmof2Ads0rcY7PZmQtRHmKNiv2tmFtY+bKk6sq8fwLgzI7e0pvbsayqVry9QSOc9LNjflmXt20GMckNQeeN2OtBkTq0b6UlZzlcvtuRhlbMvtdnwbsAnRMS308clI54qzjBK2BN9HY04mJRg/u4bXNn1gOaJ/PN4EZzKHJytwZEuGpBcZXQ3vCFFf6T/H/Kp0LorHsjA9lbnN76vvZwEm45n4h+yFlkl6JeMclNQX2KJ3v59rYmdv1mCvPz3L9rsZn75cSf81kvLcnOTNt6j3W6HjWK7QHC+VtxuH9lBaeivZI5+uz8P69OO7tjPSU1xrX1dBBOI/WxHncg/Pdxq/duj+tAX0MS1BvcnJjRrPJ8q7tcqGhhmOicd0Fxi+U0yanceFDMI8+N/6zRzHHz83Ub7xxrULzY/sYzDA5/4Mic4ay1HMJqRd6r9E3elWRp3Seka9YS+PvWXkOxjV+sFz3juu4RySn4ExfbPHVPr+WQOvSgyb+F//aUCOGNUEzMtfK8buq/3xsOIpc9ZwjMUuWq+IDladYw4z5Muwj/LEj+kTU38ee3DPx2ZysyOvq96umTVfthMvQvo9zO9ePZ5xauUG+Ojabm6vSy5W6T9U+t2KhuacrJxv7cCZ55buWowxXXYf589eE6ICHYz797NVPbcdah/IU7RvU5WjrODhleCkiUxGsYdk7If0hKm1Hbwoaw3cSzm1iqn3EW+UD5aj7gGtCMVjs8XlvjO5Vc6DsxDrF4fqO3LKWNv3S5bCJ0lbF2pSnJ4P4qTsyIlctWkNjV89QWzp7Ha2alL6RtGXOSzT2+bEHd5xrdfDZ2BfbA3ANj2farz2UcglzBgeEfP8nuSIHV/vcisH/+pKkcuV61s5eMln6Xrrap5wx57uZHJVVfMnh0pq91R6T9oywHZ1xOayb97YT9I2Myt9P4P3PcOwqicA2FZdYMIX6cpb0pBZhe/IJRsFnyZ+Skv+k95F9rPpVWV8vBmqzusHNjSHT+gv3lvgalKsOATd1cSSuij0LTk+0vq+KRenmgtrRuf0iIfW9B+XR+7oZOxVjE+7OiB2oV0y5ilAbqQPZ6tKY5b1WGpSXJ0Ryzc9kb6+Y938heH7Mh1844t+hDfX+dGnvK7mKOcffZ6ReHnNQrsTvXIrXw31rV68Whhh7OOcxYz07OUFOX5SnqAdOYCyeJ/kztN0qT8X12Uz+pK2KeU3LMParHctWBO91OmL7YbzJI168eVxlq++BwSGu5XOTfX5KGceufVp+YC1D06/vLKyLken2LZtX+/5zflIP+J2xU0mplRftI9LNyFjMUWa/ukuw/dQLettW+zqaA334pwI70Afmt0+fYBi8/h8wFp+EYkbZF5S13SvVk7Y1oNz/UkbmaLgfF/fvKHFNZ+0p1TEpXLVXVnq1DKyB+V6PGGaeVW+Cpw72xD6Vr8ftIGMXGJ8UTmMsA+dNrcQscW2+CBwGnILzvzbG67FS4L271s+tkUG5edky2KpLhSEmdu9IL1cP5LOVPp6ufmllq4ZaKAmp8ckeUrS113MP5LhB9TU+g6jDsS4uOehNJ799ar6xwf6Xcesp+Y5a4CmeH21VjFknN03H673AUye4QS+3ap9jHDDWF77qFpJR3jYx4dU+tyhUD2Rg6A4hHZa+n8PM3CxlDDLnCeM+f6bcmZFc5fbqS67GvVa9j7gc8JNSHzaaN6N63zYJ8XfzmdXHq53+v9qbmZy1lC89a4/BGvynsZvaOReAvLQsxmeWG9x71tH4qAVjVKk5MczYVY9OyXM0LPszBquUXEV9knVTPjT29UzWxoFWAhx3rZPH17SNs04b7arz8/AUn69X4t484suzlzGFOg/izlWUmSirs2dgGtfwHeb1MZjH+7L+AjDOq406HZUE7++IVOMYumJisDgfbsb2ywro1vqs7ZCU+L6wP3Am3uuYKq1Pk7og+5yzfuZkbD9KSS2Pat+vesb/es9gvy/G/fGkxP1mIrWBuhne6o7n6ok45s5kbdVtoxzFZ+F+4Kn+uIYkOGpb7N/gCD/dVAP6a7XA3Obvkrl1+/jMau7+0355EebRVtjfzynvOSpX/dnIfqq7cs4eZmSrUsv+tFudZvqbf+xZvionKFPRJsm5SJ7aDq8vMs/NaP66Z2JAe+LYFdISF1orPejIQawv/Sy2ibT0L9sdc+z/TO/XWql7Vk0wduUR1h5zc59fEwrEYPG9S3DsGjimA7Zn47hjEuLbL1ccErmIdtbtU41jrXomAx2ilL9J3e9M0w/hN8tXJUe4Pvp5wJsY668zQXxKVO+jP4VxN2skZS6oXSvuMpXWZWV/iCfxejA46iNc56asu56R2mjN9eiwCMD5shzmwtSQfHUF9ie5QbyH+mf+i7lyAd5fG2N+JuOPcNwB+HwJ/M/GjtSkKzVnDTX6waGuxAGGc+kfTwY5guXgq9fTlq/KgaFeUJ+FsQbdTc+1boncHNBuBoxbWTEhz9Zq1p9qKWgn55xhzeitsGauxDUchOu9GnNpmvE9H2V1vxbPnR8xVy5P5Oa0vGH6yPBzxtixX98bOG5h6oEY7x2AXbE/mTVUcA96Y04t7khuSqnOTfVAx82Ns6KMNdcRPbBPmeZumK/WpW8qbfmqFPeTc4o5yMzZYw7yyXlip3ivmfPXAff4j9i+4wlXDfFqw45O/yTj887G/PyTI7mmE5jjitcPsi+SJ891y1Otm0OMEw7n5HD+sG7fmiZX/WDOMazXI3H89Rjz13APPsT4P4b3Zhs0HMf+WenS9GZSmY6c5DuNa4YOSJZ37ob56kPsP+PEr+dUrSDs72O9lvGeqU+WJ8aT77PPHGtU9U6JTatW1jX1kfVwbWvgvF9JSh+RJN5bJyO6h33elQasETXXyZXFL+NrvH8t5VaM/d8w5m+x1n5GeOrWTC54L9h7bj1Tr64ttcrDveT5DA7n1tNXxF7g3UrsD4wizFesw/BGRmqRV/te1RI0tpdcdbwjuVI989Qd5vORuj7tk0lTB2hcDeSwKshTf+WzE9vdMWc+wHWMwvUOANZPxbdfda2CvsBMKLeFvdZmY/sscwkx3k9z7fK5iHsxKQ9XEZRvP2UvJ3zPtuCYFfzW2bKUqzjPWes0al/fNCt9m8ttayVfdTf29oY+XJavikLYjs4ciXszUv98y4h9SnmK/bJYc220I3qi2qeqfR3NYaSxPfnAYLzeBdf5PmtiY26egzmzlidzqFZkw1oB59adwORkbt2+aY7kQi+C90/F9oUCPDUNmJwRntEexmns98zK+m4JZylXHeqJThDuyUXeYgz7eqny2azCoP0h61u+asm9U3uj2tG1f3g0LkH7jjJ+qm9Wav/EvVaCYpSxoXNLQ8UIbJ7JSn9b1w/6v9qaHaUHY6hoy3wYc+u/KeErzqOvgBcx/mvhvVmME8nDVeSvS4AT2UfdD+YsfR4/cq7iHt7otKyOueoPx+C8OkXiK/Cx80G2cvUfGZ/xjOn1afmquPtGWYJ633m+cNKCPPYp2h73wH3cLCmxyn1qhKc0dopxUp9iTpyI7Rlp6av1uh/UQONcr4VYsFoCn3+rYHxfxPxZCPv3Yv584Erc+K9Yl1/hvcVTheUpcthl2M71xdexZui7tQ/76jhmIObu6pni84P5nP0iErfAef+ZI3aNvhWc1+SrLy1fNQmuS8pTtDX9xpw37F+QyM2VUp7iM+fdrMRPUe+LY93hfGjopcr1gnnwIObAutg+D8zFe2elbK3GcoLz4wFP4he+wus/Y7sn5tCT2O7MY/DZErwvebiKMhbt7FOB1XDsOb7wVL45pzWjzkgIZ12Qbj5nkzY01g4MP5Mb8ljZ48atfGxgmK+svb0x+MyjfMTaiOzrwXoJUb2vm/GPUHWa6Uqcp8Zd1YIMQp3vDtzzx7B/HHt14lqPxTwYw55aSVv/upyg7vd/mD/3Y/9wzJ1LMP4TE9IL5Ed8Ni0rPFVI95uBz4fh+FN8mW/NxexpHNxF+P9T8f87e/ljeLUGO/WIqyI+StaVP8itjL0qiihfHZiwdWQ0xoQ8xRgj1nUZ6AZxneG8GcrIl3C+mX7Iw4qYM3HAKGN/4v3n/d6L9g7GQnvS+2ht87m1o5dnfjG/6ifMmyWB3TF3bsLrI0y81DE4ZkXgkoz4/Wbn4apH8d5NaeEp9uhY2S9uzmntqFXxHe/weeSLLTJsy1I/EmOsHndy5/zzwIdJybuuxhznfN0xJfb2H3EuU9uxDVXtU+Sb1zEe22B7QCJ/vQRud0vIc2ZgKog5jjtPkX/oz2O/92cZl8NYFkdykCf5Yoe1sejlm1/kqf9g+2/MnetopwJOwvz5CtzwEj67Ap+dmBZb1LQ8dqqpwD/x2QrYjvaCGrItmXfa+3htfMdWwJaOvNZ1T65ibMIGkXlPe8cD+HyrVPXm+UQ/4KtFs6WN268VhOtPfcyaOkmp2bkgD0/Rzsjeu7+acdKa1HG3pWuthOVwnzNpqeX5KPb/gPm6vC8cNrIdP6vKDT7LNsecOQFzZ2eM+TN4/RLm0n4mXn1F3IuDUmKHyhf3SdwMHMZYBnzfwiYus7XPFd5nPpsWTog/5YCUzAE+r7uaeNDw3KcNhD3kNbahGmPIWAb2ebvb9ME5vwj7W71hqLGjk6eY6zDa3Juo3kf7FOMSKE+xXoLWn6r2+RcDzstHsR3jSBz6bng9E/BSEv9Z7fOrZ/AZ9lpSbFFbY+5sQ7sPsKon+mBHHDMMGMdYkWz+eCrKWZ/h/cUy8p1r+6V5Nmr9xFfw3fvguw/A9lJfaqxF+4HvnpXY9Wr0uxhp7Bb0bZKrOuFc7kiLrFXt+1uJ+RO2TzHGnDnmc5389inGxq2VkFpEP6fEdxvnHiV6f9V/PQuvX8C5X4xzPx33eElc51b0a3u2r0Ml5tn5DF/D2C+NOfQU3l8da20H3I/PzOeMkRpv7FT5YtSp/03A+weaGgulvmeUT77D9jScZx9sX/Ya5zDTF7holXqBk1NXwm+vTLnSE666KyPzt55rfWicp8pT3P/VyFPdC/AUa75Q5mI/taFe/Ou6aG10yvXM4/sF8/zJrPDUP1IS96k1XWrBb1mL4PxYx5PY9G+Zi4w51AX7/zKx5j8ng2feD77IU4Vi1CcBFwMneKXt1xAF83XmYfsre466jeMWNqoSV5FLacPYy5NaosQvmMb7p+qbq5SnCOYWv27q4kf79+k+a30eaPKPw3WHq30dhcDzPMr49MittJ3/xZE44CdMDvJrhqesfap8c4yxCeSjd7m+MY8+wjzaGxzQ1fQtGmbkozPw+ZPsBZSHozROgTrgCTh2Mb94319roHP7G5zv3YnGcQtX0hdThVx8PlcZs7xTWnhqJM7hWafluUS1Bt6PU4wux5qHrNvq5enfR1AnpDzVyeh9cbdP8XlNnhoA/BfYBed/PbZX4PyXw3zfONX+7JHVgNYgPpg9mNnvFfchxZqwvsSrqz+H/rxxKfHvTc0nT5nYhb0ZR4BjN/PLyxP6HJ/B53bk2X028JAr/sxKP6spU+2LcfjFxFktg3NZ1Pgw61WuGhKyT7HP5BvZQB8P6320rbPu8Hmu2Nxrpd+M+nd2xf4Uysc491+x7ZYWnrqtDb4ji+LAtX4Pe7wybpNrHK8fw/bgtPCUrvV1cOyqeH8E3n+kgO7H2nq7YR5+kpE5O6zM909jd97CeY1J5NqsdsI1jU2KXlvJnAad010xBgcbH+APCenZ3LEOuSpcM4Fcxb7YqzhBH6xw7gxjqlgb+3fDU1orI8481cXc04HGXzIrKT2xGJPwmPHvepanKjLHmD/TFXPnC7z3IMZ9K+BrzLUdfNEJVaa6BvdlA3w2MyucFOUpylOM/RzOWNGUxH6WOy9C60lqL+bw2qCN5HEcczreX9LU7qyE/qXzmr0kljO9urbGduVsEGtT7XtfyvEfaniK/dk6Y9yvMPLT4DzyFPmLNXzWS9WOHZ163S3Gjj6UMZ4mNtn1A1+gze8rH9RfQ5npYqzpJO7DaLw3Cdse7AXpCU+NNlzFfONLgSkmDzmf7492KtauIp/tX6F5qDx6X1ry8cM5sFwX7CXOHMN51MNYqy0jtqRy8gXnLftP3opzOtvIVQtSEtO8Wh1yFcefucVvYrz3SEjf46i/T/u2P5mUfsh3h+ZHXLlKayUMBtbCvOkHPIU59ilwKnuAGY6qNzk5btB+fuSi84DTOJ+wrk7A/t7AR2mJsdK5yNjPT3zR/WYViKfidiw+G4Bjf/fbFvvZEgw1PpkZydz6oFwv7NfU1cRYUdbZHdc43hW7d1vqkjYFfi+fxX/C72+ZENv6nRnpBVBvdWrV57cJrvMFXGPXAvIU82YuwXHHYPyn+vGPnyIoSzEWvTvm9A4472uYf0HZCrgvaWOnKgXOr9Ux3uNxDy7Bc2I69l/GfHoHr/+Ez/4cslOxLsJVlKsSUisvX97fVPP+z77ofiMq+LzUZzPt64NCPifGg26Ea1s+Uh+Ufd6/YL+uhORAlPp8phuuOhf4A7A90DMt/FhvOfbKVS8xXsRtXIOKcm5PI98yB6KPV5188tbcQ9qmFsL8OQP7O+L+/QVYHZ/dZWu6VAyUdfpivPsBX2MeJRKSQ7MT5tI/8d7xzAtxZQ7y2cHam69he4uJp4py1Wzz/vWEX57Yz6agNhPy7gWh2B3tberkqQ1DuX0n4K/4eC28fqpEsQQjDU9Rz9zaxCtsh+++wws4rNr3v9Tjzu1nJp4trPtR72MNRNZ+YY93zrs485TGop8KrO8JT9F+fjljdByxHzB2apy1o1dsftEWzZiph3APDsc9uAPzaTHs34y5dRcwIyM9/9RORdvWYsZOlS9OoaEWKLYvsg6LV97Yz0LX1Mush0VCPbg0z6xDE7n61Ncuw3YLYIVsy+qS5oPaWkdif4OU2NU3w3mcbmLW6+l5HLarsx7eqxGuokzFuvc/GR08zv4+7S9KuZexB1Nxzv+lfwnn/3/YXmc+szWHKze32M/v/9jvB9t9Mbe+x3w6CDgLa+oaX+xXPGa0Wd9/wD07NCV1XfLVUlCb+hfMMzA8VenYY7WpcU2s4QQ2K+3VO9Pk7TcVa0j/HJ+b3bD/aUZet+ZcOI/pv+6B79gO53IGtt/iHLLZ8vahrhbUzzs/T89R4nI/6FMzxItvzsn/njGe9HukTLwh7t93wAJ8nvaCmsPlPI8uBnHl9EpAbelfYr0chv2PsXZmsG463juRuRCMU8yIPV1tEFz/u+Hz3qZWelOxn8wN5LOnknaqMLgemE/DXP2wzYTr5WoviPVqbr5S9tkb2Afjc43Xcvs71yJt+OMwHss6Ilf1x3fdZuSqas+DcswrzhXWZu3p5urfrKWXSQbHVPtcm7pnHc29f8nw1M2YS8fh3LMp6UFTbp1Pn7eMT7sGv3tdUtZSnMetXOA4dDU8NQjrpjf2F8YautCV8WF8wpbJ4NnHMVoI9+mPuG+7NJFPw3owR2NNfo//+WOVahooyFesDZNxc7mKPW2+akFeoPYf2SIjtRGKlYeOMvOdtvvdcB5fGq66Bfs7Zeqz16ny0IomJiEc30beYn2FLn681xzv9XBfej1+jXlyI20JCYnxXL1CtimuG/YMpv/h8aTTECyY8MS3/VY74izOp9m45hS222HNfIf5c64r9TS3zNMPkveGnL4ftn62cOyn1n3ZEHgzU7q6L20B4wzDXDWPNpNW9IxXG/lTuLa7GLflSSyg2l/VvkG5ixxE2/xsX+Kn7vGkxtZkvB6L3/9jVo5ftA7nm8boeRnxY0T7ND5QhP5dDeg95D1mnZ5PWFME92lF3Ldt0lKPttz2xXC8P3uc0F/NZ+1IY+ubZ3zZxGxP6vBWe32VeyxY2/NirNdrcT8OxPz5EPiLLzphNFdO9WXm8X3pSX3i2U3UfXkG73dISz2FuMQgR/NkGdtznNO6njacz9QPTsHY/Ym9W3HNVyXFJtXRC+xaa+I39sVvPGriqXqzVxSO/crEy7/eCn2yFqBrjbnKC7u5XMVnxgzTgyZu9RPUjk68iHvkMi6M8YWZoN5LOXlKZU2uGfq6JuG3F05LH7toz+nwXGZ/suv8eI1lqeYR+Yj63Z+wPRK4H+996gt/fZpn/vA17eOMObjRF92vUOwnuWoaPtspVL8/LrbT8P2lbnKtI7pua++xchZrKK/A2g247pXx+lRHZCfmJ2+I12OxPv8P+1+npc72RNO3pF5rhKid5Udc84hE41hc2go1Fjcu6+soIwtfyJg34GXM40MhzyzC2pFJkbXKGYtOnmqoA5AU3aU7thcaO+uQCD+Rtwa4uT4LxoZsYuIf6yF2QmVzctXiwDjqIkmpobBCQrgqX36Dxn5eRr43dagK+f5ob//Al+PVph4XriLC93xAUp5Hbfk+cg1zZ87G9V/mii2KHLU5vv+3jMR7rmHsW08YjqpHfgpDbZusVfV8pnGO08iUyFzVqCGWD6OMTZH93E4BP7yL7Ys4v8Uc8YncUuY5rPY9rs098bvrsrZJSngqmuetvcg6OFIzdZvQZ4zLmYX33zf9eqs9rm0dE9ZLn4P5MzQhPWjeA+5JBDVe8v0f+Z6xn2dj/C5twvc3ydR9ucn8VlzzDdRmdUCJasNwLlOnOdSRflqHY66Mxf7laXles/9DpXKk4wKNsbrPz/XBss8t3mqIe4vDetL6F8wf+BrnszPO607a0R3RzyuRV86x6mtkTdbNGZU1NWwjPKXjSK5f2hW+p17wLvanR3xH7CvwVZX9Wm0Br6sj9RHwyUaUF5lLY2pUjS4wb7iO6YtYHNffJyM1E/LFVGnPv66mFkOlYz9bCubS7uu3vZ6b9gGjjXycI3appRyJbZhoOKo95rHy3v+QFLvw4IhcMAfj88dEdePV1Q/S0XDVk+zhgHNah7VcTO5TuWv1qDzF3jx8ZrJX+BEhGSkfT33jSf4k4236eEEsEWWJhdKNZdjl8b2/uvHzYzQ1JuSit3HuL+I6HwDfPoY5dCPeTyUlbzTfnFEd2sHxf8Z+76z0ocmX+8c4Bdqpbuf/xcwWUQj0D95Q4NpbMuenG5vrdqZ+wiGO1Imstzy/ls45PhuvT0odnvD6oQ1rTrZ1fo1SYKS5X1qnlbreUOAmU3fqdS+wJ5ZzfLROF9fZ/uwD4Dbu56P1UiljHZMSeZRyQLSXq9oI2fckmqfxMl5/6oZyymMwPwqNicacb+5LvOcK2D8d1/SQ+azQ+fN/aXO6EhhgOGpWntw/6oSsX7xlRmxa1Yr9bA1KEQ9MrmJO2C0mdsrNyvvtnau4DmkjPimin9D/nnTb5tdoC/T58rwvfhFyFPuM0vfBOJMpXvl79w0zeh973d/nBPEcUX91d+MHuoD6qdH5mqqb01D/EviPH4z3/zjPlVz+uPlfFbSjz8d1nuhJDvK/ca7bMm/X9K8tdM7hui8zfMmnKdTzj1xFO1VPv7J1X0qFtt43PqOZ88w4UcpVkxNiv6rH2KmWjCltB1wb8xK5XEUf1ogm5Plyg3ZyxpfsgPt1MuZ0r5TEUnWuUG107TvG/K83TL3U6RGe0vpe1Jf3MvVSxyWL11eGmDXYP5k7/vxO9g9auco6eL4xuYQ+BewfQJ8Gtp8kpe7LKs3YNTVOgT3/Vsb/3tNEz7/5eH8pbDv78Yj9rDT4/O2LeXdXWuSqXTHm12VkPVT73KoJ1gTlWuyZR174tYnc8UqA8XAue9NjXm/mif+jEnIw/U3kKdq9OQa7mlqQYb1P49A4ZifimDfTQR+Wlo4Xx5jPTdbfCevitH+9a3LI4+CPZR3iO3F+y+KcFk+KPJVKBfl9zY0px4X1XEZkmu/5d25K7Htx9f2VE+Sqmz3RJRiv8IaxdawWgzlQLXDukKuOjuQEEvsBh3jV61PDe8P8GebMbIvn8NoZsS+WU+dT+xRloyWw/RK/Pd/J7TWm8hS5i76f31ypbat1c1qrq6iORB3y60gMCe1j470g3q3Sc0TjqDbFeRyJa10b2zNpH/dEJ9Q4qnz/r/Yb2pwYI/WqH9SiKtTz79SM9LJZ029/MhVB+wb1h4HGtr4mXt+dsjogbQy0V0VrWFFmYJ2Lu6skVy1qbOvHYf8OPMd398sbU6JcoXWdqZddYGSbqN6nNvGjWdPPlzEslZ9K8wlon+8Q6UNAbvw7ubuCz48hIT56D799KXOJcB5PpUTvu9kvHJ+p9dY5NsxRPsjUfbm5idhP1qia6QtPlbPnX5yh9fI2yIhcdT3Gfcc21JCpB+i6mEleyuPbYtzVxVXgqnCPjqVwHq9nRMYqVw6Brqehxo7O/ojMkUzlsU9lTMwC/dPLehKnrHpyKcfpfz4z8NXqIc7iOXyakBr55a4rRq7RWlP7Yz8FnnqY9XpxP+5yRSds6ro13pj1htnHb2Nw0ZcF4qm07stlGTmWXNXFj1eMeqXAZ3RDfp/hKub9vZGWuiHtKf4zDNV5lsNYXJKQmuvh/OUjPYkrqjRXkZOo79H/tw1wsyMx6+WIT1CeomzEHGTGefpOEIcQ5ilyF/sjPo/jf0sHPFXue3QUzu2vkTrflO14LpOc8tnf+Z0PGTlzEn5vD/z+v4ADfLGxN3ft5Bna0yfguA8yki9TSKZijYVdcS3bZoI6UO2Rpwjy0dHAWlmJW/8sKTU/21pPtJYxxNijGJswOpEb2zgN7y2DMTq5CvaqUeZeMebzn+zRmC5fLBWv7TTTo4c1m9lvenCicZwnufuihNSqnZOufL1UvQfMKY/Wm+a9Y4+PUsdL8rsYg75jUnpl/dOX/GS+d3OR38H+7RsAe5oY9Xw8RbB3zW7MRUhXpudf3MFn80TMxS4Jka3Y+90r0xqoBQwxOsxWGI8eEX2H/vnxZlwqOW80x+Ak4OWU5Px9nS69rUplSl4/da0bvMC/kM+OzryjAeSEVG4f10qvJ/IRe+i9mBH+DOcZEnOTpblf/I7PgRXxO+8Bf6VPypfvbcqWrtB6FB2wHWzs5U3JVJOBzhmJk41rbFkl0WDvwLZXVuzr7+L1L4ar2iOHq72KNtNZETsufU/HeMGartTc4b2gXb0D7tGtzN1My/ulzCcfEuIaXhvlqawb5BxH49G5f7YvtRXC8VPVmjPqc/wkLXXxu0Xu23tZiZtr7T3jmLDGC+M204wb8SQn+XxHeKoYOVvr5ryVkpqfN2fy26mmGVvVnvjuRRNiT7dcJWCMTi9sRyZFD2ReWcd2zFWcFxtijuyeyOWqhh6mxlZRyVysKebZQf38Vvb8SEjOZilrpmseC31t45MSKx6WUfT6yVsPmnqfrJ1zix+sozjEUStnsQb4HhHOupH1ZxLCrS29d9TvtqeNDN+5Em3owHPAvW5xPgT1C7yD87rNF7kpXy2FW42sNTwjcVcne0E+jeUqWQs0ng42sQsXZaWGaD311CoWaldmPcO3Q705VPehr6vSMT28D+wduyApdahPLEGPoii4vlkL53xXeCoal8A1zzhyHNpwDGslaB/XuK4hxq72T+ba3/Va6NcsNq+Tx7Bv3+fAKfjfhbA9nrl+jsiixZwL+Zx+vFOAefi/NbP585MpU50DfIPjTgbW8ePxDIgTKFv9Adt9ksJXw9JSc6G92a3+pwM50kcoXBeGvHUvjtmwwjnutEsxfoi63/ppyS1YvQxcxesakRIbTzQeXe3oLyeFpzTuKq48peC9pGxCffXTRG6dP2IxEy/X3NiwFvHiWenr19cRe/d/WyCfaW/St7G9GPfvyjz5yRqjTpnrNvM/XWMwhnEDZavHMtKnhjb2w3EfTsiKnb09+QQ1HvkVUxs0rAPSP/81Pl+hgrZO7Xv2DebvYY7Uqkr4wl+lvOZx5po3yuZec3fDU7cDO+OYg/zA7hJ3ngpDdVzWdo32U2OPIspfF3u5OcH63OqGzxYFdsSx++H1jSmxURVTQ051N+bw0ZfX0cR3FqpPTL/g2LTEtNVafnIlwXWxEsZon5TIVqyFy35b7anugtqYaYt5IY+9ijpgp1Tl8me1Dgz7/N2elVp6rNNaSnlX9V72+n7Tyc1loYzFnO3PGMuUEk6rZTtvQ8yBJ/exe4SzPk9IXHw/P+A2xnxS518X76+M7ZL4bP1E4PdrzqartTspHy3si9zUnO/vbxjjra3vrygwP5a9ICZj/0DaUTPtx3alfkDqOXOcxjIGdcCvKshVBPnK9SUP8La02NVLHatArtrKxCWFbXTUgXs4QV2XerHx8hrIvZcmczlLr3lCQvJa7mJ8CG14OP574BM3qEVcrK2LY3sO9rc2NagK+f4YF3owtgd4Yktr731giwXtIZtT3sU9+5sn8ez12BMwCj4nNfds92yuvYq6w8ZVzPHXnh6l1P8IrR3FvohzncZc9bkv+uGwOtRJlLPYw2BwRI5mH56nwU1rYftnbL8BdkgWH/Op+TTs9/4a5s0x6cKxnyprLeLL8bVaw7la4LrohvF7ICE64c2mRm4929v1Oci4hLkRfYj9DPpkRT+sNXtNIeh64vW41PWcxjY66ksb1dE1F7rvlGXo/70zNAb92L8W/LQ0jpmRkd6kxYwBx1XrEzOWc3P8730F6lPRxv6IqU91kh//OupxBXW/YRjDBY7pxeXWtw1L7VWMabkw8pylz57z+OcK64DlhOb9k6+Yrz0gUlvCw+sxqcr7Pqt5/z83dvPLsoFuyLzQl7zia8JyXGmnYpzCw55w0qw89akmGzs785eX86U3Kbmq3uTXSoK94m8xPkLKWO9kpWdXPfoIyUNzUlJHPJwDN8jYXrvVEVcRqgM6bm5dqu5m/1JT37I9cJXGp2+G+b067vMD2G7kBPf/fRxzZ7L5enccJ/IU7fTvAY9k8scozDL2qwuBPuwxbP1/JQH9T8xF+9gTznoc93HfdHl7+lYDGms0OiJX8dm6kBPY1qt9nqWCylW00c2I1FphPiDrLGisfrXPtdxgTZdhrD+M7VnYvosxWCkd2C2L5SuN/WTPhxsy0ke5kO+P/QC7Ydznpmqr50Pcwboke3H8E+In3AX7V6VLb++tJvoYP/WISI5GVyNX/ZyKR4/AUkLz2YancnNrmJ+8TDLIu632eZYT5OKNcb3b4x7v6EjP5DddiU/fI9SDjXz1mS/xuYV4hXOIMainYjyfaSKfhrLWphnxOca9X08tgjb3yzG+o1zhK+qEXyRFR691nTAcs8Dey2FfNuco80/uj0k/01JfN+WEg9xc3+d84/vcsI59Uxp/wDj02bj+ldmDE6/nAcmkvM+5PTiUq8O58IQvPsQwX2mcwRbAhzjmMCM75YtT0Fir3mnp1WVt6uUBbevzMc5zEgFfLZwobT5tNaC2deo8y6Ybx4J2x3xdJFXZOk2VvG76OLcJxRtRrmR86K+J0vT6jiN4Taz1yX7Jd7NPPV6vTbusyaPRmEzKUXuE4vo5NjTzHe8E8VDq+/vdF5nqBsNJ+WxV5LBLsL3ID+TWehzfuGA2cKSJG2UvnFGp2q6BrGv2jpTEV2VC+hDjjpgTd6FfX7Z1QmMXtvaFq8L29TVciT+6zq+va9b7Pdpw8N64zqdZcxWvP8b+VW7wmR7LMRqYzNWTKXu+hjVwlfEfUz5ijvJNJp5qdp7cP+1X2jcjvj+tT1zt8ah3sI/mqWmpLToZr49I1bb9SnXATbK5OuAQE9etMQv1VjOHa3Eg5Qk/N66MMZHMo+uYqj97yhDj97sb8/cK3O8L8HrhrLz/nwL3mGPAPn0f+7nPMtr2WCP1auAjfLZ/prCdij1Ld8a4fuEFvr9qj0V7AfvhdPaEr5ZxJNe2VvNyyEPrpaS3ebTWHuNDX83Unw6oYM2BK9zcnnzka/bkeyVVfA2UWgH12vtwrQ6ucVvsb8g6EiaPpin+IIcxzoP62x4hOfR0/O8e+N/bU2KjKpRPw3iqDYC5meJr01i0HbRPrQE8gXFf0pX+zT3StWm70rh11hNgDd9oHW/W3xvt1CdXNdRp8kTfG+jm2qzoUxiYqB/dV/U5ctK9adH9tqMMmZDYgWJqEuv3sNbL4QnRCylbnQleXz+bvy+p5tOwN+lnqWC+VXs82gvIScynXT0tvsEeWekN1bFGuUp7/rLnQNgnNtjEG7FP+eg6tDPzehiX/Xaycd2UBruM27qamnGE6nh/B/6/vesHqSqKw+/e9+6772JDtjQITjbkYrVF0eBQgzkYQksSOrg0SDkEDTkEFQ1RQQRt5aAoOIqhQtGaEgji1uQQOAQNhpL6ff3Oj3e5vVu9W9znOd3hh/eBXO6555zv/v6d73uHMS1i7X4v1fW0monJlIt0Hev+Id7Re9YAq3IWuZFPRb0/6mhNVIraX56mugW0WczPKOb6Qkk4lmzkvlKsYo55IZFD5f6llidjwKnAzTXGPdcR1vmKdewrvmD333CWHyajL7NGLRqMNYIdwfWHWOzXzBh1zbBO+Am/e7APFlOw6kftD/YA/3c0+H+1SVthxKJZ2GO8/3uw2zyHXhVOZFvz6/pNDRtoOVGz87znbn1Z81HMyyV5Uj77P/cT2WrsTz8O+1ISrBouCy9VlnhMufTY93+OsV2a1rup/d2oCT/xzUpR+8vTiFWnYW3wf1/DljDfc6HUSWw93zxg/MGNBFc3Y8Ax2Atfxudi7UZ1FahNmtSFYF30T8/uHnZjL9U0eVAxx88xrqfkX88Y3xLfjuFea7iOPKnxpZ2nuUXOnUj89l5H3qUNxv3Mb8NVg1VnME9XMN/3TUxoYx0wzjswnzjLqznmed/N8xAcN/vxR6rCfZPUBOz0Je9scy5Y5zYEblwCbgzh+g5w5InppWr2XvSLGBe/qoj2zOovuBTI+zIEu16ta5MWWJWPjRk8Yg79kSf9Csue8LT3VezkuVKsmsS63fCkdh/PMZ8ysZCrWMX6+T7208kGnKjUnW4P7a4F8rmZO+/G/F7D33HjI+9k8Kn0XBLfWX9ZMCqNn2rK1P4mgFNtBT9xS4w4Rf69szXpWx/05ezN23/Ms5unae/6pC++RHy/9sBGfdmvLmIVx9RusGorEQP2GX29mcDefaa9n5sYy1fqukei756lrqvfq21gz90wPfZbMX7VS3IqxTRVi1xV/kYNqF6jLUgdHNWEavVzZTX6VszL7JocVdyvIhddVJY+QBexihj9sSZ8EpsxrNoyfbBdnt29i3zuE5i/N+Sixjgv4/rib/o+0+7D8zR7WPPfAsGiRj3qq8bXeobr7UB6sWyOoV2wA9MgS51AfgUA
+  </pixels>
+ </bmp-image>
+ <bmp-image index="1" seed="1">
+  <color rgb="127 0 0"/>
+  <pixels>
+   H4sIAAAAAAAAC+3DQQ0AAAwDoat/01OxHySsmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqvryABy3K8dAfgUA
+  </pixels>
+ </bmp-image>
+</map>
